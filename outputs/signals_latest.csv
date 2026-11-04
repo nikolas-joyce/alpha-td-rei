@@ -110,7 +110,6 @@ date,ticker,direction,alpha_name
 2015-03-03,USO,-1,alpha_td_rei
 2015-03-03,VNQ,-1,alpha_td_rei
 2015-03-03,XLE,-1,alpha_td_rei
-2015-03-03,XLF,1,alpha_td_rei
 2015-03-04,GLD,1,alpha_td_rei
 2015-03-04,IWM,1,alpha_td_rei
 2015-03-04,QQQ,1,alpha_td_rei
@@ -205,6 +204,7 @@ date,ticker,direction,alpha_name
 2015-03-26,TLT,1,alpha_td_rei
 2015-03-26,VNQ,-1,alpha_td_rei
 2015-03-27,GLD,1,alpha_td_rei
+2015-03-27,HYG,1,alpha_td_rei
 2015-03-27,QQQ,-1,alpha_td_rei
 2015-03-27,VNQ,-1,alpha_td_rei
 2015-03-30,GLD,1,alpha_td_rei
@@ -322,17 +322,20 @@ date,ticker,direction,alpha_name
 2015-04-23,QQQ,1,alpha_td_rei
 2015-04-23,TLT,1,alpha_td_rei
 2015-04-23,USO,1,alpha_td_rei
+2015-04-23,VNQ,-1,alpha_td_rei
 2015-04-23,XLE,-1,alpha_td_rei
 2015-04-24,EEM,1,alpha_td_rei
 2015-04-24,QQQ,1,alpha_td_rei
 2015-04-24,TLT,1,alpha_td_rei
 2015-04-24,USO,1,alpha_td_rei
+2015-04-24,VNQ,-1,alpha_td_rei
 2015-04-24,XLE,-1,alpha_td_rei
 2015-04-27,EEM,1,alpha_td_rei
 2015-04-27,QQQ,1,alpha_td_rei
 2015-04-27,TLT,1,alpha_td_rei
 2015-04-27,USO,-1,alpha_td_rei
 2015-04-27,UUP,-1,alpha_td_rei
+2015-04-27,VNQ,-1,alpha_td_rei
 2015-04-28,EEM,1,alpha_td_rei
 2015-04-28,QQQ,1,alpha_td_rei
 2015-04-28,USO,-1,alpha_td_rei
@@ -344,7 +347,6 @@ date,ticker,direction,alpha_name
 2015-04-29,TLT,1,alpha_td_rei
 2015-04-29,USO,-1,alpha_td_rei
 2015-04-29,UUP,-1,alpha_td_rei
-2015-04-29,VNQ,1,alpha_td_rei
 2015-04-29,XLE,-1,alpha_td_rei
 2015-04-29,XLF,-1,alpha_td_rei
 2015-04-30,EEM,1,alpha_td_rei
@@ -354,39 +356,38 @@ date,ticker,direction,alpha_name
 2015-04-30,TLT,1,alpha_td_rei
 2015-04-30,USO,1,alpha_td_rei
 2015-04-30,UUP,-1,alpha_td_rei
-2015-04-30,VNQ,1,alpha_td_rei
 2015-04-30,XLF,-1,alpha_td_rei
 2015-05-01,EEM,1,alpha_td_rei
+2015-05-01,HYG,-1,alpha_td_rei
 2015-05-01,QQQ,-1,alpha_td_rei
 2015-05-01,USO,1,alpha_td_rei
 2015-05-01,UUP,-1,alpha_td_rei
-2015-05-01,VNQ,1,alpha_td_rei
 2015-05-01,XLF,1,alpha_td_rei
 2015-05-04,EEM,1,alpha_td_rei
+2015-05-04,HYG,-1,alpha_td_rei
 2015-05-04,QQQ,-1,alpha_td_rei
 2015-05-04,USO,1,alpha_td_rei
 2015-05-04,UUP,-1,alpha_td_rei
-2015-05-04,VNQ,1,alpha_td_rei
 2015-05-04,XLF,1,alpha_td_rei
 2015-05-05,EEM,1,alpha_td_rei
+2015-05-05,HYG,-1,alpha_td_rei
 2015-05-05,QQQ,-1,alpha_td_rei
 2015-05-05,USO,1,alpha_td_rei
 2015-05-05,UUP,-1,alpha_td_rei
-2015-05-05,VNQ,1,alpha_td_rei
 2015-05-05,XLE,1,alpha_td_rei
 2015-05-05,XLF,1,alpha_td_rei
-2015-05-06,HYG,1,alpha_td_rei
+2015-05-06,HYG,-1,alpha_td_rei
 2015-05-06,QQQ,-1,alpha_td_rei
 2015-05-06,USO,1,alpha_td_rei
 2015-05-06,UUP,-1,alpha_td_rei
-2015-05-06,VNQ,1,alpha_td_rei
 2015-05-06,XLE,1,alpha_td_rei
 2015-05-06,XLF,1,alpha_td_rei
+2015-05-07,HYG,-1,alpha_td_rei
 2015-05-07,QQQ,-1,alpha_td_rei
 2015-05-07,USO,1,alpha_td_rei
-2015-05-07,VNQ,1,alpha_td_rei
 2015-05-07,XLE,1,alpha_td_rei
 2015-05-07,XLF,1,alpha_td_rei
+2015-05-08,HYG,-1,alpha_td_rei
 2015-05-08,QQQ,-1,alpha_td_rei
 2015-05-08,SPY,-1,alpha_td_rei
 2015-05-08,USO,1,alpha_td_rei
@@ -396,11 +397,11 @@ date,ticker,direction,alpha_name
 2015-05-08,XLF,-1,alpha_td_rei
 2015-05-11,EEM,1,alpha_td_rei
 2015-05-11,GLD,-1,alpha_td_rei
+2015-05-11,HYG,-1,alpha_td_rei
 2015-05-11,QQQ,-1,alpha_td_rei
 2015-05-11,SPY,-1,alpha_td_rei
 2015-05-11,USO,-1,alpha_td_rei
 2015-05-11,UUP,-1,alpha_td_rei
-2015-05-11,VNQ,1,alpha_td_rei
 2015-05-11,XLE,1,alpha_td_rei
 2015-05-11,XLF,-1,alpha_td_rei
 2015-05-12,EEM,1,alpha_td_rei
@@ -411,7 +412,6 @@ date,ticker,direction,alpha_name
 2015-05-12,SPY,-1,alpha_td_rei
 2015-05-12,USO,-1,alpha_td_rei
 2015-05-12,UUP,-1,alpha_td_rei
-2015-05-12,VNQ,1,alpha_td_rei
 2015-05-12,XLE,1,alpha_td_rei
 2015-05-12,XLF,-1,alpha_td_rei
 2015-05-13,EEM,1,alpha_td_rei
@@ -423,29 +423,28 @@ date,ticker,direction,alpha_name
 2015-05-13,SPY,-1,alpha_td_rei
 2015-05-13,USO,-1,alpha_td_rei
 2015-05-13,UUP,-1,alpha_td_rei
-2015-05-13,VNQ,1,alpha_td_rei
 2015-05-13,XLE,-1,alpha_td_rei
 2015-05-13,XLF,-1,alpha_td_rei
 2015-05-14,EEM,1,alpha_td_rei
 2015-05-14,GLD,1,alpha_td_rei
+2015-05-14,HYG,-1,alpha_td_rei
 2015-05-14,IWM,1,alpha_td_rei
 2015-05-14,QQQ,-1,alpha_td_rei
 2015-05-14,SLV,1,alpha_td_rei
 2015-05-14,SPY,-1,alpha_td_rei
 2015-05-14,USO,-1,alpha_td_rei
 2015-05-14,UUP,-1,alpha_td_rei
-2015-05-14,VNQ,1,alpha_td_rei
 2015-05-14,XLE,-1,alpha_td_rei
 2015-05-14,XLF,-1,alpha_td_rei
 2015-05-15,EEM,1,alpha_td_rei
 2015-05-15,GLD,-1,alpha_td_rei
+2015-05-15,HYG,-1,alpha_td_rei
 2015-05-15,IWM,1,alpha_td_rei
 2015-05-15,QQQ,-1,alpha_td_rei
 2015-05-15,SLV,1,alpha_td_rei
 2015-05-15,SPY,-1,alpha_td_rei
 2015-05-15,USO,-1,alpha_td_rei
 2015-05-15,UUP,-1,alpha_td_rei
-2015-05-15,VNQ,1,alpha_td_rei
 2015-05-15,XLE,-1,alpha_td_rei
 2015-05-15,XLF,-1,alpha_td_rei
 2015-05-18,EEM,1,alpha_td_rei
@@ -457,7 +456,6 @@ date,ticker,direction,alpha_name
 2015-05-18,SPY,-1,alpha_td_rei
 2015-05-18,USO,-1,alpha_td_rei
 2015-05-18,UUP,-1,alpha_td_rei
-2015-05-18,VNQ,1,alpha_td_rei
 2015-05-18,XLE,-1,alpha_td_rei
 2015-05-18,XLF,-1,alpha_td_rei
 2015-05-19,EEM,1,alpha_td_rei
@@ -466,7 +464,7 @@ date,ticker,direction,alpha_name
 2015-05-19,IWM,1,alpha_td_rei
 2015-05-19,QQQ,-1,alpha_td_rei
 2015-05-19,SLV,1,alpha_td_rei
-2015-05-19,SPY,-1,alpha_td_rei
+2015-05-19,SPY,1,alpha_td_rei
 2015-05-19,USO,-1,alpha_td_rei
 2015-05-19,UUP,-1,alpha_td_rei
 2015-05-19,VNQ,1,alpha_td_rei
@@ -486,6 +484,7 @@ date,ticker,direction,alpha_name
 2015-05-20,XLF,1,alpha_td_rei
 2015-05-21,EEM,1,alpha_td_rei
 2015-05-21,GLD,-1,alpha_td_rei
+2015-05-21,HYG,-1,alpha_td_rei
 2015-05-21,IWM,1,alpha_td_rei
 2015-05-21,QQQ,-1,alpha_td_rei
 2015-05-21,SPY,1,alpha_td_rei
@@ -495,6 +494,7 @@ date,ticker,direction,alpha_name
 2015-05-21,XLE,-1,alpha_td_rei
 2015-05-21,XLF,1,alpha_td_rei
 2015-05-22,GLD,-1,alpha_td_rei
+2015-05-22,HYG,-1,alpha_td_rei
 2015-05-22,IWM,1,alpha_td_rei
 2015-05-22,QQQ,-1,alpha_td_rei
 2015-05-22,SPY,-1,alpha_td_rei
@@ -505,9 +505,10 @@ date,ticker,direction,alpha_name
 2015-05-22,XLF,1,alpha_td_rei
 2015-05-26,EEM,1,alpha_td_rei
 2015-05-26,GLD,-1,alpha_td_rei
+2015-05-26,HYG,-1,alpha_td_rei
 2015-05-26,IWM,1,alpha_td_rei
 2015-05-26,QQQ,-1,alpha_td_rei
-2015-05-26,SPY,-1,alpha_td_rei
+2015-05-26,SPY,1,alpha_td_rei
 2015-05-26,USO,1,alpha_td_rei
 2015-05-26,UUP,-1,alpha_td_rei
 2015-05-26,VNQ,1,alpha_td_rei
@@ -518,7 +519,7 @@ date,ticker,direction,alpha_name
 2015-05-27,HYG,1,alpha_td_rei
 2015-05-27,IWM,1,alpha_td_rei
 2015-05-27,QQQ,-1,alpha_td_rei
-2015-05-27,SPY,-1,alpha_td_rei
+2015-05-27,SPY,1,alpha_td_rei
 2015-05-27,USO,1,alpha_td_rei
 2015-05-27,VNQ,1,alpha_td_rei
 2015-05-27,XLE,1,alpha_td_rei
@@ -533,6 +534,7 @@ date,ticker,direction,alpha_name
 2015-05-28,XLE,-1,alpha_td_rei
 2015-05-28,XLF,-1,alpha_td_rei
 2015-05-29,GLD,-1,alpha_td_rei
+2015-05-29,HYG,-1,alpha_td_rei
 2015-05-29,QQQ,1,alpha_td_rei
 2015-05-29,SPY,-1,alpha_td_rei
 2015-05-29,USO,1,alpha_td_rei
@@ -540,6 +542,7 @@ date,ticker,direction,alpha_name
 2015-05-29,XLE,-1,alpha_td_rei
 2015-05-29,XLF,-1,alpha_td_rei
 2015-06-01,GLD,-1,alpha_td_rei
+2015-06-01,HYG,-1,alpha_td_rei
 2015-06-01,QQQ,1,alpha_td_rei
 2015-06-01,SPY,-1,alpha_td_rei
 2015-06-01,USO,1,alpha_td_rei
@@ -547,6 +550,7 @@ date,ticker,direction,alpha_name
 2015-06-01,XLE,-1,alpha_td_rei
 2015-06-01,XLF,-1,alpha_td_rei
 2015-06-02,GLD,-1,alpha_td_rei
+2015-06-02,HYG,-1,alpha_td_rei
 2015-06-02,QQQ,-1,alpha_td_rei
 2015-06-02,SPY,-1,alpha_td_rei
 2015-06-02,TLT,1,alpha_td_rei
@@ -566,6 +570,7 @@ date,ticker,direction,alpha_name
 2015-06-03,XLF,-1,alpha_td_rei
 2015-06-04,EEM,1,alpha_td_rei
 2015-06-04,GLD,1,alpha_td_rei
+2015-06-04,HYG,-1,alpha_td_rei
 2015-06-04,QQQ,-1,alpha_td_rei
 2015-06-04,SPY,-1,alpha_td_rei
 2015-06-04,TLT,1,alpha_td_rei
@@ -574,6 +579,7 @@ date,ticker,direction,alpha_name
 2015-06-04,XLE,-1,alpha_td_rei
 2015-06-04,XLF,-1,alpha_td_rei
 2015-06-05,GLD,1,alpha_td_rei
+2015-06-05,HYG,-1,alpha_td_rei
 2015-06-05,IWM,1,alpha_td_rei
 2015-06-05,QQQ,-1,alpha_td_rei
 2015-06-05,SPY,-1,alpha_td_rei
@@ -582,6 +588,7 @@ date,ticker,direction,alpha_name
 2015-06-05,XLE,-1,alpha_td_rei
 2015-06-05,XLF,-1,alpha_td_rei
 2015-06-08,GLD,1,alpha_td_rei
+2015-06-08,HYG,-1,alpha_td_rei
 2015-06-08,IWM,1,alpha_td_rei
 2015-06-08,QQQ,1,alpha_td_rei
 2015-06-08,SPY,-1,alpha_td_rei
@@ -590,6 +597,7 @@ date,ticker,direction,alpha_name
 2015-06-08,XLE,-1,alpha_td_rei
 2015-06-08,XLF,1,alpha_td_rei
 2015-06-09,GLD,1,alpha_td_rei
+2015-06-09,HYG,-1,alpha_td_rei
 2015-06-09,IWM,1,alpha_td_rei
 2015-06-09,QQQ,1,alpha_td_rei
 2015-06-09,SPY,1,alpha_td_rei
@@ -598,6 +606,7 @@ date,ticker,direction,alpha_name
 2015-06-09,XLE,-1,alpha_td_rei
 2015-06-09,XLF,1,alpha_td_rei
 2015-06-10,GLD,1,alpha_td_rei
+2015-06-10,HYG,-1,alpha_td_rei
 2015-06-10,IWM,1,alpha_td_rei
 2015-06-10,QQQ,-1,alpha_td_rei
 2015-06-10,SPY,-1,alpha_td_rei
@@ -606,6 +615,7 @@ date,ticker,direction,alpha_name
 2015-06-10,XLE,-1,alpha_td_rei
 2015-06-10,XLF,1,alpha_td_rei
 2015-06-11,GLD,1,alpha_td_rei
+2015-06-11,HYG,-1,alpha_td_rei
 2015-06-11,IWM,1,alpha_td_rei
 2015-06-11,QQQ,-1,alpha_td_rei
 2015-06-11,SPY,1,alpha_td_rei
@@ -615,6 +625,7 @@ date,ticker,direction,alpha_name
 2015-06-11,XLF,1,alpha_td_rei
 2015-06-12,EEM,1,alpha_td_rei
 2015-06-12,GLD,1,alpha_td_rei
+2015-06-12,HYG,-1,alpha_td_rei
 2015-06-12,IWM,1,alpha_td_rei
 2015-06-12,QQQ,1,alpha_td_rei
 2015-06-12,SPY,1,alpha_td_rei
@@ -624,6 +635,7 @@ date,ticker,direction,alpha_name
 2015-06-12,XLF,1,alpha_td_rei
 2015-06-15,EEM,1,alpha_td_rei
 2015-06-15,GLD,1,alpha_td_rei
+2015-06-15,HYG,-1,alpha_td_rei
 2015-06-15,IWM,1,alpha_td_rei
 2015-06-15,QQQ,1,alpha_td_rei
 2015-06-15,SPY,1,alpha_td_rei
@@ -644,6 +656,7 @@ date,ticker,direction,alpha_name
 2015-06-16,XLE,-1,alpha_td_rei
 2015-06-16,XLF,-1,alpha_td_rei
 2015-06-17,GLD,1,alpha_td_rei
+2015-06-17,HYG,-1,alpha_td_rei
 2015-06-17,QQQ,-1,alpha_td_rei
 2015-06-17,SLV,1,alpha_td_rei
 2015-06-17,SPY,1,alpha_td_rei
@@ -653,6 +666,7 @@ date,ticker,direction,alpha_name
 2015-06-17,XLE,-1,alpha_td_rei
 2015-06-17,XLF,-1,alpha_td_rei
 2015-06-18,GLD,1,alpha_td_rei
+2015-06-18,HYG,-1,alpha_td_rei
 2015-06-18,IWM,1,alpha_td_rei
 2015-06-18,QQQ,1,alpha_td_rei
 2015-06-18,SLV,1,alpha_td_rei
@@ -766,6 +780,7 @@ date,ticker,direction,alpha_name
 2015-07-01,XLE,-1,alpha_td_rei
 2015-07-01,XLF,-1,alpha_td_rei
 2015-07-02,GLD,-1,alpha_td_rei
+2015-07-02,HYG,-1,alpha_td_rei
 2015-07-02,QQQ,-1,alpha_td_rei
 2015-07-02,SLV,-1,alpha_td_rei
 2015-07-02,SPY,-1,alpha_td_rei
@@ -775,6 +790,7 @@ date,ticker,direction,alpha_name
 2015-07-02,XLE,-1,alpha_td_rei
 2015-07-02,XLF,-1,alpha_td_rei
 2015-07-06,GLD,-1,alpha_td_rei
+2015-07-06,HYG,-1,alpha_td_rei
 2015-07-06,QQQ,-1,alpha_td_rei
 2015-07-06,SLV,-1,alpha_td_rei
 2015-07-06,SPY,-1,alpha_td_rei
@@ -784,6 +800,7 @@ date,ticker,direction,alpha_name
 2015-07-06,XLE,-1,alpha_td_rei
 2015-07-06,XLF,-1,alpha_td_rei
 2015-07-07,GLD,-1,alpha_td_rei
+2015-07-07,HYG,-1,alpha_td_rei
 2015-07-07,QQQ,-1,alpha_td_rei
 2015-07-07,SLV,1,alpha_td_rei
 2015-07-07,SPY,-1,alpha_td_rei
@@ -793,6 +810,7 @@ date,ticker,direction,alpha_name
 2015-07-07,XLE,-1,alpha_td_rei
 2015-07-07,XLF,-1,alpha_td_rei
 2015-07-08,GLD,-1,alpha_td_rei
+2015-07-08,HYG,-1,alpha_td_rei
 2015-07-08,QQQ,-1,alpha_td_rei
 2015-07-08,SLV,1,alpha_td_rei
 2015-07-08,SPY,-1,alpha_td_rei
@@ -802,6 +820,7 @@ date,ticker,direction,alpha_name
 2015-07-08,XLE,-1,alpha_td_rei
 2015-07-08,XLF,-1,alpha_td_rei
 2015-07-09,GLD,-1,alpha_td_rei
+2015-07-09,HYG,-1,alpha_td_rei
 2015-07-09,QQQ,-1,alpha_td_rei
 2015-07-09,SLV,1,alpha_td_rei
 2015-07-09,SPY,-1,alpha_td_rei
@@ -811,6 +830,7 @@ date,ticker,direction,alpha_name
 2015-07-09,XLE,-1,alpha_td_rei
 2015-07-09,XLF,-1,alpha_td_rei
 2015-07-10,GLD,-1,alpha_td_rei
+2015-07-10,HYG,-1,alpha_td_rei
 2015-07-10,QQQ,-1,alpha_td_rei
 2015-07-10,SLV,1,alpha_td_rei
 2015-07-10,SPY,-1,alpha_td_rei
@@ -820,6 +840,7 @@ date,ticker,direction,alpha_name
 2015-07-10,XLE,1,alpha_td_rei
 2015-07-10,XLF,-1,alpha_td_rei
 2015-07-13,GLD,-1,alpha_td_rei
+2015-07-13,HYG,-1,alpha_td_rei
 2015-07-13,IWM,1,alpha_td_rei
 2015-07-13,QQQ,-1,alpha_td_rei
 2015-07-13,SLV,1,alpha_td_rei
@@ -1077,7 +1098,7 @@ date,ticker,direction,alpha_name
 2015-08-12,UUP,-1,alpha_td_rei
 2015-08-12,VNQ,-1,alpha_td_rei
 2015-08-12,XLE,-1,alpha_td_rei
-2015-08-12,XLF,1,alpha_td_rei
+2015-08-12,XLF,-1,alpha_td_rei
 2015-08-13,EEM,1,alpha_td_rei
 2015-08-13,GLD,1,alpha_td_rei
 2015-08-13,HYG,1,alpha_td_rei
@@ -1089,7 +1110,7 @@ date,ticker,direction,alpha_name
 2015-08-13,UUP,-1,alpha_td_rei
 2015-08-13,VNQ,-1,alpha_td_rei
 2015-08-13,XLE,-1,alpha_td_rei
-2015-08-13,XLF,1,alpha_td_rei
+2015-08-13,XLF,-1,alpha_td_rei
 2015-08-14,GLD,1,alpha_td_rei
 2015-08-14,HYG,1,alpha_td_rei
 2015-08-14,QQQ,-1,alpha_td_rei
@@ -1128,6 +1149,7 @@ date,ticker,direction,alpha_name
 2015-08-19,XLE,1,alpha_td_rei
 2015-08-19,XLF,1,alpha_td_rei
 2015-08-20,GLD,1,alpha_td_rei
+2015-08-20,HYG,-1,alpha_td_rei
 2015-08-20,IWM,1,alpha_td_rei
 2015-08-20,SLV,-1,alpha_td_rei
 2015-08-20,SPY,1,alpha_td_rei
@@ -1137,6 +1159,7 @@ date,ticker,direction,alpha_name
 2015-08-20,XLE,1,alpha_td_rei
 2015-08-20,XLF,1,alpha_td_rei
 2015-08-21,GLD,1,alpha_td_rei
+2015-08-21,HYG,-1,alpha_td_rei
 2015-08-21,IWM,1,alpha_td_rei
 2015-08-21,SLV,1,alpha_td_rei
 2015-08-21,SPY,-1,alpha_td_rei
@@ -1145,6 +1168,7 @@ date,ticker,direction,alpha_name
 2015-08-21,XLE,1,alpha_td_rei
 2015-08-21,XLF,1,alpha_td_rei
 2015-08-24,GLD,1,alpha_td_rei
+2015-08-24,HYG,-1,alpha_td_rei
 2015-08-24,IWM,1,alpha_td_rei
 2015-08-24,SLV,1,alpha_td_rei
 2015-08-24,SPY,-1,alpha_td_rei
@@ -1153,6 +1177,7 @@ date,ticker,direction,alpha_name
 2015-08-24,XLE,-1,alpha_td_rei
 2015-08-24,XLF,1,alpha_td_rei
 2015-08-25,GLD,1,alpha_td_rei
+2015-08-25,HYG,-1,alpha_td_rei
 2015-08-25,IWM,1,alpha_td_rei
 2015-08-25,SLV,1,alpha_td_rei
 2015-08-25,SPY,-1,alpha_td_rei
@@ -1161,6 +1186,7 @@ date,ticker,direction,alpha_name
 2015-08-25,XLE,-1,alpha_td_rei
 2015-08-25,XLF,1,alpha_td_rei
 2015-08-26,GLD,1,alpha_td_rei
+2015-08-26,HYG,-1,alpha_td_rei
 2015-08-26,IWM,1,alpha_td_rei
 2015-08-26,SLV,1,alpha_td_rei
 2015-08-26,SPY,-1,alpha_td_rei
@@ -1169,6 +1195,7 @@ date,ticker,direction,alpha_name
 2015-08-26,XLE,-1,alpha_td_rei
 2015-08-26,XLF,1,alpha_td_rei
 2015-08-27,GLD,-1,alpha_td_rei
+2015-08-27,HYG,-1,alpha_td_rei
 2015-08-27,IWM,1,alpha_td_rei
 2015-08-27,SLV,1,alpha_td_rei
 2015-08-27,SPY,-1,alpha_td_rei
@@ -1331,6 +1358,7 @@ date,ticker,direction,alpha_name
 2015-09-17,XLE,1,alpha_td_rei
 2015-09-17,XLF,1,alpha_td_rei
 2015-09-18,EEM,1,alpha_td_rei
+2015-09-18,HYG,-1,alpha_td_rei
 2015-09-18,IWM,1,alpha_td_rei
 2015-09-18,QQQ,1,alpha_td_rei
 2015-09-18,SLV,1,alpha_td_rei
@@ -1341,6 +1369,7 @@ date,ticker,direction,alpha_name
 2015-09-18,XLE,1,alpha_td_rei
 2015-09-18,XLF,1,alpha_td_rei
 2015-09-21,EEM,1,alpha_td_rei
+2015-09-21,HYG,-1,alpha_td_rei
 2015-09-21,IWM,1,alpha_td_rei
 2015-09-21,QQQ,1,alpha_td_rei
 2015-09-21,SLV,1,alpha_td_rei
@@ -1351,6 +1380,7 @@ date,ticker,direction,alpha_name
 2015-09-21,XLE,1,alpha_td_rei
 2015-09-21,XLF,1,alpha_td_rei
 2015-09-22,EEM,1,alpha_td_rei
+2015-09-22,HYG,-1,alpha_td_rei
 2015-09-22,QQQ,1,alpha_td_rei
 2015-09-22,SLV,1,alpha_td_rei
 2015-09-22,SPY,-1,alpha_td_rei
@@ -1360,6 +1390,7 @@ date,ticker,direction,alpha_name
 2015-09-22,VNQ,-1,alpha_td_rei
 2015-09-22,XLE,1,alpha_td_rei
 2015-09-22,XLF,-1,alpha_td_rei
+2015-09-23,HYG,-1,alpha_td_rei
 2015-09-23,IWM,1,alpha_td_rei
 2015-09-23,QQQ,-1,alpha_td_rei
 2015-09-23,SLV,1,alpha_td_rei
@@ -1370,6 +1401,7 @@ date,ticker,direction,alpha_name
 2015-09-23,VNQ,1,alpha_td_rei
 2015-09-23,XLE,1,alpha_td_rei
 2015-09-23,XLF,-1,alpha_td_rei
+2015-09-24,HYG,-1,alpha_td_rei
 2015-09-24,IWM,1,alpha_td_rei
 2015-09-24,QQQ,1,alpha_td_rei
 2015-09-24,SLV,1,alpha_td_rei
@@ -1379,6 +1411,7 @@ date,ticker,direction,alpha_name
 2015-09-24,UUP,-1,alpha_td_rei
 2015-09-24,XLE,1,alpha_td_rei
 2015-09-24,XLF,-1,alpha_td_rei
+2015-09-25,HYG,-1,alpha_td_rei
 2015-09-25,IWM,1,alpha_td_rei
 2015-09-25,QQQ,1,alpha_td_rei
 2015-09-25,SLV,1,alpha_td_rei
@@ -1389,6 +1422,7 @@ date,ticker,direction,alpha_name
 2015-09-25,VNQ,-1,alpha_td_rei
 2015-09-25,XLE,1,alpha_td_rei
 2015-09-25,XLF,-1,alpha_td_rei
+2015-09-28,HYG,-1,alpha_td_rei
 2015-09-28,QQQ,-1,alpha_td_rei
 2015-09-28,SLV,1,alpha_td_rei
 2015-09-28,SPY,-1,alpha_td_rei
@@ -1399,6 +1433,7 @@ date,ticker,direction,alpha_name
 2015-09-28,XLE,1,alpha_td_rei
 2015-09-28,XLF,-1,alpha_td_rei
 2015-09-29,GLD,-1,alpha_td_rei
+2015-09-29,HYG,-1,alpha_td_rei
 2015-09-29,QQQ,-1,alpha_td_rei
 2015-09-29,SLV,1,alpha_td_rei
 2015-09-29,SPY,-1,alpha_td_rei
@@ -1535,6 +1570,7 @@ date,ticker,direction,alpha_name
 2015-10-15,XLE,-1,alpha_td_rei
 2015-10-15,XLF,-1,alpha_td_rei
 2015-10-16,EEM,1,alpha_td_rei
+2015-10-16,HYG,-1,alpha_td_rei
 2015-10-16,QQQ,-1,alpha_td_rei
 2015-10-16,SLV,1,alpha_td_rei
 2015-10-16,SPY,-1,alpha_td_rei
@@ -1635,6 +1671,7 @@ date,ticker,direction,alpha_name
 2015-10-28,XLE,-1,alpha_td_rei
 2015-10-28,XLF,1,alpha_td_rei
 2015-10-29,GLD,-1,alpha_td_rei
+2015-10-29,HYG,-1,alpha_td_rei
 2015-10-29,IWM,1,alpha_td_rei
 2015-10-29,SLV,-1,alpha_td_rei
 2015-10-29,SPY,1,alpha_td_rei
@@ -1644,6 +1681,7 @@ date,ticker,direction,alpha_name
 2015-10-29,VNQ,-1,alpha_td_rei
 2015-10-29,XLE,-1,alpha_td_rei
 2015-10-30,GLD,-1,alpha_td_rei
+2015-10-30,HYG,-1,alpha_td_rei
 2015-10-30,IWM,1,alpha_td_rei
 2015-10-30,SLV,-1,alpha_td_rei
 2015-10-30,SPY,1,alpha_td_rei
@@ -1653,6 +1691,7 @@ date,ticker,direction,alpha_name
 2015-10-30,VNQ,-1,alpha_td_rei
 2015-10-30,XLE,1,alpha_td_rei
 2015-11-02,GLD,-1,alpha_td_rei
+2015-11-02,HYG,-1,alpha_td_rei
 2015-11-02,SLV,1,alpha_td_rei
 2015-11-02,SPY,1,alpha_td_rei
 2015-11-02,TLT,1,alpha_td_rei
@@ -1660,8 +1699,8 @@ date,ticker,direction,alpha_name
 2015-11-02,VNQ,-1,alpha_td_rei
 2015-11-02,XLE,1,alpha_td_rei
 2015-11-02,XLF,-1,alpha_td_rei
-2015-11-03,EEM,1,alpha_td_rei
 2015-11-03,GLD,-1,alpha_td_rei
+2015-11-03,HYG,-1,alpha_td_rei
 2015-11-03,IWM,1,alpha_td_rei
 2015-11-03,SLV,1,alpha_td_rei
 2015-11-03,SPY,1,alpha_td_rei
@@ -1672,6 +1711,7 @@ date,ticker,direction,alpha_name
 2015-11-03,XLF,-1,alpha_td_rei
 2015-11-04,EEM,1,alpha_td_rei
 2015-11-04,GLD,-1,alpha_td_rei
+2015-11-04,HYG,-1,alpha_td_rei
 2015-11-04,IWM,1,alpha_td_rei
 2015-11-04,SLV,1,alpha_td_rei
 2015-11-04,SPY,1,alpha_td_rei
@@ -1831,6 +1871,7 @@ date,ticker,direction,alpha_name
 2015-11-30,SPY,1,alpha_td_rei
 2015-11-30,TLT,1,alpha_td_rei
 2015-11-30,USO,1,alpha_td_rei
+2015-11-30,UUP,1,alpha_td_rei
 2015-11-30,VNQ,1,alpha_td_rei
 2015-11-30,XLE,1,alpha_td_rei
 2015-11-30,XLF,1,alpha_td_rei
@@ -1842,6 +1883,7 @@ date,ticker,direction,alpha_name
 2015-12-01,SPY,1,alpha_td_rei
 2015-12-01,TLT,1,alpha_td_rei
 2015-12-01,USO,1,alpha_td_rei
+2015-12-01,UUP,1,alpha_td_rei
 2015-12-01,VNQ,1,alpha_td_rei
 2015-12-01,XLE,1,alpha_td_rei
 2015-12-01,XLF,1,alpha_td_rei
@@ -1860,6 +1902,7 @@ date,ticker,direction,alpha_name
 2015-12-03,SPY,1,alpha_td_rei
 2015-12-03,TLT,1,alpha_td_rei
 2015-12-03,USO,1,alpha_td_rei
+2015-12-03,UUP,1,alpha_td_rei
 2015-12-03,VNQ,1,alpha_td_rei
 2015-12-03,XLE,-1,alpha_td_rei
 2015-12-03,XLF,1,alpha_td_rei
@@ -2221,7 +2264,7 @@ date,ticker,direction,alpha_name
 2016-02-03,SPY,1,alpha_td_rei
 2016-02-03,TLT,-1,alpha_td_rei
 2016-02-03,USO,-1,alpha_td_rei
-2016-02-03,UUP,1,alpha_td_rei
+2016-02-03,UUP,-1,alpha_td_rei
 2016-02-03,VNQ,1,alpha_td_rei
 2016-02-03,XLE,1,alpha_td_rei
 2016-02-03,XLF,1,alpha_td_rei
@@ -2244,7 +2287,7 @@ date,ticker,direction,alpha_name
 2016-02-08,SPY,-1,alpha_td_rei
 2016-02-08,TLT,-1,alpha_td_rei
 2016-02-08,USO,-1,alpha_td_rei
-2016-02-08,UUP,1,alpha_td_rei
+2016-02-08,UUP,-1,alpha_td_rei
 2016-02-08,VNQ,-1,alpha_td_rei
 2016-02-08,XLE,-1,alpha_td_rei
 2016-02-09,HYG,-1,alpha_td_rei
@@ -2252,7 +2295,7 @@ date,ticker,direction,alpha_name
 2016-02-09,SPY,-1,alpha_td_rei
 2016-02-09,TLT,-1,alpha_td_rei
 2016-02-09,USO,-1,alpha_td_rei
-2016-02-09,UUP,1,alpha_td_rei
+2016-02-09,UUP,-1,alpha_td_rei
 2016-02-09,VNQ,-1,alpha_td_rei
 2016-02-09,XLE,-1,alpha_td_rei
 2016-02-10,HYG,-1,alpha_td_rei
@@ -2260,7 +2303,7 @@ date,ticker,direction,alpha_name
 2016-02-10,SPY,-1,alpha_td_rei
 2016-02-10,TLT,-1,alpha_td_rei
 2016-02-10,USO,-1,alpha_td_rei
-2016-02-10,UUP,1,alpha_td_rei
+2016-02-10,UUP,-1,alpha_td_rei
 2016-02-10,VNQ,1,alpha_td_rei
 2016-02-10,XLE,-1,alpha_td_rei
 2016-02-11,HYG,-1,alpha_td_rei
@@ -2283,7 +2326,6 @@ date,ticker,direction,alpha_name
 2016-02-16,TLT,-1,alpha_td_rei
 2016-02-16,USO,-1,alpha_td_rei
 2016-02-16,VNQ,-1,alpha_td_rei
-2016-02-17,EEM,1,alpha_td_rei
 2016-02-17,HYG,1,alpha_td_rei
 2016-02-17,SLV,-1,alpha_td_rei
 2016-02-17,SPY,1,alpha_td_rei
@@ -2293,7 +2335,6 @@ date,ticker,direction,alpha_name
 2016-02-17,VNQ,1,alpha_td_rei
 2016-02-17,XLE,1,alpha_td_rei
 2016-02-17,XLF,1,alpha_td_rei
-2016-02-18,EEM,1,alpha_td_rei
 2016-02-18,HYG,1,alpha_td_rei
 2016-02-18,SLV,-1,alpha_td_rei
 2016-02-18,SPY,1,alpha_td_rei
@@ -2303,7 +2344,6 @@ date,ticker,direction,alpha_name
 2016-02-18,VNQ,1,alpha_td_rei
 2016-02-18,XLE,1,alpha_td_rei
 2016-02-18,XLF,1,alpha_td_rei
-2016-02-19,EEM,1,alpha_td_rei
 2016-02-19,HYG,1,alpha_td_rei
 2016-02-19,SLV,-1,alpha_td_rei
 2016-02-19,SPY,1,alpha_td_rei
@@ -2313,7 +2353,6 @@ date,ticker,direction,alpha_name
 2016-02-19,VNQ,1,alpha_td_rei
 2016-02-19,XLE,1,alpha_td_rei
 2016-02-19,XLF,1,alpha_td_rei
-2016-02-22,EEM,1,alpha_td_rei
 2016-02-22,HYG,1,alpha_td_rei
 2016-02-22,SLV,-1,alpha_td_rei
 2016-02-22,SPY,1,alpha_td_rei
@@ -2333,7 +2372,6 @@ date,ticker,direction,alpha_name
 2016-02-23,VNQ,1,alpha_td_rei
 2016-02-23,XLE,1,alpha_td_rei
 2016-02-23,XLF,1,alpha_td_rei
-2016-02-24,EEM,1,alpha_td_rei
 2016-02-24,HYG,1,alpha_td_rei
 2016-02-24,SLV,-1,alpha_td_rei
 2016-02-24,TLT,-1,alpha_td_rei
@@ -2342,7 +2380,6 @@ date,ticker,direction,alpha_name
 2016-02-24,VNQ,1,alpha_td_rei
 2016-02-24,XLE,1,alpha_td_rei
 2016-02-24,XLF,1,alpha_td_rei
-2016-02-25,EEM,1,alpha_td_rei
 2016-02-25,HYG,1,alpha_td_rei
 2016-02-25,SLV,-1,alpha_td_rei
 2016-02-25,SPY,-1,alpha_td_rei
@@ -2418,7 +2455,7 @@ date,ticker,direction,alpha_name
 2016-03-09,EEM,1,alpha_td_rei
 2016-03-09,HYG,-1,alpha_td_rei
 2016-03-09,SLV,1,alpha_td_rei
-2016-03-09,SPY,1,alpha_td_rei
+2016-03-09,SPY,-1,alpha_td_rei
 2016-03-09,TLT,-1,alpha_td_rei
 2016-03-09,USO,1,alpha_td_rei
 2016-03-09,UUP,-1,alpha_td_rei
@@ -3223,7 +3260,7 @@ date,ticker,direction,alpha_name
 2016-07-19,HYG,1,alpha_td_rei
 2016-07-19,USO,1,alpha_td_rei
 2016-07-19,UUP,1,alpha_td_rei
-2016-07-19,VNQ,1,alpha_td_rei
+2016-07-19,VNQ,-1,alpha_td_rei
 2016-07-19,XLF,1,alpha_td_rei
 2016-07-20,EEM,1,alpha_td_rei
 2016-07-20,HYG,1,alpha_td_rei
@@ -3431,7 +3468,7 @@ date,ticker,direction,alpha_name
 2016-08-23,SPY,-1,alpha_td_rei
 2016-08-23,TLT,-1,alpha_td_rei
 2016-08-23,VNQ,-1,alpha_td_rei
-2016-08-23,XLE,-1,alpha_td_rei
+2016-08-23,XLE,1,alpha_td_rei
 2016-08-23,XLF,1,alpha_td_rei
 2016-08-24,EEM,-1,alpha_td_rei
 2016-08-24,IWM,1,alpha_td_rei
@@ -3439,14 +3476,14 @@ date,ticker,direction,alpha_name
 2016-08-24,SPY,-1,alpha_td_rei
 2016-08-24,TLT,-1,alpha_td_rei
 2016-08-24,VNQ,-1,alpha_td_rei
-2016-08-24,XLE,-1,alpha_td_rei
+2016-08-24,XLE,1,alpha_td_rei
 2016-08-24,XLF,1,alpha_td_rei
 2016-08-25,EEM,-1,alpha_td_rei
 2016-08-25,IWM,1,alpha_td_rei
 2016-08-25,SPY,-1,alpha_td_rei
 2016-08-25,TLT,-1,alpha_td_rei
 2016-08-25,VNQ,-1,alpha_td_rei
-2016-08-25,XLE,-1,alpha_td_rei
+2016-08-25,XLE,1,alpha_td_rei
 2016-08-25,XLF,1,alpha_td_rei
 2016-08-26,EEM,-1,alpha_td_rei
 2016-08-26,IWM,-1,alpha_td_rei
@@ -3464,7 +3501,7 @@ date,ticker,direction,alpha_name
 2016-08-29,VNQ,1,alpha_td_rei
 2016-08-29,XLE,-1,alpha_td_rei
 2016-08-29,XLF,1,alpha_td_rei
-2016-08-30,EEM,-1,alpha_td_rei
+2016-08-30,EEM,1,alpha_td_rei
 2016-08-30,IWM,1,alpha_td_rei
 2016-08-30,QQQ,-1,alpha_td_rei
 2016-08-30,SLV,1,alpha_td_rei
@@ -3473,7 +3510,7 @@ date,ticker,direction,alpha_name
 2016-08-30,VNQ,-1,alpha_td_rei
 2016-08-30,XLE,-1,alpha_td_rei
 2016-08-30,XLF,1,alpha_td_rei
-2016-08-31,EEM,-1,alpha_td_rei
+2016-08-31,EEM,1,alpha_td_rei
 2016-08-31,HYG,1,alpha_td_rei
 2016-08-31,IWM,1,alpha_td_rei
 2016-08-31,QQQ,-1,alpha_td_rei
@@ -3484,7 +3521,7 @@ date,ticker,direction,alpha_name
 2016-08-31,VNQ,1,alpha_td_rei
 2016-08-31,XLE,-1,alpha_td_rei
 2016-08-31,XLF,1,alpha_td_rei
-2016-09-01,EEM,-1,alpha_td_rei
+2016-09-01,EEM,1,alpha_td_rei
 2016-09-01,HYG,1,alpha_td_rei
 2016-09-01,IWM,-1,alpha_td_rei
 2016-09-01,QQQ,-1,alpha_td_rei
@@ -3495,7 +3532,7 @@ date,ticker,direction,alpha_name
 2016-09-01,VNQ,1,alpha_td_rei
 2016-09-01,XLE,-1,alpha_td_rei
 2016-09-01,XLF,1,alpha_td_rei
-2016-09-02,EEM,-1,alpha_td_rei
+2016-09-02,EEM,1,alpha_td_rei
 2016-09-02,HYG,1,alpha_td_rei
 2016-09-02,IWM,-1,alpha_td_rei
 2016-09-02,QQQ,-1,alpha_td_rei
@@ -3735,7 +3772,7 @@ date,ticker,direction,alpha_name
 2016-10-06,USO,-1,alpha_td_rei
 2016-10-06,VNQ,-1,alpha_td_rei
 2016-10-06,XLE,1,alpha_td_rei
-2016-10-06,XLF,1,alpha_td_rei
+2016-10-06,XLF,-1,alpha_td_rei
 2016-10-07,EEM,1,alpha_td_rei
 2016-10-07,HYG,1,alpha_td_rei
 2016-10-07,IWM,-1,alpha_td_rei
@@ -3777,7 +3814,7 @@ date,ticker,direction,alpha_name
 2016-10-13,USO,-1,alpha_td_rei
 2016-10-13,VNQ,-1,alpha_td_rei
 2016-10-13,XLE,1,alpha_td_rei
-2016-10-13,XLF,1,alpha_td_rei
+2016-10-13,XLF,-1,alpha_td_rei
 2016-10-14,EEM,-1,alpha_td_rei
 2016-10-14,GLD,1,alpha_td_rei
 2016-10-14,IWM,-1,alpha_td_rei
@@ -3786,7 +3823,7 @@ date,ticker,direction,alpha_name
 2016-10-14,USO,-1,alpha_td_rei
 2016-10-14,VNQ,1,alpha_td_rei
 2016-10-14,XLE,-1,alpha_td_rei
-2016-10-14,XLF,1,alpha_td_rei
+2016-10-14,XLF,-1,alpha_td_rei
 2016-10-17,EEM,-1,alpha_td_rei
 2016-10-17,GLD,1,alpha_td_rei
 2016-10-17,IWM,-1,alpha_td_rei
@@ -3816,6 +3853,7 @@ date,ticker,direction,alpha_name
 2016-10-20,EEM,1,alpha_td_rei
 2016-10-20,GLD,1,alpha_td_rei
 2016-10-20,IWM,1,alpha_td_rei
+2016-10-20,QQQ,1,alpha_td_rei
 2016-10-20,SPY,1,alpha_td_rei
 2016-10-20,USO,-1,alpha_td_rei
 2016-10-20,VNQ,1,alpha_td_rei
@@ -3824,6 +3862,7 @@ date,ticker,direction,alpha_name
 2016-10-21,EEM,1,alpha_td_rei
 2016-10-21,GLD,1,alpha_td_rei
 2016-10-21,IWM,1,alpha_td_rei
+2016-10-21,QQQ,1,alpha_td_rei
 2016-10-21,SPY,1,alpha_td_rei
 2016-10-21,USO,-1,alpha_td_rei
 2016-10-21,VNQ,1,alpha_td_rei
@@ -3832,6 +3871,7 @@ date,ticker,direction,alpha_name
 2016-10-24,EEM,1,alpha_td_rei
 2016-10-24,GLD,1,alpha_td_rei
 2016-10-24,IWM,1,alpha_td_rei
+2016-10-24,QQQ,1,alpha_td_rei
 2016-10-24,SPY,1,alpha_td_rei
 2016-10-24,USO,-1,alpha_td_rei
 2016-10-24,VNQ,1,alpha_td_rei
@@ -3840,6 +3880,7 @@ date,ticker,direction,alpha_name
 2016-10-25,EEM,1,alpha_td_rei
 2016-10-25,GLD,1,alpha_td_rei
 2016-10-25,IWM,1,alpha_td_rei
+2016-10-25,QQQ,1,alpha_td_rei
 2016-10-25,SPY,1,alpha_td_rei
 2016-10-25,USO,-1,alpha_td_rei
 2016-10-25,VNQ,1,alpha_td_rei
@@ -3849,6 +3890,7 @@ date,ticker,direction,alpha_name
 2016-10-26,GLD,1,alpha_td_rei
 2016-10-26,HYG,1,alpha_td_rei
 2016-10-26,IWM,1,alpha_td_rei
+2016-10-26,QQQ,1,alpha_td_rei
 2016-10-26,SPY,1,alpha_td_rei
 2016-10-26,USO,-1,alpha_td_rei
 2016-10-26,VNQ,1,alpha_td_rei
@@ -3857,6 +3899,7 @@ date,ticker,direction,alpha_name
 2016-10-27,EEM,1,alpha_td_rei
 2016-10-27,GLD,1,alpha_td_rei
 2016-10-27,IWM,-1,alpha_td_rei
+2016-10-27,QQQ,1,alpha_td_rei
 2016-10-27,SPY,1,alpha_td_rei
 2016-10-27,USO,-1,alpha_td_rei
 2016-10-27,VNQ,-1,alpha_td_rei
@@ -3926,6 +3969,7 @@ date,ticker,direction,alpha_name
 2016-11-09,EEM,1,alpha_td_rei
 2016-11-09,HYG,1,alpha_td_rei
 2016-11-09,IWM,1,alpha_td_rei
+2016-11-09,QQQ,1,alpha_td_rei
 2016-11-09,SPY,1,alpha_td_rei
 2016-11-09,VNQ,1,alpha_td_rei
 2016-11-09,XLE,1,alpha_td_rei
@@ -3933,6 +3977,7 @@ date,ticker,direction,alpha_name
 2016-11-10,EEM,1,alpha_td_rei
 2016-11-10,HYG,1,alpha_td_rei
 2016-11-10,IWM,1,alpha_td_rei
+2016-11-10,QQQ,1,alpha_td_rei
 2016-11-10,SPY,1,alpha_td_rei
 2016-11-10,USO,1,alpha_td_rei
 2016-11-10,VNQ,1,alpha_td_rei
@@ -3940,12 +3985,14 @@ date,ticker,direction,alpha_name
 2016-11-10,XLF,1,alpha_td_rei
 2016-11-11,EEM,1,alpha_td_rei
 2016-11-11,IWM,1,alpha_td_rei
+2016-11-11,QQQ,1,alpha_td_rei
 2016-11-11,SPY,1,alpha_td_rei
 2016-11-11,VNQ,-1,alpha_td_rei
 2016-11-11,XLE,1,alpha_td_rei
 2016-11-11,XLF,1,alpha_td_rei
 2016-11-14,EEM,1,alpha_td_rei
 2016-11-14,IWM,1,alpha_td_rei
+2016-11-14,QQQ,1,alpha_td_rei
 2016-11-14,SPY,1,alpha_td_rei
 2016-11-14,USO,-1,alpha_td_rei
 2016-11-14,VNQ,-1,alpha_td_rei
@@ -3953,6 +4000,7 @@ date,ticker,direction,alpha_name
 2016-11-14,XLF,1,alpha_td_rei
 2016-11-15,EEM,1,alpha_td_rei
 2016-11-15,IWM,1,alpha_td_rei
+2016-11-15,QQQ,1,alpha_td_rei
 2016-11-15,SPY,1,alpha_td_rei
 2016-11-15,USO,-1,alpha_td_rei
 2016-11-15,VNQ,-1,alpha_td_rei
@@ -3960,12 +4008,14 @@ date,ticker,direction,alpha_name
 2016-11-15,XLF,1,alpha_td_rei
 2016-11-16,EEM,1,alpha_td_rei
 2016-11-16,IWM,1,alpha_td_rei
+2016-11-16,QQQ,1,alpha_td_rei
 2016-11-16,SPY,1,alpha_td_rei
 2016-11-16,VNQ,1,alpha_td_rei
 2016-11-16,XLE,1,alpha_td_rei
 2016-11-16,XLF,1,alpha_td_rei
 2016-11-17,EEM,1,alpha_td_rei
 2016-11-17,IWM,1,alpha_td_rei
+2016-11-17,QQQ,1,alpha_td_rei
 2016-11-17,SPY,1,alpha_td_rei
 2016-11-17,VNQ,1,alpha_td_rei
 2016-11-17,XLE,1,alpha_td_rei
@@ -4532,7 +4582,7 @@ date,ticker,direction,alpha_name
 2017-02-21,UUP,-1,alpha_td_rei
 2017-02-21,VNQ,1,alpha_td_rei
 2017-02-21,XLE,1,alpha_td_rei
-2017-02-21,XLF,1,alpha_td_rei
+2017-02-21,XLF,-1,alpha_td_rei
 2017-02-22,HYG,1,alpha_td_rei
 2017-02-22,IWM,1,alpha_td_rei
 2017-02-22,SLV,1,alpha_td_rei
@@ -4570,6 +4620,7 @@ date,ticker,direction,alpha_name
 2017-02-27,VNQ,1,alpha_td_rei
 2017-02-27,XLE,-1,alpha_td_rei
 2017-02-27,XLF,-1,alpha_td_rei
+2017-02-28,EEM,-1,alpha_td_rei
 2017-02-28,HYG,1,alpha_td_rei
 2017-02-28,IWM,-1,alpha_td_rei
 2017-02-28,QQQ,-1,alpha_td_rei
@@ -4580,6 +4631,7 @@ date,ticker,direction,alpha_name
 2017-02-28,VNQ,1,alpha_td_rei
 2017-02-28,XLE,-1,alpha_td_rei
 2017-02-28,XLF,-1,alpha_td_rei
+2017-03-01,EEM,-1,alpha_td_rei
 2017-03-01,HYG,1,alpha_td_rei
 2017-03-01,IWM,-1,alpha_td_rei
 2017-03-01,QQQ,-1,alpha_td_rei
@@ -4590,6 +4642,7 @@ date,ticker,direction,alpha_name
 2017-03-01,VNQ,1,alpha_td_rei
 2017-03-01,XLE,-1,alpha_td_rei
 2017-03-01,XLF,-1,alpha_td_rei
+2017-03-02,EEM,-1,alpha_td_rei
 2017-03-02,HYG,1,alpha_td_rei
 2017-03-02,IWM,-1,alpha_td_rei
 2017-03-02,QQQ,-1,alpha_td_rei
@@ -4645,7 +4698,6 @@ date,ticker,direction,alpha_name
 2017-03-09,USO,1,alpha_td_rei
 2017-03-09,VNQ,-1,alpha_td_rei
 2017-03-09,XLE,1,alpha_td_rei
-2017-03-09,XLF,1,alpha_td_rei
 2017-03-10,EEM,1,alpha_td_rei
 2017-03-10,HYG,-1,alpha_td_rei
 2017-03-10,IWM,1,alpha_td_rei
@@ -4654,7 +4706,6 @@ date,ticker,direction,alpha_name
 2017-03-10,USO,1,alpha_td_rei
 2017-03-10,VNQ,-1,alpha_td_rei
 2017-03-10,XLE,1,alpha_td_rei
-2017-03-10,XLF,1,alpha_td_rei
 2017-03-13,EEM,1,alpha_td_rei
 2017-03-13,HYG,-1,alpha_td_rei
 2017-03-13,IWM,1,alpha_td_rei
@@ -4663,7 +4714,6 @@ date,ticker,direction,alpha_name
 2017-03-13,USO,1,alpha_td_rei
 2017-03-13,VNQ,-1,alpha_td_rei
 2017-03-13,XLE,1,alpha_td_rei
-2017-03-13,XLF,1,alpha_td_rei
 2017-03-14,EEM,1,alpha_td_rei
 2017-03-14,HYG,-1,alpha_td_rei
 2017-03-14,IWM,-1,alpha_td_rei
@@ -4672,7 +4722,6 @@ date,ticker,direction,alpha_name
 2017-03-14,UUP,-1,alpha_td_rei
 2017-03-14,VNQ,-1,alpha_td_rei
 2017-03-14,XLE,1,alpha_td_rei
-2017-03-14,XLF,1,alpha_td_rei
 2017-03-15,EEM,1,alpha_td_rei
 2017-03-15,HYG,-1,alpha_td_rei
 2017-03-15,IWM,-1,alpha_td_rei
@@ -4700,7 +4749,6 @@ date,ticker,direction,alpha_name
 2017-03-17,USO,1,alpha_td_rei
 2017-03-17,VNQ,1,alpha_td_rei
 2017-03-17,XLE,1,alpha_td_rei
-2017-03-17,XLF,1,alpha_td_rei
 2017-03-20,EEM,1,alpha_td_rei
 2017-03-20,HYG,1,alpha_td_rei
 2017-03-20,IWM,1,alpha_td_rei
@@ -4711,7 +4759,6 @@ date,ticker,direction,alpha_name
 2017-03-20,USO,1,alpha_td_rei
 2017-03-20,VNQ,1,alpha_td_rei
 2017-03-20,XLE,1,alpha_td_rei
-2017-03-20,XLF,1,alpha_td_rei
 2017-03-21,EEM,1,alpha_td_rei
 2017-03-21,HYG,1,alpha_td_rei
 2017-03-21,IWM,1,alpha_td_rei
@@ -4760,7 +4807,6 @@ date,ticker,direction,alpha_name
 2017-03-27,USO,1,alpha_td_rei
 2017-03-27,VNQ,1,alpha_td_rei
 2017-03-27,XLE,1,alpha_td_rei
-2017-03-27,XLF,1,alpha_td_rei
 2017-03-28,EEM,-1,alpha_td_rei
 2017-03-28,HYG,-1,alpha_td_rei
 2017-03-28,IWM,-1,alpha_td_rei
@@ -4768,7 +4814,6 @@ date,ticker,direction,alpha_name
 2017-03-28,USO,1,alpha_td_rei
 2017-03-28,VNQ,1,alpha_td_rei
 2017-03-28,XLE,1,alpha_td_rei
-2017-03-28,XLF,1,alpha_td_rei
 2017-03-29,EEM,-1,alpha_td_rei
 2017-03-29,HYG,-1,alpha_td_rei
 2017-03-29,IWM,-1,alpha_td_rei
@@ -4785,7 +4830,6 @@ date,ticker,direction,alpha_name
 2017-03-30,UUP,-1,alpha_td_rei
 2017-03-30,VNQ,-1,alpha_td_rei
 2017-03-30,XLE,-1,alpha_td_rei
-2017-03-30,XLF,1,alpha_td_rei
 2017-03-31,EEM,-1,alpha_td_rei
 2017-03-31,HYG,-1,alpha_td_rei
 2017-03-31,IWM,-1,alpha_td_rei
@@ -4794,7 +4838,6 @@ date,ticker,direction,alpha_name
 2017-03-31,UUP,-1,alpha_td_rei
 2017-03-31,VNQ,-1,alpha_td_rei
 2017-03-31,XLE,1,alpha_td_rei
-2017-03-31,XLF,1,alpha_td_rei
 2017-04-03,EEM,-1,alpha_td_rei
 2017-04-03,HYG,-1,alpha_td_rei
 2017-04-03,IWM,1,alpha_td_rei
@@ -4805,7 +4848,6 @@ date,ticker,direction,alpha_name
 2017-04-03,UUP,-1,alpha_td_rei
 2017-04-03,VNQ,1,alpha_td_rei
 2017-04-03,XLE,1,alpha_td_rei
-2017-04-03,XLF,1,alpha_td_rei
 2017-04-04,EEM,-1,alpha_td_rei
 2017-04-04,HYG,1,alpha_td_rei
 2017-04-04,IWM,1,alpha_td_rei
@@ -4816,7 +4858,6 @@ date,ticker,direction,alpha_name
 2017-04-04,UUP,-1,alpha_td_rei
 2017-04-04,VNQ,1,alpha_td_rei
 2017-04-04,XLE,1,alpha_td_rei
-2017-04-04,XLF,1,alpha_td_rei
 2017-04-05,EEM,-1,alpha_td_rei
 2017-04-05,HYG,1,alpha_td_rei
 2017-04-05,IWM,-1,alpha_td_rei
@@ -4827,7 +4868,6 @@ date,ticker,direction,alpha_name
 2017-04-05,UUP,-1,alpha_td_rei
 2017-04-05,VNQ,1,alpha_td_rei
 2017-04-05,XLE,1,alpha_td_rei
-2017-04-05,XLF,1,alpha_td_rei
 2017-04-06,EEM,1,alpha_td_rei
 2017-04-06,HYG,1,alpha_td_rei
 2017-04-06,IWM,-1,alpha_td_rei
@@ -4839,7 +4879,6 @@ date,ticker,direction,alpha_name
 2017-04-06,UUP,-1,alpha_td_rei
 2017-04-06,VNQ,1,alpha_td_rei
 2017-04-06,XLE,1,alpha_td_rei
-2017-04-06,XLF,1,alpha_td_rei
 2017-04-07,EEM,1,alpha_td_rei
 2017-04-07,HYG,1,alpha_td_rei
 2017-04-07,IWM,-1,alpha_td_rei
@@ -4851,14 +4890,12 @@ date,ticker,direction,alpha_name
 2017-04-07,UUP,-1,alpha_td_rei
 2017-04-07,VNQ,1,alpha_td_rei
 2017-04-07,XLE,1,alpha_td_rei
-2017-04-07,XLF,1,alpha_td_rei
 2017-04-10,EEM,-1,alpha_td_rei
 2017-04-10,HYG,1,alpha_td_rei
 2017-04-10,IWM,-1,alpha_td_rei
 2017-04-10,TLT,-1,alpha_td_rei
 2017-04-10,VNQ,1,alpha_td_rei
 2017-04-10,XLE,1,alpha_td_rei
-2017-04-10,XLF,1,alpha_td_rei
 2017-04-11,EEM,-1,alpha_td_rei
 2017-04-11,HYG,1,alpha_td_rei
 2017-04-11,IWM,-1,alpha_td_rei
@@ -4905,7 +4942,6 @@ date,ticker,direction,alpha_name
 2017-04-19,EEM,-1,alpha_td_rei
 2017-04-19,HYG,-1,alpha_td_rei
 2017-04-19,IWM,-1,alpha_td_rei
-2017-04-19,QQQ,-1,alpha_td_rei
 2017-04-19,SLV,1,alpha_td_rei
 2017-04-19,SPY,-1,alpha_td_rei
 2017-04-19,TLT,1,alpha_td_rei
@@ -4916,7 +4952,6 @@ date,ticker,direction,alpha_name
 2017-04-20,EEM,-1,alpha_td_rei
 2017-04-20,HYG,1,alpha_td_rei
 2017-04-20,IWM,1,alpha_td_rei
-2017-04-20,QQQ,-1,alpha_td_rei
 2017-04-20,SLV,1,alpha_td_rei
 2017-04-20,SPY,-1,alpha_td_rei
 2017-04-20,TLT,1,alpha_td_rei
@@ -5018,7 +5053,6 @@ date,ticker,direction,alpha_name
 2017-05-04,SPY,1,alpha_td_rei
 2017-05-04,TLT,-1,alpha_td_rei
 2017-05-04,USO,-1,alpha_td_rei
-2017-05-04,UUP,-1,alpha_td_rei
 2017-05-04,VNQ,-1,alpha_td_rei
 2017-05-04,XLE,-1,alpha_td_rei
 2017-05-04,XLF,-1,alpha_td_rei
@@ -5108,7 +5142,6 @@ date,ticker,direction,alpha_name
 2017-05-17,VNQ,1,alpha_td_rei
 2017-05-17,XLE,1,alpha_td_rei
 2017-05-18,HYG,1,alpha_td_rei
-2017-05-18,QQQ,-1,alpha_td_rei
 2017-05-18,SLV,1,alpha_td_rei
 2017-05-18,SPY,1,alpha_td_rei
 2017-05-18,TLT,1,alpha_td_rei
@@ -5462,7 +5495,7 @@ date,ticker,direction,alpha_name
 2017-07-18,TLT,1,alpha_td_rei
 2017-07-18,UUP,-1,alpha_td_rei
 2017-07-18,VNQ,1,alpha_td_rei
-2017-07-18,XLE,1,alpha_td_rei
+2017-07-18,XLE,-1,alpha_td_rei
 2017-07-18,XLF,-1,alpha_td_rei
 2017-07-19,HYG,-1,alpha_td_rei
 2017-07-19,IWM,1,alpha_td_rei
@@ -6084,7 +6117,6 @@ date,ticker,direction,alpha_name
 2017-10-30,UUP,-1,alpha_td_rei
 2017-10-30,VNQ,-1,alpha_td_rei
 2017-10-30,XLE,-1,alpha_td_rei
-2017-10-30,XLF,-1,alpha_td_rei
 2017-10-31,HYG,-1,alpha_td_rei
 2017-10-31,IWM,1,alpha_td_rei
 2017-10-31,QQQ,-1,alpha_td_rei
@@ -6199,7 +6231,7 @@ date,ticker,direction,alpha_name
 2017-11-15,SLV,-1,alpha_td_rei
 2017-11-15,SPY,-1,alpha_td_rei
 2017-11-15,USO,-1,alpha_td_rei
-2017-11-15,UUP,1,alpha_td_rei
+2017-11-15,UUP,-1,alpha_td_rei
 2017-11-15,XLE,-1,alpha_td_rei
 2017-11-15,XLF,-1,alpha_td_rei
 2017-11-16,EEM,-1,alpha_td_rei
@@ -6309,7 +6341,7 @@ date,ticker,direction,alpha_name
 2017-11-30,EEM,-1,alpha_td_rei
 2017-11-30,GLD,1,alpha_td_rei
 2017-11-30,HYG,-1,alpha_td_rei
-2017-11-30,QQQ,-1,alpha_td_rei
+2017-11-30,QQQ,1,alpha_td_rei
 2017-11-30,SLV,-1,alpha_td_rei
 2017-11-30,SPY,1,alpha_td_rei
 2017-11-30,TLT,1,alpha_td_rei
@@ -6409,7 +6441,7 @@ date,ticker,direction,alpha_name
 2017-12-12,TLT,1,alpha_td_rei
 2017-12-12,USO,-1,alpha_td_rei
 2017-12-12,UUP,1,alpha_td_rei
-2017-12-12,VNQ,1,alpha_td_rei
+2017-12-12,VNQ,-1,alpha_td_rei
 2017-12-12,XLE,-1,alpha_td_rei
 2017-12-12,XLF,-1,alpha_td_rei
 2017-12-13,GLD,-1,alpha_td_rei
@@ -6420,7 +6452,7 @@ date,ticker,direction,alpha_name
 2017-12-13,TLT,1,alpha_td_rei
 2017-12-13,USO,1,alpha_td_rei
 2017-12-13,UUP,1,alpha_td_rei
-2017-12-13,VNQ,1,alpha_td_rei
+2017-12-13,VNQ,-1,alpha_td_rei
 2017-12-13,XLE,1,alpha_td_rei
 2017-12-13,XLF,1,alpha_td_rei
 2017-12-14,HYG,1,alpha_td_rei
@@ -6451,7 +6483,7 @@ date,ticker,direction,alpha_name
 2017-12-18,SPY,1,alpha_td_rei
 2017-12-18,USO,-1,alpha_td_rei
 2017-12-18,UUP,-1,alpha_td_rei
-2017-12-18,VNQ,1,alpha_td_rei
+2017-12-18,VNQ,-1,alpha_td_rei
 2017-12-18,XLE,1,alpha_td_rei
 2017-12-18,XLF,-1,alpha_td_rei
 2017-12-19,GLD,1,alpha_td_rei
@@ -7002,7 +7034,7 @@ date,ticker,direction,alpha_name
 2018-03-12,SPY,-1,alpha_td_rei
 2018-03-12,USO,-1,alpha_td_rei
 2018-03-12,UUP,-1,alpha_td_rei
-2018-03-12,VNQ,-1,alpha_td_rei
+2018-03-12,VNQ,1,alpha_td_rei
 2018-03-12,XLE,-1,alpha_td_rei
 2018-03-13,EEM,1,alpha_td_rei
 2018-03-13,GLD,-1,alpha_td_rei
@@ -7557,7 +7589,7 @@ date,ticker,direction,alpha_name
 2018-05-23,SLV,-1,alpha_td_rei
 2018-05-23,TLT,1,alpha_td_rei
 2018-05-23,USO,1,alpha_td_rei
-2018-05-23,UUP,1,alpha_td_rei
+2018-05-23,UUP,-1,alpha_td_rei
 2018-05-23,VNQ,-1,alpha_td_rei
 2018-05-23,XLE,-1,alpha_td_rei
 2018-05-23,XLF,1,alpha_td_rei
@@ -7711,7 +7743,7 @@ date,ticker,direction,alpha_name
 2018-06-13,QQQ,1,alpha_td_rei
 2018-06-13,SLV,1,alpha_td_rei
 2018-06-13,USO,1,alpha_td_rei
-2018-06-13,UUP,1,alpha_td_rei
+2018-06-13,UUP,-1,alpha_td_rei
 2018-06-13,VNQ,1,alpha_td_rei
 2018-06-13,XLE,1,alpha_td_rei
 2018-06-13,XLF,-1,alpha_td_rei
@@ -7802,6 +7834,7 @@ date,ticker,direction,alpha_name
 2018-06-25,SPY,-1,alpha_td_rei
 2018-06-25,TLT,1,alpha_td_rei
 2018-06-25,USO,-1,alpha_td_rei
+2018-06-25,UUP,-1,alpha_td_rei
 2018-06-25,VNQ,-1,alpha_td_rei
 2018-06-25,XLE,1,alpha_td_rei
 2018-06-25,XLF,-1,alpha_td_rei
@@ -7812,6 +7845,7 @@ date,ticker,direction,alpha_name
 2018-06-26,SPY,-1,alpha_td_rei
 2018-06-26,TLT,1,alpha_td_rei
 2018-06-26,USO,-1,alpha_td_rei
+2018-06-26,UUP,-1,alpha_td_rei
 2018-06-26,VNQ,-1,alpha_td_rei
 2018-06-26,XLE,1,alpha_td_rei
 2018-06-26,XLF,-1,alpha_td_rei
@@ -7822,6 +7856,7 @@ date,ticker,direction,alpha_name
 2018-06-27,SPY,-1,alpha_td_rei
 2018-06-27,TLT,1,alpha_td_rei
 2018-06-27,USO,-1,alpha_td_rei
+2018-06-27,UUP,-1,alpha_td_rei
 2018-06-27,VNQ,1,alpha_td_rei
 2018-06-27,XLE,-1,alpha_td_rei
 2018-06-27,XLF,-1,alpha_td_rei
@@ -7854,6 +7889,7 @@ date,ticker,direction,alpha_name
 2018-07-02,SPY,-1,alpha_td_rei
 2018-07-02,TLT,1,alpha_td_rei
 2018-07-02,USO,1,alpha_td_rei
+2018-07-02,UUP,-1,alpha_td_rei
 2018-07-02,VNQ,1,alpha_td_rei
 2018-07-02,XLE,1,alpha_td_rei
 2018-07-03,HYG,-1,alpha_td_rei
@@ -7863,6 +7899,7 @@ date,ticker,direction,alpha_name
 2018-07-03,SPY,-1,alpha_td_rei
 2018-07-03,TLT,1,alpha_td_rei
 2018-07-03,USO,1,alpha_td_rei
+2018-07-03,UUP,-1,alpha_td_rei
 2018-07-03,VNQ,1,alpha_td_rei
 2018-07-03,XLE,1,alpha_td_rei
 2018-07-05,HYG,-1,alpha_td_rei
@@ -7871,7 +7908,7 @@ date,ticker,direction,alpha_name
 2018-07-05,SLV,-1,alpha_td_rei
 2018-07-05,SPY,-1,alpha_td_rei
 2018-07-05,TLT,1,alpha_td_rei
-2018-07-05,UUP,1,alpha_td_rei
+2018-07-05,UUP,-1,alpha_td_rei
 2018-07-05,VNQ,1,alpha_td_rei
 2018-07-05,XLE,1,alpha_td_rei
 2018-07-05,XLF,-1,alpha_td_rei
@@ -7912,6 +7949,7 @@ date,ticker,direction,alpha_name
 2018-07-11,QQQ,1,alpha_td_rei
 2018-07-11,SLV,1,alpha_td_rei
 2018-07-11,USO,1,alpha_td_rei
+2018-07-11,UUP,-1,alpha_td_rei
 2018-07-11,VNQ,1,alpha_td_rei
 2018-07-11,XLE,1,alpha_td_rei
 2018-07-12,GLD,-1,alpha_td_rei
@@ -7920,6 +7958,7 @@ date,ticker,direction,alpha_name
 2018-07-12,QQQ,1,alpha_td_rei
 2018-07-12,SLV,1,alpha_td_rei
 2018-07-12,USO,-1,alpha_td_rei
+2018-07-12,UUP,-1,alpha_td_rei
 2018-07-12,VNQ,1,alpha_td_rei
 2018-07-12,XLE,1,alpha_td_rei
 2018-07-13,GLD,-1,alpha_td_rei
@@ -7986,6 +8025,7 @@ date,ticker,direction,alpha_name
 2018-07-23,SLV,-1,alpha_td_rei
 2018-07-23,SPY,-1,alpha_td_rei
 2018-07-23,USO,-1,alpha_td_rei
+2018-07-23,UUP,-1,alpha_td_rei
 2018-07-23,VNQ,-1,alpha_td_rei
 2018-07-23,XLE,-1,alpha_td_rei
 2018-07-24,EEM,1,alpha_td_rei
@@ -7995,6 +8035,7 @@ date,ticker,direction,alpha_name
 2018-07-24,SLV,-1,alpha_td_rei
 2018-07-24,SPY,-1,alpha_td_rei
 2018-07-24,USO,1,alpha_td_rei
+2018-07-24,UUP,-1,alpha_td_rei
 2018-07-24,VNQ,-1,alpha_td_rei
 2018-07-24,XLE,-1,alpha_td_rei
 2018-07-25,EEM,1,alpha_td_rei
@@ -8077,7 +8118,7 @@ date,ticker,direction,alpha_name
 2018-08-03,QQQ,1,alpha_td_rei
 2018-08-03,SLV,-1,alpha_td_rei
 2018-08-03,USO,-1,alpha_td_rei
-2018-08-03,UUP,1,alpha_td_rei
+2018-08-03,UUP,-1,alpha_td_rei
 2018-08-03,VNQ,1,alpha_td_rei
 2018-08-03,XLE,1,alpha_td_rei
 2018-08-06,GLD,-1,alpha_td_rei
@@ -8086,7 +8127,7 @@ date,ticker,direction,alpha_name
 2018-08-06,SLV,-1,alpha_td_rei
 2018-08-06,TLT,1,alpha_td_rei
 2018-08-06,USO,-1,alpha_td_rei
-2018-08-06,UUP,1,alpha_td_rei
+2018-08-06,UUP,-1,alpha_td_rei
 2018-08-06,VNQ,1,alpha_td_rei
 2018-08-06,XLE,-1,alpha_td_rei
 2018-08-06,XLF,-1,alpha_td_rei
@@ -8096,7 +8137,7 @@ date,ticker,direction,alpha_name
 2018-08-07,SLV,-1,alpha_td_rei
 2018-08-07,TLT,1,alpha_td_rei
 2018-08-07,USO,-1,alpha_td_rei
-2018-08-07,UUP,1,alpha_td_rei
+2018-08-07,UUP,-1,alpha_td_rei
 2018-08-07,VNQ,1,alpha_td_rei
 2018-08-07,XLE,-1,alpha_td_rei
 2018-08-08,EEM,1,alpha_td_rei
@@ -8106,7 +8147,7 @@ date,ticker,direction,alpha_name
 2018-08-08,SLV,-1,alpha_td_rei
 2018-08-08,TLT,1,alpha_td_rei
 2018-08-08,USO,-1,alpha_td_rei
-2018-08-08,UUP,1,alpha_td_rei
+2018-08-08,UUP,-1,alpha_td_rei
 2018-08-08,VNQ,1,alpha_td_rei
 2018-08-08,XLE,-1,alpha_td_rei
 2018-08-09,EEM,1,alpha_td_rei
@@ -8484,7 +8525,7 @@ date,ticker,direction,alpha_name
 2018-09-28,VNQ,-1,alpha_td_rei
 2018-09-28,XLF,-1,alpha_td_rei
 2018-10-01,GLD,-1,alpha_td_rei
-2018-10-01,HYG,1,alpha_td_rei
+2018-10-01,HYG,-1,alpha_td_rei
 2018-10-01,IWM,-1,alpha_td_rei
 2018-10-01,QQQ,1,alpha_td_rei
 2018-10-01,SLV,-1,alpha_td_rei
@@ -8499,6 +8540,7 @@ date,ticker,direction,alpha_name
 2018-10-02,QQQ,1,alpha_td_rei
 2018-10-02,SLV,1,alpha_td_rei
 2018-10-02,TLT,1,alpha_td_rei
+2018-10-02,UUP,1,alpha_td_rei
 2018-10-02,XLE,1,alpha_td_rei
 2018-10-02,XLF,-1,alpha_td_rei
 2018-10-03,GLD,1,alpha_td_rei
@@ -8507,6 +8549,7 @@ date,ticker,direction,alpha_name
 2018-10-03,QQQ,1,alpha_td_rei
 2018-10-03,SLV,1,alpha_td_rei
 2018-10-03,TLT,1,alpha_td_rei
+2018-10-03,UUP,1,alpha_td_rei
 2018-10-03,XLE,1,alpha_td_rei
 2018-10-03,XLF,-1,alpha_td_rei
 2018-10-04,GLD,1,alpha_td_rei
@@ -8515,6 +8558,7 @@ date,ticker,direction,alpha_name
 2018-10-04,QQQ,-1,alpha_td_rei
 2018-10-04,SLV,1,alpha_td_rei
 2018-10-04,TLT,1,alpha_td_rei
+2018-10-04,UUP,1,alpha_td_rei
 2018-10-04,VNQ,-1,alpha_td_rei
 2018-10-04,XLE,1,alpha_td_rei
 2018-10-04,XLF,-1,alpha_td_rei
@@ -9104,7 +9148,6 @@ date,ticker,direction,alpha_name
 2019-01-16,QQQ,1,alpha_td_rei
 2019-01-16,SLV,-1,alpha_td_rei
 2019-01-16,SPY,1,alpha_td_rei
-2019-01-16,UUP,-1,alpha_td_rei
 2019-01-16,XLF,1,alpha_td_rei
 2019-01-17,GLD,1,alpha_td_rei
 2019-01-17,QQQ,1,alpha_td_rei
@@ -9534,7 +9577,7 @@ date,ticker,direction,alpha_name
 2019-03-19,USO,1,alpha_td_rei
 2019-03-19,UUP,-1,alpha_td_rei
 2019-03-19,VNQ,-1,alpha_td_rei
-2019-03-19,XLE,1,alpha_td_rei
+2019-03-19,XLE,-1,alpha_td_rei
 2019-03-19,XLF,1,alpha_td_rei
 2019-03-20,EEM,1,alpha_td_rei
 2019-03-20,GLD,1,alpha_td_rei
@@ -9674,7 +9717,6 @@ date,ticker,direction,alpha_name
 2019-04-05,SPY,1,alpha_td_rei
 2019-04-05,TLT,-1,alpha_td_rei
 2019-04-05,USO,1,alpha_td_rei
-2019-04-05,UUP,-1,alpha_td_rei
 2019-04-05,VNQ,1,alpha_td_rei
 2019-04-05,XLE,1,alpha_td_rei
 2019-04-05,XLF,1,alpha_td_rei
@@ -9685,7 +9727,6 @@ date,ticker,direction,alpha_name
 2019-04-08,SPY,1,alpha_td_rei
 2019-04-08,TLT,-1,alpha_td_rei
 2019-04-08,USO,1,alpha_td_rei
-2019-04-08,UUP,-1,alpha_td_rei
 2019-04-08,VNQ,1,alpha_td_rei
 2019-04-08,XLE,1,alpha_td_rei
 2019-04-08,XLF,1,alpha_td_rei
@@ -9763,7 +9804,6 @@ date,ticker,direction,alpha_name
 2019-04-18,SPY,1,alpha_td_rei
 2019-04-18,TLT,-1,alpha_td_rei
 2019-04-18,USO,-1,alpha_td_rei
-2019-04-18,UUP,-1,alpha_td_rei
 2019-04-18,VNQ,-1,alpha_td_rei
 2019-04-18,XLE,1,alpha_td_rei
 2019-04-18,XLF,-1,alpha_td_rei
@@ -9939,10 +9979,10 @@ date,ticker,direction,alpha_name
 2019-05-14,SPY,-1,alpha_td_rei
 2019-05-14,TLT,1,alpha_td_rei
 2019-05-14,USO,1,alpha_td_rei
+2019-05-14,UUP,-1,alpha_td_rei
 2019-05-14,VNQ,1,alpha_td_rei
 2019-05-14,XLE,-1,alpha_td_rei
 2019-05-14,XLF,-1,alpha_td_rei
-2019-05-15,EEM,1,alpha_td_rei
 2019-05-15,GLD,1,alpha_td_rei
 2019-05-15,QQQ,-1,alpha_td_rei
 2019-05-15,SPY,-1,alpha_td_rei
@@ -10515,7 +10555,6 @@ date,ticker,direction,alpha_name
 2019-08-06,VNQ,-1,alpha_td_rei
 2019-08-06,XLE,-1,alpha_td_rei
 2019-08-06,XLF,-1,alpha_td_rei
-2019-08-07,EEM,-1,alpha_td_rei
 2019-08-07,GLD,1,alpha_td_rei
 2019-08-07,HYG,-1,alpha_td_rei
 2019-08-07,IWM,1,alpha_td_rei
@@ -10614,6 +10653,7 @@ date,ticker,direction,alpha_name
 2019-08-22,UUP,1,alpha_td_rei
 2019-08-22,VNQ,-1,alpha_td_rei
 2019-08-22,XLF,-1,alpha_td_rei
+2019-08-23,EEM,-1,alpha_td_rei
 2019-08-23,HYG,1,alpha_td_rei
 2019-08-23,IWM,1,alpha_td_rei
 2019-08-23,SLV,-1,alpha_td_rei
@@ -10628,12 +10668,14 @@ date,ticker,direction,alpha_name
 2019-08-26,TLT,1,alpha_td_rei
 2019-08-26,UUP,-1,alpha_td_rei
 2019-08-26,VNQ,-1,alpha_td_rei
+2019-08-27,EEM,-1,alpha_td_rei
 2019-08-27,HYG,1,alpha_td_rei
 2019-08-27,IWM,1,alpha_td_rei
 2019-08-27,SLV,-1,alpha_td_rei
 2019-08-27,TLT,1,alpha_td_rei
 2019-08-27,UUP,-1,alpha_td_rei
 2019-08-27,VNQ,1,alpha_td_rei
+2019-08-28,EEM,-1,alpha_td_rei
 2019-08-28,HYG,1,alpha_td_rei
 2019-08-28,IWM,1,alpha_td_rei
 2019-08-28,SLV,-1,alpha_td_rei
@@ -10733,30 +10775,29 @@ date,ticker,direction,alpha_name
 2019-09-18,TLT,-1,alpha_td_rei
 2019-09-18,USO,1,alpha_td_rei
 2019-09-18,UUP,1,alpha_td_rei
-2019-09-19,EEM,-1,alpha_td_rei
 2019-09-19,GLD,1,alpha_td_rei
+2019-09-19,HYG,-1,alpha_td_rei
 2019-09-19,IWM,-1,alpha_td_rei
 2019-09-19,QQQ,-1,alpha_td_rei
 2019-09-19,SLV,-1,alpha_td_rei
 2019-09-19,SPY,-1,alpha_td_rei
 2019-09-19,TLT,1,alpha_td_rei
 2019-09-19,UUP,1,alpha_td_rei
-2019-09-20,EEM,-1,alpha_td_rei
 2019-09-20,GLD,1,alpha_td_rei
+2019-09-20,HYG,-1,alpha_td_rei
 2019-09-20,IWM,-1,alpha_td_rei
 2019-09-20,QQQ,-1,alpha_td_rei
 2019-09-20,SLV,-1,alpha_td_rei
 2019-09-20,TLT,1,alpha_td_rei
 2019-09-20,UUP,1,alpha_td_rei
-2019-09-23,EEM,-1,alpha_td_rei
 2019-09-23,GLD,1,alpha_td_rei
+2019-09-23,HYG,-1,alpha_td_rei
 2019-09-23,IWM,-1,alpha_td_rei
 2019-09-23,QQQ,-1,alpha_td_rei
 2019-09-23,SLV,-1,alpha_td_rei
 2019-09-23,TLT,1,alpha_td_rei
 2019-09-23,UUP,1,alpha_td_rei
 2019-09-23,VNQ,1,alpha_td_rei
-2019-09-24,EEM,-1,alpha_td_rei
 2019-09-24,GLD,1,alpha_td_rei
 2019-09-24,IWM,-1,alpha_td_rei
 2019-09-24,QQQ,-1,alpha_td_rei
@@ -10766,7 +10807,6 @@ date,ticker,direction,alpha_name
 2019-09-24,USO,1,alpha_td_rei
 2019-09-24,UUP,1,alpha_td_rei
 2019-09-24,VNQ,1,alpha_td_rei
-2019-09-25,EEM,-1,alpha_td_rei
 2019-09-25,GLD,1,alpha_td_rei
 2019-09-25,HYG,-1,alpha_td_rei
 2019-09-25,IWM,-1,alpha_td_rei
@@ -10776,7 +10816,6 @@ date,ticker,direction,alpha_name
 2019-09-25,TLT,1,alpha_td_rei
 2019-09-25,UUP,-1,alpha_td_rei
 2019-09-25,VNQ,1,alpha_td_rei
-2019-09-26,EEM,-1,alpha_td_rei
 2019-09-26,HYG,-1,alpha_td_rei
 2019-09-26,IWM,-1,alpha_td_rei
 2019-09-26,QQQ,-1,alpha_td_rei
@@ -10786,8 +10825,6 @@ date,ticker,direction,alpha_name
 2019-09-26,USO,1,alpha_td_rei
 2019-09-26,UUP,1,alpha_td_rei
 2019-09-26,VNQ,1,alpha_td_rei
-2019-09-26,XLF,-1,alpha_td_rei
-2019-09-27,EEM,-1,alpha_td_rei
 2019-09-27,HYG,-1,alpha_td_rei
 2019-09-27,IWM,-1,alpha_td_rei
 2019-09-27,QQQ,-1,alpha_td_rei
@@ -10797,8 +10834,6 @@ date,ticker,direction,alpha_name
 2019-09-27,USO,1,alpha_td_rei
 2019-09-27,UUP,1,alpha_td_rei
 2019-09-27,VNQ,1,alpha_td_rei
-2019-09-27,XLF,-1,alpha_td_rei
-2019-09-30,EEM,-1,alpha_td_rei
 2019-09-30,HYG,-1,alpha_td_rei
 2019-09-30,IWM,-1,alpha_td_rei
 2019-09-30,QQQ,-1,alpha_td_rei
@@ -10808,8 +10843,6 @@ date,ticker,direction,alpha_name
 2019-09-30,USO,-1,alpha_td_rei
 2019-09-30,UUP,1,alpha_td_rei
 2019-09-30,VNQ,1,alpha_td_rei
-2019-09-30,XLF,-1,alpha_td_rei
-2019-10-01,EEM,-1,alpha_td_rei
 2019-10-01,HYG,-1,alpha_td_rei
 2019-10-01,IWM,-1,alpha_td_rei
 2019-10-01,QQQ,-1,alpha_td_rei
@@ -10819,8 +10852,6 @@ date,ticker,direction,alpha_name
 2019-10-01,USO,-1,alpha_td_rei
 2019-10-01,UUP,1,alpha_td_rei
 2019-10-01,VNQ,1,alpha_td_rei
-2019-10-01,XLF,-1,alpha_td_rei
-2019-10-02,EEM,-1,alpha_td_rei
 2019-10-02,HYG,-1,alpha_td_rei
 2019-10-02,IWM,-1,alpha_td_rei
 2019-10-02,QQQ,-1,alpha_td_rei
@@ -10831,7 +10862,6 @@ date,ticker,direction,alpha_name
 2019-10-02,UUP,1,alpha_td_rei
 2019-10-02,VNQ,1,alpha_td_rei
 2019-10-02,XLF,-1,alpha_td_rei
-2019-10-03,EEM,-1,alpha_td_rei
 2019-10-03,HYG,-1,alpha_td_rei
 2019-10-03,IWM,-1,alpha_td_rei
 2019-10-03,QQQ,-1,alpha_td_rei
@@ -10841,7 +10871,6 @@ date,ticker,direction,alpha_name
 2019-10-03,USO,-1,alpha_td_rei
 2019-10-03,UUP,1,alpha_td_rei
 2019-10-03,XLF,-1,alpha_td_rei
-2019-10-04,EEM,-1,alpha_td_rei
 2019-10-04,GLD,1,alpha_td_rei
 2019-10-04,HYG,-1,alpha_td_rei
 2019-10-04,IWM,-1,alpha_td_rei
@@ -10917,7 +10946,6 @@ date,ticker,direction,alpha_name
 2019-10-16,UUP,-1,alpha_td_rei
 2019-10-16,VNQ,1,alpha_td_rei
 2019-10-16,XLF,-1,alpha_td_rei
-2019-10-17,EEM,-1,alpha_td_rei
 2019-10-17,HYG,-1,alpha_td_rei
 2019-10-17,IWM,1,alpha_td_rei
 2019-10-17,QQQ,1,alpha_td_rei
@@ -10927,7 +10955,6 @@ date,ticker,direction,alpha_name
 2019-10-17,UUP,1,alpha_td_rei
 2019-10-17,VNQ,1,alpha_td_rei
 2019-10-17,XLF,-1,alpha_td_rei
-2019-10-18,EEM,-1,alpha_td_rei
 2019-10-18,GLD,1,alpha_td_rei
 2019-10-18,HYG,-1,alpha_td_rei
 2019-10-18,IWM,1,alpha_td_rei
@@ -10936,6 +10963,7 @@ date,ticker,direction,alpha_name
 2019-10-18,SPY,-1,alpha_td_rei
 2019-10-18,USO,-1,alpha_td_rei
 2019-10-18,UUP,1,alpha_td_rei
+2019-10-18,VNQ,1,alpha_td_rei
 2019-10-18,XLF,-1,alpha_td_rei
 2019-10-21,GLD,1,alpha_td_rei
 2019-10-21,HYG,-1,alpha_td_rei
@@ -11002,7 +11030,6 @@ date,ticker,direction,alpha_name
 2019-10-31,TLT,1,alpha_td_rei
 2019-10-31,USO,-1,alpha_td_rei
 2019-10-31,UUP,1,alpha_td_rei
-2019-11-01,EEM,-1,alpha_td_rei
 2019-11-01,HYG,-1,alpha_td_rei
 2019-11-01,IWM,-1,alpha_td_rei
 2019-11-01,QQQ,1,alpha_td_rei
@@ -11012,7 +11039,6 @@ date,ticker,direction,alpha_name
 2019-11-01,UUP,-1,alpha_td_rei
 2019-11-01,VNQ,1,alpha_td_rei
 2019-11-01,XLF,-1,alpha_td_rei
-2019-11-04,EEM,-1,alpha_td_rei
 2019-11-04,GLD,1,alpha_td_rei
 2019-11-04,HYG,-1,alpha_td_rei
 2019-11-04,IWM,-1,alpha_td_rei
@@ -11023,7 +11049,6 @@ date,ticker,direction,alpha_name
 2019-11-04,UUP,-1,alpha_td_rei
 2019-11-04,VNQ,1,alpha_td_rei
 2019-11-04,XLF,-1,alpha_td_rei
-2019-11-05,EEM,-1,alpha_td_rei
 2019-11-05,GLD,1,alpha_td_rei
 2019-11-05,IWM,-1,alpha_td_rei
 2019-11-05,QQQ,1,alpha_td_rei
@@ -11032,14 +11057,12 @@ date,ticker,direction,alpha_name
 2019-11-05,USO,1,alpha_td_rei
 2019-11-05,UUP,-1,alpha_td_rei
 2019-11-05,XLF,-1,alpha_td_rei
-2019-11-06,EEM,-1,alpha_td_rei
 2019-11-06,IWM,-1,alpha_td_rei
 2019-11-06,QQQ,1,alpha_td_rei
 2019-11-06,SLV,-1,alpha_td_rei
 2019-11-06,USO,1,alpha_td_rei
 2019-11-06,UUP,1,alpha_td_rei
 2019-11-06,XLF,-1,alpha_td_rei
-2019-11-07,EEM,-1,alpha_td_rei
 2019-11-07,GLD,-1,alpha_td_rei
 2019-11-07,IWM,-1,alpha_td_rei
 2019-11-07,SLV,-1,alpha_td_rei
@@ -11047,7 +11070,6 @@ date,ticker,direction,alpha_name
 2019-11-07,UUP,1,alpha_td_rei
 2019-11-07,VNQ,1,alpha_td_rei
 2019-11-07,XLF,-1,alpha_td_rei
-2019-11-08,EEM,-1,alpha_td_rei
 2019-11-08,GLD,-1,alpha_td_rei
 2019-11-08,IWM,-1,alpha_td_rei
 2019-11-08,SLV,-1,alpha_td_rei
@@ -11055,7 +11077,6 @@ date,ticker,direction,alpha_name
 2019-11-08,UUP,1,alpha_td_rei
 2019-11-08,VNQ,1,alpha_td_rei
 2019-11-08,XLF,-1,alpha_td_rei
-2019-11-11,EEM,-1,alpha_td_rei
 2019-11-11,GLD,-1,alpha_td_rei
 2019-11-11,IWM,-1,alpha_td_rei
 2019-11-11,SLV,-1,alpha_td_rei
@@ -11063,7 +11084,6 @@ date,ticker,direction,alpha_name
 2019-11-11,UUP,1,alpha_td_rei
 2019-11-11,VNQ,1,alpha_td_rei
 2019-11-11,XLF,-1,alpha_td_rei
-2019-11-12,EEM,-1,alpha_td_rei
 2019-11-12,GLD,-1,alpha_td_rei
 2019-11-12,IWM,-1,alpha_td_rei
 2019-11-12,QQQ,-1,alpha_td_rei
@@ -11129,7 +11149,6 @@ date,ticker,direction,alpha_name
 2019-11-21,SPY,-1,alpha_td_rei
 2019-11-21,USO,1,alpha_td_rei
 2019-11-21,VNQ,1,alpha_td_rei
-2019-11-22,EEM,-1,alpha_td_rei
 2019-11-22,GLD,1,alpha_td_rei
 2019-11-22,HYG,-1,alpha_td_rei
 2019-11-22,IWM,-1,alpha_td_rei
@@ -11137,7 +11156,7 @@ date,ticker,direction,alpha_name
 2019-11-22,SLV,1,alpha_td_rei
 2019-11-22,SPY,-1,alpha_td_rei
 2019-11-22,USO,1,alpha_td_rei
-2019-11-25,EEM,-1,alpha_td_rei
+2019-11-22,UUP,1,alpha_td_rei
 2019-11-25,GLD,1,alpha_td_rei
 2019-11-25,HYG,-1,alpha_td_rei
 2019-11-25,IWM,-1,alpha_td_rei
@@ -11173,7 +11192,6 @@ date,ticker,direction,alpha_name
 2019-11-29,UUP,1,alpha_td_rei
 2019-11-29,XLE,1,alpha_td_rei
 2019-11-29,XLF,1,alpha_td_rei
-2019-12-02,EEM,-1,alpha_td_rei
 2019-12-02,GLD,-1,alpha_td_rei
 2019-12-02,IWM,-1,alpha_td_rei
 2019-12-02,QQQ,-1,alpha_td_rei
@@ -11183,7 +11201,6 @@ date,ticker,direction,alpha_name
 2019-12-02,UUP,1,alpha_td_rei
 2019-12-02,XLE,1,alpha_td_rei
 2019-12-02,XLF,1,alpha_td_rei
-2019-12-03,EEM,-1,alpha_td_rei
 2019-12-03,GLD,1,alpha_td_rei
 2019-12-03,IWM,-1,alpha_td_rei
 2019-12-03,QQQ,-1,alpha_td_rei
@@ -11192,9 +11209,7 @@ date,ticker,direction,alpha_name
 2019-12-03,USO,1,alpha_td_rei
 2019-12-03,XLE,1,alpha_td_rei
 2019-12-03,XLF,1,alpha_td_rei
-2019-12-04,EEM,-1,alpha_td_rei
 2019-12-04,GLD,1,alpha_td_rei
-2019-12-04,HYG,-1,alpha_td_rei
 2019-12-04,IWM,-1,alpha_td_rei
 2019-12-04,QQQ,-1,alpha_td_rei
 2019-12-04,SLV,-1,alpha_td_rei
@@ -11217,9 +11232,7 @@ date,ticker,direction,alpha_name
 2019-12-06,TLT,1,alpha_td_rei
 2019-12-06,USO,1,alpha_td_rei
 2019-12-06,XLF,1,alpha_td_rei
-2019-12-09,EEM,-1,alpha_td_rei
 2019-12-09,GLD,-1,alpha_td_rei
-2019-12-09,HYG,-1,alpha_td_rei
 2019-12-09,IWM,-1,alpha_td_rei
 2019-12-09,QQQ,1,alpha_td_rei
 2019-12-09,SLV,-1,alpha_td_rei
@@ -11227,9 +11240,7 @@ date,ticker,direction,alpha_name
 2019-12-09,USO,1,alpha_td_rei
 2019-12-09,VNQ,1,alpha_td_rei
 2019-12-09,XLF,1,alpha_td_rei
-2019-12-10,EEM,-1,alpha_td_rei
 2019-12-10,GLD,-1,alpha_td_rei
-2019-12-10,HYG,-1,alpha_td_rei
 2019-12-10,IWM,-1,alpha_td_rei
 2019-12-10,QQQ,1,alpha_td_rei
 2019-12-10,SLV,-1,alpha_td_rei
@@ -11237,9 +11248,7 @@ date,ticker,direction,alpha_name
 2019-12-10,USO,1,alpha_td_rei
 2019-12-10,XLE,1,alpha_td_rei
 2019-12-10,XLF,-1,alpha_td_rei
-2019-12-11,EEM,-1,alpha_td_rei
 2019-12-11,GLD,-1,alpha_td_rei
-2019-12-11,HYG,-1,alpha_td_rei
 2019-12-11,IWM,-1,alpha_td_rei
 2019-12-11,QQQ,1,alpha_td_rei
 2019-12-11,SLV,-1,alpha_td_rei
@@ -11247,7 +11256,6 @@ date,ticker,direction,alpha_name
 2019-12-11,XLE,1,alpha_td_rei
 2019-12-11,XLF,-1,alpha_td_rei
 2019-12-12,GLD,-1,alpha_td_rei
-2019-12-12,HYG,-1,alpha_td_rei
 2019-12-12,IWM,-1,alpha_td_rei
 2019-12-12,QQQ,1,alpha_td_rei
 2019-12-12,SLV,-1,alpha_td_rei
@@ -11276,6 +11284,7 @@ date,ticker,direction,alpha_name
 2019-12-17,QQQ,1,alpha_td_rei
 2019-12-17,SLV,1,alpha_td_rei
 2019-12-17,USO,1,alpha_td_rei
+2019-12-17,UUP,-1,alpha_td_rei
 2019-12-17,VNQ,-1,alpha_td_rei
 2019-12-17,XLE,1,alpha_td_rei
 2019-12-18,GLD,-1,alpha_td_rei
@@ -11283,6 +11292,7 @@ date,ticker,direction,alpha_name
 2019-12-18,QQQ,1,alpha_td_rei
 2019-12-18,SLV,1,alpha_td_rei
 2019-12-18,USO,1,alpha_td_rei
+2019-12-18,UUP,-1,alpha_td_rei
 2019-12-18,VNQ,-1,alpha_td_rei
 2019-12-18,XLE,1,alpha_td_rei
 2019-12-19,GLD,1,alpha_td_rei
@@ -11290,13 +11300,14 @@ date,ticker,direction,alpha_name
 2019-12-19,QQQ,1,alpha_td_rei
 2019-12-19,SLV,1,alpha_td_rei
 2019-12-19,USO,1,alpha_td_rei
+2019-12-19,UUP,-1,alpha_td_rei
 2019-12-19,VNQ,-1,alpha_td_rei
 2019-12-19,XLE,1,alpha_td_rei
 2019-12-20,GLD,1,alpha_td_rei
 2019-12-20,IWM,1,alpha_td_rei
 2019-12-20,SLV,1,alpha_td_rei
 2019-12-20,USO,1,alpha_td_rei
-2019-12-20,UUP,1,alpha_td_rei
+2019-12-20,UUP,-1,alpha_td_rei
 2019-12-20,VNQ,1,alpha_td_rei
 2019-12-20,XLF,-1,alpha_td_rei
 2019-12-23,GLD,1,alpha_td_rei
@@ -11384,7 +11395,6 @@ date,ticker,direction,alpha_name
 2020-01-07,VNQ,1,alpha_td_rei
 2020-01-07,XLE,1,alpha_td_rei
 2020-01-07,XLF,-1,alpha_td_rei
-2020-01-08,EEM,-1,alpha_td_rei
 2020-01-08,IWM,-1,alpha_td_rei
 2020-01-08,QQQ,-1,alpha_td_rei
 2020-01-08,SLV,1,alpha_td_rei
@@ -11447,6 +11457,7 @@ date,ticker,direction,alpha_name
 2020-01-16,SPY,-1,alpha_td_rei
 2020-01-16,TLT,-1,alpha_td_rei
 2020-01-16,USO,-1,alpha_td_rei
+2020-01-16,UUP,-1,alpha_td_rei
 2020-01-16,VNQ,1,alpha_td_rei
 2020-01-16,XLF,-1,alpha_td_rei
 2020-01-17,GLD,1,alpha_td_rei
@@ -11454,6 +11465,7 @@ date,ticker,direction,alpha_name
 2020-01-17,SLV,-1,alpha_td_rei
 2020-01-17,TLT,-1,alpha_td_rei
 2020-01-17,USO,-1,alpha_td_rei
+2020-01-17,UUP,-1,alpha_td_rei
 2020-01-17,VNQ,1,alpha_td_rei
 2020-01-17,XLE,-1,alpha_td_rei
 2020-01-17,XLF,1,alpha_td_rei
@@ -11462,6 +11474,7 @@ date,ticker,direction,alpha_name
 2020-01-21,SLV,-1,alpha_td_rei
 2020-01-21,TLT,-1,alpha_td_rei
 2020-01-21,USO,-1,alpha_td_rei
+2020-01-21,UUP,-1,alpha_td_rei
 2020-01-21,VNQ,1,alpha_td_rei
 2020-01-21,XLE,-1,alpha_td_rei
 2020-01-21,XLF,1,alpha_td_rei
@@ -11471,6 +11484,7 @@ date,ticker,direction,alpha_name
 2020-01-22,SLV,-1,alpha_td_rei
 2020-01-22,TLT,-1,alpha_td_rei
 2020-01-22,USO,1,alpha_td_rei
+2020-01-22,UUP,-1,alpha_td_rei
 2020-01-22,VNQ,1,alpha_td_rei
 2020-01-22,XLE,-1,alpha_td_rei
 2020-01-22,XLF,1,alpha_td_rei
@@ -11480,15 +11494,17 @@ date,ticker,direction,alpha_name
 2020-01-23,SLV,1,alpha_td_rei
 2020-01-23,TLT,-1,alpha_td_rei
 2020-01-23,USO,1,alpha_td_rei
+2020-01-23,UUP,-1,alpha_td_rei
 2020-01-23,VNQ,1,alpha_td_rei
 2020-01-23,XLE,-1,alpha_td_rei
-2020-01-23,XLF,1,alpha_td_rei
+2020-01-23,XLF,-1,alpha_td_rei
 2020-01-24,GLD,1,alpha_td_rei
 2020-01-24,HYG,-1,alpha_td_rei
 2020-01-24,IWM,-1,alpha_td_rei
 2020-01-24,SLV,1,alpha_td_rei
 2020-01-24,TLT,-1,alpha_td_rei
 2020-01-24,USO,1,alpha_td_rei
+2020-01-24,UUP,-1,alpha_td_rei
 2020-01-24,VNQ,1,alpha_td_rei
 2020-01-24,XLE,-1,alpha_td_rei
 2020-01-24,XLF,-1,alpha_td_rei
@@ -11500,6 +11516,7 @@ date,ticker,direction,alpha_name
 2020-01-27,SPY,-1,alpha_td_rei
 2020-01-27,TLT,-1,alpha_td_rei
 2020-01-27,USO,1,alpha_td_rei
+2020-01-27,UUP,-1,alpha_td_rei
 2020-01-27,XLE,-1,alpha_td_rei
 2020-01-27,XLF,-1,alpha_td_rei
 2020-01-28,GLD,1,alpha_td_rei
@@ -11510,6 +11527,7 @@ date,ticker,direction,alpha_name
 2020-01-28,SPY,-1,alpha_td_rei
 2020-01-28,TLT,-1,alpha_td_rei
 2020-01-28,USO,1,alpha_td_rei
+2020-01-28,UUP,-1,alpha_td_rei
 2020-01-28,VNQ,-1,alpha_td_rei
 2020-01-28,XLE,-1,alpha_td_rei
 2020-01-28,XLF,-1,alpha_td_rei
@@ -11526,6 +11544,7 @@ date,ticker,direction,alpha_name
 2020-01-29,XLE,1,alpha_td_rei
 2020-01-29,XLF,-1,alpha_td_rei
 2020-01-30,GLD,1,alpha_td_rei
+2020-01-30,HYG,-1,alpha_td_rei
 2020-01-30,IWM,-1,alpha_td_rei
 2020-01-30,QQQ,-1,alpha_td_rei
 2020-01-30,SLV,-1,alpha_td_rei
@@ -11536,8 +11555,9 @@ date,ticker,direction,alpha_name
 2020-01-30,VNQ,-1,alpha_td_rei
 2020-01-30,XLF,-1,alpha_td_rei
 2020-01-31,GLD,1,alpha_td_rei
+2020-01-31,HYG,-1,alpha_td_rei
 2020-01-31,IWM,-1,alpha_td_rei
-2020-01-31,QQQ,-1,alpha_td_rei
+2020-01-31,QQQ,1,alpha_td_rei
 2020-01-31,SLV,1,alpha_td_rei
 2020-01-31,SPY,-1,alpha_td_rei
 2020-01-31,USO,-1,alpha_td_rei
@@ -11545,20 +11565,25 @@ date,ticker,direction,alpha_name
 2020-01-31,VNQ,-1,alpha_td_rei
 2020-01-31,XLF,-1,alpha_td_rei
 2020-02-03,GLD,1,alpha_td_rei
+2020-02-03,HYG,-1,alpha_td_rei
 2020-02-03,IWM,-1,alpha_td_rei
 2020-02-03,QQQ,-1,alpha_td_rei
 2020-02-03,SLV,1,alpha_td_rei
 2020-02-03,SPY,-1,alpha_td_rei
+2020-02-03,UUP,-1,alpha_td_rei
 2020-02-03,VNQ,-1,alpha_td_rei
 2020-02-03,XLF,-1,alpha_td_rei
 2020-02-04,GLD,1,alpha_td_rei
+2020-02-04,HYG,-1,alpha_td_rei
 2020-02-04,IWM,-1,alpha_td_rei
 2020-02-04,QQQ,-1,alpha_td_rei
 2020-02-04,SLV,1,alpha_td_rei
 2020-02-04,SPY,-1,alpha_td_rei
+2020-02-04,UUP,-1,alpha_td_rei
 2020-02-04,VNQ,-1,alpha_td_rei
 2020-02-04,XLF,-1,alpha_td_rei
 2020-02-05,GLD,-1,alpha_td_rei
+2020-02-05,HYG,-1,alpha_td_rei
 2020-02-05,IWM,1,alpha_td_rei
 2020-02-05,QQQ,-1,alpha_td_rei
 2020-02-05,SLV,1,alpha_td_rei
@@ -11567,7 +11592,6 @@ date,ticker,direction,alpha_name
 2020-02-05,VNQ,-1,alpha_td_rei
 2020-02-05,XLF,-1,alpha_td_rei
 2020-02-06,GLD,-1,alpha_td_rei
-2020-02-06,HYG,1,alpha_td_rei
 2020-02-06,IWM,1,alpha_td_rei
 2020-02-06,QQQ,-1,alpha_td_rei
 2020-02-06,SLV,1,alpha_td_rei
@@ -11577,7 +11601,6 @@ date,ticker,direction,alpha_name
 2020-02-06,XLE,1,alpha_td_rei
 2020-02-06,XLF,-1,alpha_td_rei
 2020-02-07,GLD,-1,alpha_td_rei
-2020-02-07,HYG,1,alpha_td_rei
 2020-02-07,IWM,1,alpha_td_rei
 2020-02-07,QQQ,-1,alpha_td_rei
 2020-02-07,SLV,1,alpha_td_rei
@@ -11587,7 +11610,6 @@ date,ticker,direction,alpha_name
 2020-02-07,XLE,1,alpha_td_rei
 2020-02-07,XLF,-1,alpha_td_rei
 2020-02-10,GLD,-1,alpha_td_rei
-2020-02-10,HYG,1,alpha_td_rei
 2020-02-10,IWM,1,alpha_td_rei
 2020-02-10,QQQ,-1,alpha_td_rei
 2020-02-10,SLV,1,alpha_td_rei
@@ -11598,7 +11620,6 @@ date,ticker,direction,alpha_name
 2020-02-10,XLE,1,alpha_td_rei
 2020-02-10,XLF,-1,alpha_td_rei
 2020-02-11,GLD,1,alpha_td_rei
-2020-02-11,HYG,1,alpha_td_rei
 2020-02-11,IWM,1,alpha_td_rei
 2020-02-11,QQQ,-1,alpha_td_rei
 2020-02-11,SLV,1,alpha_td_rei
@@ -11608,7 +11629,6 @@ date,ticker,direction,alpha_name
 2020-02-11,XLE,1,alpha_td_rei
 2020-02-11,XLF,-1,alpha_td_rei
 2020-02-12,GLD,1,alpha_td_rei
-2020-02-12,HYG,1,alpha_td_rei
 2020-02-12,IWM,1,alpha_td_rei
 2020-02-12,QQQ,-1,alpha_td_rei
 2020-02-12,SLV,1,alpha_td_rei
@@ -11696,6 +11716,7 @@ date,ticker,direction,alpha_name
 2020-02-26,SPY,-1,alpha_td_rei
 2020-02-26,TLT,1,alpha_td_rei
 2020-02-26,USO,-1,alpha_td_rei
+2020-02-26,UUP,-1,alpha_td_rei
 2020-02-26,VNQ,-1,alpha_td_rei
 2020-02-26,XLE,1,alpha_td_rei
 2020-02-26,XLF,-1,alpha_td_rei
@@ -11706,6 +11727,7 @@ date,ticker,direction,alpha_name
 2020-02-27,SPY,-1,alpha_td_rei
 2020-02-27,TLT,1,alpha_td_rei
 2020-02-27,USO,-1,alpha_td_rei
+2020-02-27,UUP,-1,alpha_td_rei
 2020-02-27,VNQ,-1,alpha_td_rei
 2020-02-27,XLE,1,alpha_td_rei
 2020-02-27,XLF,-1,alpha_td_rei
@@ -11716,6 +11738,7 @@ date,ticker,direction,alpha_name
 2020-02-28,SPY,-1,alpha_td_rei
 2020-02-28,TLT,1,alpha_td_rei
 2020-02-28,USO,-1,alpha_td_rei
+2020-02-28,UUP,-1,alpha_td_rei
 2020-02-28,VNQ,-1,alpha_td_rei
 2020-02-28,XLE,1,alpha_td_rei
 2020-02-28,XLF,-1,alpha_td_rei
@@ -11725,6 +11748,7 @@ date,ticker,direction,alpha_name
 2020-03-02,SLV,-1,alpha_td_rei
 2020-03-02,SPY,-1,alpha_td_rei
 2020-03-02,USO,-1,alpha_td_rei
+2020-03-02,UUP,-1,alpha_td_rei
 2020-03-02,VNQ,-1,alpha_td_rei
 2020-03-02,XLE,1,alpha_td_rei
 2020-03-02,XLF,-1,alpha_td_rei
@@ -11734,6 +11758,7 @@ date,ticker,direction,alpha_name
 2020-03-03,SLV,-1,alpha_td_rei
 2020-03-03,SPY,-1,alpha_td_rei
 2020-03-03,USO,-1,alpha_td_rei
+2020-03-03,UUP,-1,alpha_td_rei
 2020-03-03,VNQ,-1,alpha_td_rei
 2020-03-03,XLE,1,alpha_td_rei
 2020-03-03,XLF,-1,alpha_td_rei
@@ -11743,6 +11768,7 @@ date,ticker,direction,alpha_name
 2020-03-04,QQQ,1,alpha_td_rei
 2020-03-04,SLV,-1,alpha_td_rei
 2020-03-04,USO,-1,alpha_td_rei
+2020-03-04,UUP,-1,alpha_td_rei
 2020-03-04,VNQ,-1,alpha_td_rei
 2020-03-04,XLF,-1,alpha_td_rei
 2020-03-05,GLD,1,alpha_td_rei
@@ -11750,6 +11776,7 @@ date,ticker,direction,alpha_name
 2020-03-05,QQQ,1,alpha_td_rei
 2020-03-05,SLV,-1,alpha_td_rei
 2020-03-05,USO,-1,alpha_td_rei
+2020-03-05,UUP,-1,alpha_td_rei
 2020-03-05,VNQ,-1,alpha_td_rei
 2020-03-06,GLD,1,alpha_td_rei
 2020-03-06,HYG,1,alpha_td_rei
@@ -11757,6 +11784,7 @@ date,ticker,direction,alpha_name
 2020-03-06,QQQ,1,alpha_td_rei
 2020-03-06,SLV,-1,alpha_td_rei
 2020-03-06,USO,-1,alpha_td_rei
+2020-03-06,UUP,-1,alpha_td_rei
 2020-03-06,VNQ,1,alpha_td_rei
 2020-03-06,XLE,-1,alpha_td_rei
 2020-03-09,GLD,1,alpha_td_rei
@@ -11869,6 +11897,7 @@ date,ticker,direction,alpha_name
 2020-03-26,SLV,1,alpha_td_rei
 2020-03-26,TLT,1,alpha_td_rei
 2020-03-26,USO,1,alpha_td_rei
+2020-03-26,UUP,-1,alpha_td_rei
 2020-03-26,VNQ,1,alpha_td_rei
 2020-03-26,XLE,1,alpha_td_rei
 2020-03-26,XLF,1,alpha_td_rei
@@ -11879,6 +11908,7 @@ date,ticker,direction,alpha_name
 2020-03-27,SLV,1,alpha_td_rei
 2020-03-27,TLT,1,alpha_td_rei
 2020-03-27,USO,1,alpha_td_rei
+2020-03-27,UUP,-1,alpha_td_rei
 2020-03-27,VNQ,1,alpha_td_rei
 2020-03-27,XLE,1,alpha_td_rei
 2020-03-27,XLF,1,alpha_td_rei
@@ -11889,6 +11919,7 @@ date,ticker,direction,alpha_name
 2020-03-30,SLV,1,alpha_td_rei
 2020-03-30,TLT,1,alpha_td_rei
 2020-03-30,USO,1,alpha_td_rei
+2020-03-30,UUP,-1,alpha_td_rei
 2020-03-30,VNQ,1,alpha_td_rei
 2020-03-30,XLE,1,alpha_td_rei
 2020-03-30,XLF,1,alpha_td_rei
@@ -11899,6 +11930,7 @@ date,ticker,direction,alpha_name
 2020-03-31,SLV,1,alpha_td_rei
 2020-03-31,TLT,1,alpha_td_rei
 2020-03-31,USO,1,alpha_td_rei
+2020-03-31,UUP,-1,alpha_td_rei
 2020-03-31,VNQ,1,alpha_td_rei
 2020-03-31,XLE,1,alpha_td_rei
 2020-03-31,XLF,1,alpha_td_rei
@@ -11909,6 +11941,7 @@ date,ticker,direction,alpha_name
 2020-04-01,SLV,1,alpha_td_rei
 2020-04-01,TLT,1,alpha_td_rei
 2020-04-01,USO,1,alpha_td_rei
+2020-04-01,UUP,-1,alpha_td_rei
 2020-04-01,VNQ,1,alpha_td_rei
 2020-04-01,XLE,1,alpha_td_rei
 2020-04-01,XLF,1,alpha_td_rei
@@ -11919,6 +11952,7 @@ date,ticker,direction,alpha_name
 2020-04-02,SLV,1,alpha_td_rei
 2020-04-02,TLT,1,alpha_td_rei
 2020-04-02,USO,1,alpha_td_rei
+2020-04-02,UUP,-1,alpha_td_rei
 2020-04-02,VNQ,1,alpha_td_rei
 2020-04-02,XLE,1,alpha_td_rei
 2020-04-02,XLF,1,alpha_td_rei
@@ -11929,6 +11963,7 @@ date,ticker,direction,alpha_name
 2020-04-03,SLV,1,alpha_td_rei
 2020-04-03,TLT,1,alpha_td_rei
 2020-04-03,USO,1,alpha_td_rei
+2020-04-03,UUP,-1,alpha_td_rei
 2020-04-03,VNQ,-1,alpha_td_rei
 2020-04-03,XLE,1,alpha_td_rei
 2020-04-03,XLF,1,alpha_td_rei
@@ -11939,6 +11974,7 @@ date,ticker,direction,alpha_name
 2020-04-06,SLV,1,alpha_td_rei
 2020-04-06,TLT,1,alpha_td_rei
 2020-04-06,USO,1,alpha_td_rei
+2020-04-06,UUP,-1,alpha_td_rei
 2020-04-06,VNQ,-1,alpha_td_rei
 2020-04-06,XLE,1,alpha_td_rei
 2020-04-06,XLF,1,alpha_td_rei
@@ -11957,6 +11993,7 @@ date,ticker,direction,alpha_name
 2020-04-08,SLV,1,alpha_td_rei
 2020-04-08,TLT,-1,alpha_td_rei
 2020-04-08,USO,1,alpha_td_rei
+2020-04-08,UUP,-1,alpha_td_rei
 2020-04-08,VNQ,1,alpha_td_rei
 2020-04-08,XLE,1,alpha_td_rei
 2020-04-08,XLF,1,alpha_td_rei
@@ -11966,6 +12003,7 @@ date,ticker,direction,alpha_name
 2020-04-09,SLV,1,alpha_td_rei
 2020-04-09,TLT,-1,alpha_td_rei
 2020-04-09,USO,1,alpha_td_rei
+2020-04-09,UUP,-1,alpha_td_rei
 2020-04-09,VNQ,1,alpha_td_rei
 2020-04-09,XLE,1,alpha_td_rei
 2020-04-09,XLF,1,alpha_td_rei
@@ -11975,6 +12013,7 @@ date,ticker,direction,alpha_name
 2020-04-13,SLV,1,alpha_td_rei
 2020-04-13,TLT,-1,alpha_td_rei
 2020-04-13,USO,1,alpha_td_rei
+2020-04-13,UUP,-1,alpha_td_rei
 2020-04-13,VNQ,1,alpha_td_rei
 2020-04-13,XLE,1,alpha_td_rei
 2020-04-13,XLF,1,alpha_td_rei
@@ -11984,6 +12023,7 @@ date,ticker,direction,alpha_name
 2020-04-14,SLV,1,alpha_td_rei
 2020-04-14,TLT,-1,alpha_td_rei
 2020-04-14,USO,1,alpha_td_rei
+2020-04-14,UUP,-1,alpha_td_rei
 2020-04-14,VNQ,1,alpha_td_rei
 2020-04-14,XLE,1,alpha_td_rei
 2020-04-14,XLF,1,alpha_td_rei
@@ -11992,6 +12032,7 @@ date,ticker,direction,alpha_name
 2020-04-15,SLV,1,alpha_td_rei
 2020-04-15,TLT,-1,alpha_td_rei
 2020-04-15,USO,1,alpha_td_rei
+2020-04-15,UUP,-1,alpha_td_rei
 2020-04-15,VNQ,1,alpha_td_rei
 2020-04-15,XLE,1,alpha_td_rei
 2020-04-15,XLF,1,alpha_td_rei
@@ -12001,6 +12042,8 @@ date,ticker,direction,alpha_name
 2020-04-16,SLV,1,alpha_td_rei
 2020-04-16,TLT,-1,alpha_td_rei
 2020-04-16,USO,1,alpha_td_rei
+2020-04-16,UUP,-1,alpha_td_rei
+2020-04-16,VNQ,1,alpha_td_rei
 2020-04-16,XLE,-1,alpha_td_rei
 2020-04-16,XLF,1,alpha_td_rei
 2020-04-17,HYG,1,alpha_td_rei
@@ -12008,6 +12051,7 @@ date,ticker,direction,alpha_name
 2020-04-17,TLT,-1,alpha_td_rei
 2020-04-17,USO,1,alpha_td_rei
 2020-04-17,UUP,1,alpha_td_rei
+2020-04-17,VNQ,1,alpha_td_rei
 2020-04-17,XLE,-1,alpha_td_rei
 2020-04-17,XLF,1,alpha_td_rei
 2020-04-20,GLD,-1,alpha_td_rei
@@ -12017,6 +12061,7 @@ date,ticker,direction,alpha_name
 2020-04-20,TLT,-1,alpha_td_rei
 2020-04-20,USO,1,alpha_td_rei
 2020-04-20,UUP,1,alpha_td_rei
+2020-04-20,VNQ,1,alpha_td_rei
 2020-04-20,XLE,-1,alpha_td_rei
 2020-04-21,GLD,-1,alpha_td_rei
 2020-04-21,IWM,-1,alpha_td_rei
@@ -12069,12 +12114,12 @@ date,ticker,direction,alpha_name
 2020-04-28,VNQ,-1,alpha_td_rei
 2020-04-28,XLE,1,alpha_td_rei
 2020-04-29,GLD,-1,alpha_td_rei
-2020-04-29,HYG,1,alpha_td_rei
 2020-04-29,IWM,1,alpha_td_rei
 2020-04-29,QQQ,-1,alpha_td_rei
 2020-04-29,SLV,1,alpha_td_rei
 2020-04-29,SPY,-1,alpha_td_rei
 2020-04-29,TLT,-1,alpha_td_rei
+2020-04-29,UUP,-1,alpha_td_rei
 2020-04-29,XLE,1,alpha_td_rei
 2020-04-29,XLF,1,alpha_td_rei
 2020-04-30,GLD,1,alpha_td_rei
@@ -12084,6 +12129,7 @@ date,ticker,direction,alpha_name
 2020-04-30,SLV,1,alpha_td_rei
 2020-04-30,SPY,-1,alpha_td_rei
 2020-04-30,TLT,-1,alpha_td_rei
+2020-04-30,UUP,-1,alpha_td_rei
 2020-04-30,XLE,1,alpha_td_rei
 2020-04-30,XLF,1,alpha_td_rei
 2020-05-01,GLD,1,alpha_td_rei
@@ -12093,6 +12139,7 @@ date,ticker,direction,alpha_name
 2020-05-01,SLV,1,alpha_td_rei
 2020-05-01,SPY,-1,alpha_td_rei
 2020-05-01,TLT,-1,alpha_td_rei
+2020-05-01,UUP,-1,alpha_td_rei
 2020-05-01,XLE,-1,alpha_td_rei
 2020-05-01,XLF,1,alpha_td_rei
 2020-05-04,GLD,1,alpha_td_rei
@@ -12100,6 +12147,7 @@ date,ticker,direction,alpha_name
 2020-05-04,IWM,-1,alpha_td_rei
 2020-05-04,SLV,1,alpha_td_rei
 2020-05-04,TLT,-1,alpha_td_rei
+2020-05-04,UUP,-1,alpha_td_rei
 2020-05-04,VNQ,-1,alpha_td_rei
 2020-05-04,XLE,-1,alpha_td_rei
 2020-05-04,XLF,1,alpha_td_rei
@@ -12109,6 +12157,7 @@ date,ticker,direction,alpha_name
 2020-05-05,SLV,1,alpha_td_rei
 2020-05-05,TLT,-1,alpha_td_rei
 2020-05-05,USO,1,alpha_td_rei
+2020-05-05,UUP,-1,alpha_td_rei
 2020-05-05,VNQ,-1,alpha_td_rei
 2020-05-05,XLE,-1,alpha_td_rei
 2020-05-05,XLF,1,alpha_td_rei
@@ -12231,6 +12280,7 @@ date,ticker,direction,alpha_name
 2020-05-26,HYG,1,alpha_td_rei
 2020-05-26,IWM,1,alpha_td_rei
 2020-05-26,TLT,-1,alpha_td_rei
+2020-05-26,UUP,-1,alpha_td_rei
 2020-05-26,XLE,1,alpha_td_rei
 2020-05-26,XLF,1,alpha_td_rei
 2020-05-27,HYG,1,alpha_td_rei
@@ -12238,6 +12288,7 @@ date,ticker,direction,alpha_name
 2020-05-27,SLV,1,alpha_td_rei
 2020-05-27,SPY,1,alpha_td_rei
 2020-05-27,TLT,-1,alpha_td_rei
+2020-05-27,UUP,-1,alpha_td_rei
 2020-05-27,XLE,1,alpha_td_rei
 2020-05-27,XLF,1,alpha_td_rei
 2020-05-28,HYG,1,alpha_td_rei
@@ -12246,6 +12297,7 @@ date,ticker,direction,alpha_name
 2020-05-28,SLV,1,alpha_td_rei
 2020-05-28,SPY,1,alpha_td_rei
 2020-05-28,TLT,-1,alpha_td_rei
+2020-05-28,UUP,-1,alpha_td_rei
 2020-05-28,XLE,1,alpha_td_rei
 2020-05-28,XLF,1,alpha_td_rei
 2020-05-29,EEM,1,alpha_td_rei
@@ -12255,6 +12307,7 @@ date,ticker,direction,alpha_name
 2020-05-29,SLV,1,alpha_td_rei
 2020-05-29,SPY,1,alpha_td_rei
 2020-05-29,TLT,-1,alpha_td_rei
+2020-05-29,UUP,-1,alpha_td_rei
 2020-05-29,XLE,1,alpha_td_rei
 2020-05-29,XLF,1,alpha_td_rei
 2020-06-01,EEM,1,alpha_td_rei
@@ -12264,6 +12317,7 @@ date,ticker,direction,alpha_name
 2020-06-01,SLV,1,alpha_td_rei
 2020-06-01,SPY,1,alpha_td_rei
 2020-06-01,TLT,-1,alpha_td_rei
+2020-06-01,UUP,-1,alpha_td_rei
 2020-06-01,XLE,1,alpha_td_rei
 2020-06-01,XLF,1,alpha_td_rei
 2020-06-02,EEM,1,alpha_td_rei
@@ -12273,6 +12327,7 @@ date,ticker,direction,alpha_name
 2020-06-02,SPY,1,alpha_td_rei
 2020-06-02,TLT,-1,alpha_td_rei
 2020-06-02,USO,1,alpha_td_rei
+2020-06-02,UUP,-1,alpha_td_rei
 2020-06-02,XLE,-1,alpha_td_rei
 2020-06-03,EEM,1,alpha_td_rei
 2020-06-03,GLD,1,alpha_td_rei
@@ -12282,6 +12337,7 @@ date,ticker,direction,alpha_name
 2020-06-03,SPY,1,alpha_td_rei
 2020-06-03,TLT,-1,alpha_td_rei
 2020-06-03,USO,1,alpha_td_rei
+2020-06-03,UUP,-1,alpha_td_rei
 2020-06-03,XLE,1,alpha_td_rei
 2020-06-04,EEM,1,alpha_td_rei
 2020-06-04,IWM,1,alpha_td_rei
@@ -12290,6 +12346,7 @@ date,ticker,direction,alpha_name
 2020-06-04,SPY,1,alpha_td_rei
 2020-06-04,TLT,-1,alpha_td_rei
 2020-06-04,USO,1,alpha_td_rei
+2020-06-04,UUP,-1,alpha_td_rei
 2020-06-04,XLE,1,alpha_td_rei
 2020-06-05,EEM,1,alpha_td_rei
 2020-06-05,IWM,1,alpha_td_rei
@@ -12298,6 +12355,7 @@ date,ticker,direction,alpha_name
 2020-06-05,SPY,1,alpha_td_rei
 2020-06-05,TLT,-1,alpha_td_rei
 2020-06-05,USO,1,alpha_td_rei
+2020-06-05,UUP,-1,alpha_td_rei
 2020-06-05,XLE,1,alpha_td_rei
 2020-06-08,EEM,1,alpha_td_rei
 2020-06-08,IWM,1,alpha_td_rei
@@ -12305,6 +12363,7 @@ date,ticker,direction,alpha_name
 2020-06-08,SLV,1,alpha_td_rei
 2020-06-08,TLT,-1,alpha_td_rei
 2020-06-08,USO,1,alpha_td_rei
+2020-06-08,UUP,-1,alpha_td_rei
 2020-06-08,XLE,1,alpha_td_rei
 2020-06-09,EEM,1,alpha_td_rei
 2020-06-09,IWM,1,alpha_td_rei
@@ -12326,6 +12385,7 @@ date,ticker,direction,alpha_name
 2020-06-12,SLV,1,alpha_td_rei
 2020-06-12,SPY,-1,alpha_td_rei
 2020-06-12,TLT,1,alpha_td_rei
+2020-06-12,UUP,-1,alpha_td_rei
 2020-06-12,VNQ,-1,alpha_td_rei
 2020-06-12,XLE,-1,alpha_td_rei
 2020-06-15,IWM,1,alpha_td_rei
@@ -12343,6 +12403,7 @@ date,ticker,direction,alpha_name
 2020-06-16,UUP,1,alpha_td_rei
 2020-06-16,XLE,-1,alpha_td_rei
 2020-06-17,GLD,1,alpha_td_rei
+2020-06-17,HYG,1,alpha_td_rei
 2020-06-17,IWM,-1,alpha_td_rei
 2020-06-17,QQQ,-1,alpha_td_rei
 2020-06-17,SLV,-1,alpha_td_rei
@@ -12655,6 +12716,7 @@ date,ticker,direction,alpha_name
 2020-08-05,SPY,-1,alpha_td_rei
 2020-08-05,TLT,-1,alpha_td_rei
 2020-08-05,UUP,1,alpha_td_rei
+2020-08-05,VNQ,1,alpha_td_rei
 2020-08-05,XLE,1,alpha_td_rei
 2020-08-06,EEM,1,alpha_td_rei
 2020-08-06,HYG,1,alpha_td_rei
@@ -12706,7 +12768,6 @@ date,ticker,direction,alpha_name
 2020-08-12,VNQ,1,alpha_td_rei
 2020-08-12,XLE,1,alpha_td_rei
 2020-08-12,XLF,1,alpha_td_rei
-2020-08-13,EEM,1,alpha_td_rei
 2020-08-13,HYG,-1,alpha_td_rei
 2020-08-13,IWM,1,alpha_td_rei
 2020-08-13,QQQ,-1,alpha_td_rei
@@ -12727,7 +12788,6 @@ date,ticker,direction,alpha_name
 2020-08-14,VNQ,1,alpha_td_rei
 2020-08-14,XLE,1,alpha_td_rei
 2020-08-14,XLF,1,alpha_td_rei
-2020-08-17,EEM,1,alpha_td_rei
 2020-08-17,HYG,-1,alpha_td_rei
 2020-08-17,IWM,-1,alpha_td_rei
 2020-08-17,QQQ,1,alpha_td_rei
@@ -12738,7 +12798,6 @@ date,ticker,direction,alpha_name
 2020-08-17,VNQ,1,alpha_td_rei
 2020-08-17,XLE,1,alpha_td_rei
 2020-08-17,XLF,1,alpha_td_rei
-2020-08-18,EEM,1,alpha_td_rei
 2020-08-18,HYG,-1,alpha_td_rei
 2020-08-18,IWM,-1,alpha_td_rei
 2020-08-18,QQQ,1,alpha_td_rei
@@ -12747,7 +12806,6 @@ date,ticker,direction,alpha_name
 2020-08-18,USO,1,alpha_td_rei
 2020-08-18,UUP,1,alpha_td_rei
 2020-08-18,XLE,-1,alpha_td_rei
-2020-08-19,EEM,1,alpha_td_rei
 2020-08-19,HYG,-1,alpha_td_rei
 2020-08-19,IWM,-1,alpha_td_rei
 2020-08-19,QQQ,1,alpha_td_rei
@@ -12777,6 +12835,7 @@ date,ticker,direction,alpha_name
 2020-08-21,UUP,1,alpha_td_rei
 2020-08-21,VNQ,-1,alpha_td_rei
 2020-08-21,XLE,-1,alpha_td_rei
+2020-08-24,EEM,1,alpha_td_rei
 2020-08-24,HYG,1,alpha_td_rei
 2020-08-24,IWM,-1,alpha_td_rei
 2020-08-24,QQQ,1,alpha_td_rei
@@ -13505,7 +13564,7 @@ date,ticker,direction,alpha_name
 2020-12-01,USO,1,alpha_td_rei
 2020-12-01,UUP,-1,alpha_td_rei
 2020-12-01,VNQ,-1,alpha_td_rei
-2020-12-01,XLF,-1,alpha_td_rei
+2020-12-01,XLF,1,alpha_td_rei
 2020-12-02,HYG,1,alpha_td_rei
 2020-12-02,IWM,-1,alpha_td_rei
 2020-12-02,QQQ,-1,alpha_td_rei
@@ -13802,7 +13861,7 @@ date,ticker,direction,alpha_name
 2021-01-11,SPY,1,alpha_td_rei
 2021-01-11,TLT,-1,alpha_td_rei
 2021-01-11,USO,1,alpha_td_rei
-2021-01-11,UUP,-1,alpha_td_rei
+2021-01-11,UUP,1,alpha_td_rei
 2021-01-11,VNQ,-1,alpha_td_rei
 2021-01-11,XLE,1,alpha_td_rei
 2021-01-11,XLF,1,alpha_td_rei
@@ -13953,7 +14012,7 @@ date,ticker,direction,alpha_name
 2021-02-01,UUP,-1,alpha_td_rei
 2021-02-01,VNQ,-1,alpha_td_rei
 2021-02-01,XLE,1,alpha_td_rei
-2021-02-01,XLF,1,alpha_td_rei
+2021-02-01,XLF,-1,alpha_td_rei
 2021-02-02,EEM,-1,alpha_td_rei
 2021-02-02,GLD,1,alpha_td_rei
 2021-02-02,HYG,-1,alpha_td_rei
@@ -13971,7 +14030,7 @@ date,ticker,direction,alpha_name
 2021-02-03,QQQ,-1,alpha_td_rei
 2021-02-03,SLV,1,alpha_td_rei
 2021-02-03,TLT,-1,alpha_td_rei
-2021-02-03,UUP,1,alpha_td_rei
+2021-02-03,UUP,-1,alpha_td_rei
 2021-02-03,VNQ,-1,alpha_td_rei
 2021-02-03,XLE,1,alpha_td_rei
 2021-02-03,XLF,1,alpha_td_rei
@@ -14935,6 +14994,7 @@ date,ticker,direction,alpha_name
 2021-06-29,SPY,1,alpha_td_rei
 2021-06-29,TLT,1,alpha_td_rei
 2021-06-29,USO,-1,alpha_td_rei
+2021-06-29,UUP,-1,alpha_td_rei
 2021-06-29,VNQ,-1,alpha_td_rei
 2021-06-29,XLE,-1,alpha_td_rei
 2021-06-30,EEM,1,alpha_td_rei
@@ -15777,20 +15837,20 @@ date,ticker,direction,alpha_name
 2021-10-27,GLD,1,alpha_td_rei
 2021-10-27,HYG,-1,alpha_td_rei
 2021-10-27,IWM,1,alpha_td_rei
-2021-10-27,TLT,1,alpha_td_rei
+2021-10-27,TLT,-1,alpha_td_rei
 2021-10-27,USO,1,alpha_td_rei
 2021-10-27,XLF,1,alpha_td_rei
 2021-10-28,GLD,1,alpha_td_rei
 2021-10-28,HYG,-1,alpha_td_rei
 2021-10-28,IWM,-1,alpha_td_rei
-2021-10-28,TLT,1,alpha_td_rei
+2021-10-28,TLT,-1,alpha_td_rei
 2021-10-28,USO,1,alpha_td_rei
 2021-10-28,XLE,-1,alpha_td_rei
 2021-10-28,XLF,1,alpha_td_rei
 2021-10-29,GLD,1,alpha_td_rei
 2021-10-29,HYG,-1,alpha_td_rei
 2021-10-29,IWM,-1,alpha_td_rei
-2021-10-29,TLT,1,alpha_td_rei
+2021-10-29,TLT,-1,alpha_td_rei
 2021-10-29,UUP,-1,alpha_td_rei
 2021-10-29,XLE,-1,alpha_td_rei
 2021-10-29,XLF,-1,alpha_td_rei
@@ -15900,6 +15960,7 @@ date,ticker,direction,alpha_name
 2021-11-16,TLT,-1,alpha_td_rei
 2021-11-16,USO,-1,alpha_td_rei
 2021-11-16,VNQ,-1,alpha_td_rei
+2021-11-16,XLE,-1,alpha_td_rei
 2021-11-16,XLF,-1,alpha_td_rei
 2021-11-17,EEM,1,alpha_td_rei
 2021-11-17,HYG,-1,alpha_td_rei
@@ -16361,6 +16422,7 @@ date,ticker,direction,alpha_name
 2022-01-27,SPY,-1,alpha_td_rei
 2022-01-27,TLT,1,alpha_td_rei
 2022-01-27,USO,1,alpha_td_rei
+2022-01-27,VNQ,1,alpha_td_rei
 2022-01-27,XLE,-1,alpha_td_rei
 2022-01-27,XLF,-1,alpha_td_rei
 2022-01-28,EEM,1,alpha_td_rei
@@ -16371,8 +16433,9 @@ date,ticker,direction,alpha_name
 2022-01-28,SPY,-1,alpha_td_rei
 2022-01-28,TLT,1,alpha_td_rei
 2022-01-28,USO,1,alpha_td_rei
+2022-01-28,VNQ,1,alpha_td_rei
 2022-01-28,XLE,1,alpha_td_rei
-2022-01-28,XLF,1,alpha_td_rei
+2022-01-28,XLF,-1,alpha_td_rei
 2022-01-31,EEM,1,alpha_td_rei
 2022-01-31,GLD,1,alpha_td_rei
 2022-01-31,HYG,-1,alpha_td_rei
@@ -16591,6 +16654,7 @@ date,ticker,direction,alpha_name
 2022-03-03,SPY,1,alpha_td_rei
 2022-03-03,TLT,1,alpha_td_rei
 2022-03-03,USO,1,alpha_td_rei
+2022-03-03,VNQ,1,alpha_td_rei
 2022-03-03,XLE,-1,alpha_td_rei
 2022-03-03,XLF,-1,alpha_td_rei
 2022-03-04,HYG,-1,alpha_td_rei
@@ -16599,6 +16663,7 @@ date,ticker,direction,alpha_name
 2022-03-04,SPY,1,alpha_td_rei
 2022-03-04,TLT,-1,alpha_td_rei
 2022-03-04,USO,1,alpha_td_rei
+2022-03-04,VNQ,1,alpha_td_rei
 2022-03-04,XLE,1,alpha_td_rei
 2022-03-04,XLF,-1,alpha_td_rei
 2022-03-07,HYG,-1,alpha_td_rei
@@ -16607,6 +16672,7 @@ date,ticker,direction,alpha_name
 2022-03-07,SPY,1,alpha_td_rei
 2022-03-07,TLT,-1,alpha_td_rei
 2022-03-07,USO,1,alpha_td_rei
+2022-03-07,VNQ,1,alpha_td_rei
 2022-03-07,XLE,1,alpha_td_rei
 2022-03-07,XLF,-1,alpha_td_rei
 2022-03-08,HYG,-1,alpha_td_rei
@@ -16644,7 +16710,6 @@ date,ticker,direction,alpha_name
 2022-03-11,TLT,-1,alpha_td_rei
 2022-03-11,USO,-1,alpha_td_rei
 2022-03-11,VNQ,1,alpha_td_rei
-2022-03-11,XLE,-1,alpha_td_rei
 2022-03-11,XLF,-1,alpha_td_rei
 2022-03-14,HYG,-1,alpha_td_rei
 2022-03-14,IWM,-1,alpha_td_rei
@@ -16654,7 +16719,6 @@ date,ticker,direction,alpha_name
 2022-03-14,TLT,-1,alpha_td_rei
 2022-03-14,USO,-1,alpha_td_rei
 2022-03-14,VNQ,1,alpha_td_rei
-2022-03-14,XLE,-1,alpha_td_rei
 2022-03-14,XLF,-1,alpha_td_rei
 2022-03-15,HYG,-1,alpha_td_rei
 2022-03-15,IWM,-1,alpha_td_rei
@@ -17713,6 +17777,7 @@ date,ticker,direction,alpha_name
 2022-08-16,XLF,1,alpha_td_rei
 2022-08-17,EEM,1,alpha_td_rei
 2022-08-17,GLD,-1,alpha_td_rei
+2022-08-17,HYG,1,alpha_td_rei
 2022-08-17,IWM,1,alpha_td_rei
 2022-08-17,SLV,1,alpha_td_rei
 2022-08-17,SPY,-1,alpha_td_rei
@@ -17722,12 +17787,14 @@ date,ticker,direction,alpha_name
 2022-08-17,XLE,1,alpha_td_rei
 2022-08-17,XLF,1,alpha_td_rei
 2022-08-18,GLD,-1,alpha_td_rei
+2022-08-18,HYG,1,alpha_td_rei
 2022-08-18,SLV,1,alpha_td_rei
 2022-08-18,TLT,1,alpha_td_rei
 2022-08-18,USO,-1,alpha_td_rei
 2022-08-18,VNQ,1,alpha_td_rei
 2022-08-18,XLE,1,alpha_td_rei
 2022-08-19,GLD,-1,alpha_td_rei
+2022-08-19,HYG,1,alpha_td_rei
 2022-08-19,IWM,-1,alpha_td_rei
 2022-08-19,SLV,1,alpha_td_rei
 2022-08-19,SPY,-1,alpha_td_rei
@@ -17736,6 +17803,7 @@ date,ticker,direction,alpha_name
 2022-08-19,VNQ,1,alpha_td_rei
 2022-08-19,XLE,1,alpha_td_rei
 2022-08-22,GLD,-1,alpha_td_rei
+2022-08-22,HYG,1,alpha_td_rei
 2022-08-22,IWM,-1,alpha_td_rei
 2022-08-22,SLV,-1,alpha_td_rei
 2022-08-22,SPY,-1,alpha_td_rei
@@ -17745,6 +17813,7 @@ date,ticker,direction,alpha_name
 2022-08-22,XLE,1,alpha_td_rei
 2022-08-22,XLF,-1,alpha_td_rei
 2022-08-23,GLD,-1,alpha_td_rei
+2022-08-23,HYG,1,alpha_td_rei
 2022-08-23,IWM,-1,alpha_td_rei
 2022-08-23,SLV,-1,alpha_td_rei
 2022-08-23,SPY,-1,alpha_td_rei
@@ -17754,6 +17823,7 @@ date,ticker,direction,alpha_name
 2022-08-23,XLE,1,alpha_td_rei
 2022-08-23,XLF,-1,alpha_td_rei
 2022-08-24,GLD,-1,alpha_td_rei
+2022-08-24,HYG,1,alpha_td_rei
 2022-08-24,IWM,-1,alpha_td_rei
 2022-08-24,QQQ,-1,alpha_td_rei
 2022-08-24,SLV,-1,alpha_td_rei
@@ -17763,6 +17833,7 @@ date,ticker,direction,alpha_name
 2022-08-24,VNQ,-1,alpha_td_rei
 2022-08-24,XLE,1,alpha_td_rei
 2022-08-25,GLD,-1,alpha_td_rei
+2022-08-25,HYG,1,alpha_td_rei
 2022-08-25,IWM,-1,alpha_td_rei
 2022-08-25,SLV,-1,alpha_td_rei
 2022-08-25,SPY,-1,alpha_td_rei
@@ -17778,6 +17849,7 @@ date,ticker,direction,alpha_name
 2022-08-26,VNQ,-1,alpha_td_rei
 2022-08-26,XLE,1,alpha_td_rei
 2022-08-29,EEM,1,alpha_td_rei
+2022-08-29,HYG,1,alpha_td_rei
 2022-08-29,IWM,-1,alpha_td_rei
 2022-08-29,SLV,1,alpha_td_rei
 2022-08-29,SPY,-1,alpha_td_rei
@@ -17788,6 +17860,7 @@ date,ticker,direction,alpha_name
 2022-08-29,XLE,1,alpha_td_rei
 2022-08-30,EEM,1,alpha_td_rei
 2022-08-30,GLD,-1,alpha_td_rei
+2022-08-30,HYG,1,alpha_td_rei
 2022-08-30,IWM,-1,alpha_td_rei
 2022-08-30,SLV,-1,alpha_td_rei
 2022-08-30,SPY,-1,alpha_td_rei
@@ -17798,6 +17871,7 @@ date,ticker,direction,alpha_name
 2022-08-30,XLE,1,alpha_td_rei
 2022-08-31,EEM,1,alpha_td_rei
 2022-08-31,GLD,-1,alpha_td_rei
+2022-08-31,HYG,1,alpha_td_rei
 2022-08-31,IWM,-1,alpha_td_rei
 2022-08-31,SLV,-1,alpha_td_rei
 2022-08-31,SPY,-1,alpha_td_rei
@@ -17805,6 +17879,7 @@ date,ticker,direction,alpha_name
 2022-08-31,USO,-1,alpha_td_rei
 2022-09-01,EEM,1,alpha_td_rei
 2022-09-01,GLD,-1,alpha_td_rei
+2022-09-01,HYG,1,alpha_td_rei
 2022-09-01,IWM,1,alpha_td_rei
 2022-09-01,SLV,-1,alpha_td_rei
 2022-09-01,TLT,1,alpha_td_rei
@@ -17812,6 +17887,7 @@ date,ticker,direction,alpha_name
 2022-09-01,XLF,1,alpha_td_rei
 2022-09-02,EEM,1,alpha_td_rei
 2022-09-02,GLD,-1,alpha_td_rei
+2022-09-02,HYG,1,alpha_td_rei
 2022-09-02,IWM,1,alpha_td_rei
 2022-09-02,SLV,-1,alpha_td_rei
 2022-09-02,TLT,1,alpha_td_rei
@@ -17819,6 +17895,7 @@ date,ticker,direction,alpha_name
 2022-09-02,XLF,1,alpha_td_rei
 2022-09-06,EEM,1,alpha_td_rei
 2022-09-06,GLD,-1,alpha_td_rei
+2022-09-06,HYG,1,alpha_td_rei
 2022-09-06,IWM,1,alpha_td_rei
 2022-09-06,SLV,-1,alpha_td_rei
 2022-09-06,TLT,1,alpha_td_rei
@@ -17826,12 +17903,14 @@ date,ticker,direction,alpha_name
 2022-09-06,XLF,1,alpha_td_rei
 2022-09-07,EEM,1,alpha_td_rei
 2022-09-07,GLD,-1,alpha_td_rei
+2022-09-07,HYG,1,alpha_td_rei
 2022-09-07,IWM,1,alpha_td_rei
 2022-09-07,SLV,-1,alpha_td_rei
 2022-09-07,TLT,1,alpha_td_rei
 2022-09-07,USO,-1,alpha_td_rei
 2022-09-07,XLF,1,alpha_td_rei
 2022-09-08,GLD,-1,alpha_td_rei
+2022-09-08,HYG,1,alpha_td_rei
 2022-09-08,IWM,1,alpha_td_rei
 2022-09-08,SLV,-1,alpha_td_rei
 2022-09-08,SPY,-1,alpha_td_rei
@@ -17839,12 +17918,14 @@ date,ticker,direction,alpha_name
 2022-09-08,USO,-1,alpha_td_rei
 2022-09-08,VNQ,1,alpha_td_rei
 2022-09-09,GLD,-1,alpha_td_rei
+2022-09-09,HYG,1,alpha_td_rei
 2022-09-09,IWM,1,alpha_td_rei
 2022-09-09,SLV,-1,alpha_td_rei
 2022-09-09,TLT,1,alpha_td_rei
 2022-09-09,VNQ,1,alpha_td_rei
 2022-09-09,XLE,-1,alpha_td_rei
 2022-09-09,XLF,1,alpha_td_rei
+2022-09-12,HYG,1,alpha_td_rei
 2022-09-12,IWM,1,alpha_td_rei
 2022-09-12,SLV,1,alpha_td_rei
 2022-09-12,TLT,-1,alpha_td_rei
@@ -17852,6 +17933,7 @@ date,ticker,direction,alpha_name
 2022-09-12,XLE,-1,alpha_td_rei
 2022-09-12,XLF,1,alpha_td_rei
 2022-09-13,EEM,1,alpha_td_rei
+2022-09-13,HYG,1,alpha_td_rei
 2022-09-13,IWM,1,alpha_td_rei
 2022-09-13,SLV,1,alpha_td_rei
 2022-09-13,TLT,-1,alpha_td_rei
@@ -17978,6 +18060,7 @@ date,ticker,direction,alpha_name
 2022-10-03,XLE,1,alpha_td_rei
 2022-10-03,XLF,-1,alpha_td_rei
 2022-10-04,EEM,1,alpha_td_rei
+2022-10-04,HYG,1,alpha_td_rei
 2022-10-04,QQQ,-1,alpha_td_rei
 2022-10-04,SLV,1,alpha_td_rei
 2022-10-04,SPY,-1,alpha_td_rei
@@ -17987,6 +18070,7 @@ date,ticker,direction,alpha_name
 2022-10-04,XLE,1,alpha_td_rei
 2022-10-04,XLF,1,alpha_td_rei
 2022-10-05,EEM,1,alpha_td_rei
+2022-10-05,HYG,1,alpha_td_rei
 2022-10-05,SLV,-1,alpha_td_rei
 2022-10-05,TLT,1,alpha_td_rei
 2022-10-05,USO,-1,alpha_td_rei
@@ -17994,6 +18078,7 @@ date,ticker,direction,alpha_name
 2022-10-05,XLE,1,alpha_td_rei
 2022-10-05,XLF,1,alpha_td_rei
 2022-10-06,EEM,1,alpha_td_rei
+2022-10-06,HYG,1,alpha_td_rei
 2022-10-06,SLV,1,alpha_td_rei
 2022-10-06,TLT,-1,alpha_td_rei
 2022-10-06,USO,-1,alpha_td_rei
@@ -18001,6 +18086,7 @@ date,ticker,direction,alpha_name
 2022-10-06,XLE,1,alpha_td_rei
 2022-10-06,XLF,1,alpha_td_rei
 2022-10-07,EEM,1,alpha_td_rei
+2022-10-07,HYG,1,alpha_td_rei
 2022-10-07,SLV,1,alpha_td_rei
 2022-10-07,SPY,1,alpha_td_rei
 2022-10-07,TLT,-1,alpha_td_rei
@@ -18009,6 +18095,7 @@ date,ticker,direction,alpha_name
 2022-10-07,XLE,1,alpha_td_rei
 2022-10-07,XLF,1,alpha_td_rei
 2022-10-10,EEM,1,alpha_td_rei
+2022-10-10,HYG,1,alpha_td_rei
 2022-10-10,IWM,-1,alpha_td_rei
 2022-10-10,SLV,1,alpha_td_rei
 2022-10-10,SPY,1,alpha_td_rei
@@ -18135,6 +18222,7 @@ date,ticker,direction,alpha_name
 2022-10-25,XLE,1,alpha_td_rei
 2022-10-25,XLF,1,alpha_td_rei
 2022-10-26,EEM,1,alpha_td_rei
+2022-10-26,HYG,1,alpha_td_rei
 2022-10-26,SLV,1,alpha_td_rei
 2022-10-26,SPY,1,alpha_td_rei
 2022-10-26,TLT,-1,alpha_td_rei
@@ -18143,6 +18231,7 @@ date,ticker,direction,alpha_name
 2022-10-26,XLE,1,alpha_td_rei
 2022-10-26,XLF,1,alpha_td_rei
 2022-10-27,EEM,1,alpha_td_rei
+2022-10-27,HYG,1,alpha_td_rei
 2022-10-27,SLV,1,alpha_td_rei
 2022-10-27,SPY,1,alpha_td_rei
 2022-10-27,TLT,1,alpha_td_rei
@@ -18151,6 +18240,7 @@ date,ticker,direction,alpha_name
 2022-10-27,XLE,1,alpha_td_rei
 2022-10-27,XLF,1,alpha_td_rei
 2022-10-28,EEM,1,alpha_td_rei
+2022-10-28,HYG,1,alpha_td_rei
 2022-10-28,QQQ,-1,alpha_td_rei
 2022-10-28,SLV,1,alpha_td_rei
 2022-10-28,SPY,-1,alpha_td_rei
@@ -18161,6 +18251,7 @@ date,ticker,direction,alpha_name
 2022-10-28,XLF,1,alpha_td_rei
 2022-10-31,EEM,1,alpha_td_rei
 2022-10-31,GLD,-1,alpha_td_rei
+2022-10-31,HYG,1,alpha_td_rei
 2022-10-31,QQQ,-1,alpha_td_rei
 2022-10-31,SLV,1,alpha_td_rei
 2022-10-31,SPY,-1,alpha_td_rei
@@ -18171,6 +18262,7 @@ date,ticker,direction,alpha_name
 2022-10-31,XLF,1,alpha_td_rei
 2022-11-01,EEM,1,alpha_td_rei
 2022-11-01,GLD,-1,alpha_td_rei
+2022-11-01,HYG,1,alpha_td_rei
 2022-11-01,QQQ,-1,alpha_td_rei
 2022-11-01,SLV,-1,alpha_td_rei
 2022-11-01,SPY,-1,alpha_td_rei
@@ -18179,6 +18271,7 @@ date,ticker,direction,alpha_name
 2022-11-01,VNQ,-1,alpha_td_rei
 2022-11-01,XLF,1,alpha_td_rei
 2022-11-02,EEM,1,alpha_td_rei
+2022-11-02,HYG,1,alpha_td_rei
 2022-11-02,QQQ,-1,alpha_td_rei
 2022-11-02,SLV,-1,alpha_td_rei
 2022-11-02,SPY,1,alpha_td_rei
@@ -18187,6 +18280,7 @@ date,ticker,direction,alpha_name
 2022-11-02,VNQ,1,alpha_td_rei
 2022-11-02,XLF,1,alpha_td_rei
 2022-11-03,EEM,1,alpha_td_rei
+2022-11-03,HYG,1,alpha_td_rei
 2022-11-03,QQQ,-1,alpha_td_rei
 2022-11-03,SLV,-1,alpha_td_rei
 2022-11-03,SPY,-1,alpha_td_rei
@@ -18197,6 +18291,7 @@ date,ticker,direction,alpha_name
 2022-11-03,XLE,1,alpha_td_rei
 2022-11-03,XLF,1,alpha_td_rei
 2022-11-04,EEM,1,alpha_td_rei
+2022-11-04,HYG,1,alpha_td_rei
 2022-11-04,QQQ,-1,alpha_td_rei
 2022-11-04,SLV,-1,alpha_td_rei
 2022-11-04,SPY,-1,alpha_td_rei
@@ -18208,6 +18303,7 @@ date,ticker,direction,alpha_name
 2022-11-04,XLF,1,alpha_td_rei
 2022-11-07,EEM,1,alpha_td_rei
 2022-11-07,GLD,-1,alpha_td_rei
+2022-11-07,HYG,1,alpha_td_rei
 2022-11-07,IWM,-1,alpha_td_rei
 2022-11-07,QQQ,-1,alpha_td_rei
 2022-11-07,SLV,-1,alpha_td_rei
@@ -18220,6 +18316,7 @@ date,ticker,direction,alpha_name
 2022-11-07,XLF,-1,alpha_td_rei
 2022-11-08,EEM,1,alpha_td_rei
 2022-11-08,GLD,-1,alpha_td_rei
+2022-11-08,HYG,1,alpha_td_rei
 2022-11-08,IWM,-1,alpha_td_rei
 2022-11-08,QQQ,-1,alpha_td_rei
 2022-11-08,SLV,-1,alpha_td_rei
@@ -18231,6 +18328,7 @@ date,ticker,direction,alpha_name
 2022-11-08,XLE,1,alpha_td_rei
 2022-11-08,XLF,-1,alpha_td_rei
 2022-11-09,GLD,-1,alpha_td_rei
+2022-11-09,HYG,1,alpha_td_rei
 2022-11-09,IWM,-1,alpha_td_rei
 2022-11-09,QQQ,-1,alpha_td_rei
 2022-11-09,SLV,-1,alpha_td_rei
@@ -18241,6 +18339,7 @@ date,ticker,direction,alpha_name
 2022-11-09,VNQ,-1,alpha_td_rei
 2022-11-09,XLE,1,alpha_td_rei
 2022-11-09,XLF,1,alpha_td_rei
+2022-11-10,HYG,1,alpha_td_rei
 2022-11-10,IWM,-1,alpha_td_rei
 2022-11-10,QQQ,-1,alpha_td_rei
 2022-11-10,SLV,-1,alpha_td_rei
@@ -18252,6 +18351,7 @@ date,ticker,direction,alpha_name
 2022-11-10,XLE,-1,alpha_td_rei
 2022-11-10,XLF,1,alpha_td_rei
 2022-11-11,EEM,1,alpha_td_rei
+2022-11-11,HYG,1,alpha_td_rei
 2022-11-11,IWM,-1,alpha_td_rei
 2022-11-11,QQQ,-1,alpha_td_rei
 2022-11-11,SLV,1,alpha_td_rei
@@ -18263,6 +18363,7 @@ date,ticker,direction,alpha_name
 2022-11-11,XLE,-1,alpha_td_rei
 2022-11-11,XLF,1,alpha_td_rei
 2022-11-14,EEM,1,alpha_td_rei
+2022-11-14,HYG,1,alpha_td_rei
 2022-11-14,IWM,-1,alpha_td_rei
 2022-11-14,QQQ,-1,alpha_td_rei
 2022-11-14,SLV,1,alpha_td_rei
@@ -18451,6 +18552,7 @@ date,ticker,direction,alpha_name
 2022-12-09,XLE,-1,alpha_td_rei
 2022-12-09,XLF,-1,alpha_td_rei
 2022-12-12,EEM,1,alpha_td_rei
+2022-12-12,HYG,1,alpha_td_rei
 2022-12-12,IWM,-1,alpha_td_rei
 2022-12-12,QQQ,-1,alpha_td_rei
 2022-12-12,SPY,-1,alpha_td_rei
@@ -18460,6 +18562,7 @@ date,ticker,direction,alpha_name
 2022-12-12,XLE,-1,alpha_td_rei
 2022-12-12,XLF,-1,alpha_td_rei
 2022-12-13,EEM,1,alpha_td_rei
+2022-12-13,HYG,1,alpha_td_rei
 2022-12-13,IWM,-1,alpha_td_rei
 2022-12-13,QQQ,-1,alpha_td_rei
 2022-12-13,SPY,-1,alpha_td_rei
@@ -18469,6 +18572,7 @@ date,ticker,direction,alpha_name
 2022-12-13,XLE,-1,alpha_td_rei
 2022-12-13,XLF,-1,alpha_td_rei
 2022-12-14,EEM,1,alpha_td_rei
+2022-12-14,HYG,1,alpha_td_rei
 2022-12-14,IWM,-1,alpha_td_rei
 2022-12-14,QQQ,-1,alpha_td_rei
 2022-12-14,SPY,-1,alpha_td_rei
@@ -18478,6 +18582,7 @@ date,ticker,direction,alpha_name
 2022-12-14,XLE,1,alpha_td_rei
 2022-12-14,XLF,-1,alpha_td_rei
 2022-12-15,EEM,1,alpha_td_rei
+2022-12-15,HYG,1,alpha_td_rei
 2022-12-15,IWM,-1,alpha_td_rei
 2022-12-15,QQQ,-1,alpha_td_rei
 2022-12-15,SPY,-1,alpha_td_rei
@@ -18610,7 +18715,7 @@ date,ticker,direction,alpha_name
 2023-01-04,XLE,1,alpha_td_rei
 2023-01-04,XLF,-1,alpha_td_rei
 2023-01-05,EEM,1,alpha_td_rei
-2023-01-05,HYG,-1,alpha_td_rei
+2023-01-05,HYG,1,alpha_td_rei
 2023-01-05,SPY,-1,alpha_td_rei
 2023-01-05,TLT,1,alpha_td_rei
 2023-01-05,USO,1,alpha_td_rei
@@ -18619,7 +18724,7 @@ date,ticker,direction,alpha_name
 2023-01-05,XLE,-1,alpha_td_rei
 2023-01-05,XLF,-1,alpha_td_rei
 2023-01-06,EEM,1,alpha_td_rei
-2023-01-06,HYG,-1,alpha_td_rei
+2023-01-06,HYG,1,alpha_td_rei
 2023-01-06,SPY,-1,alpha_td_rei
 2023-01-06,TLT,1,alpha_td_rei
 2023-01-06,USO,-1,alpha_td_rei
@@ -18628,6 +18733,7 @@ date,ticker,direction,alpha_name
 2023-01-06,XLE,-1,alpha_td_rei
 2023-01-06,XLF,-1,alpha_td_rei
 2023-01-09,EEM,1,alpha_td_rei
+2023-01-09,HYG,1,alpha_td_rei
 2023-01-09,SPY,1,alpha_td_rei
 2023-01-09,TLT,1,alpha_td_rei
 2023-01-09,USO,-1,alpha_td_rei
@@ -18636,6 +18742,7 @@ date,ticker,direction,alpha_name
 2023-01-09,XLE,1,alpha_td_rei
 2023-01-09,XLF,1,alpha_td_rei
 2023-01-10,EEM,1,alpha_td_rei
+2023-01-10,HYG,1,alpha_td_rei
 2023-01-10,SPY,1,alpha_td_rei
 2023-01-10,TLT,1,alpha_td_rei
 2023-01-10,USO,-1,alpha_td_rei
@@ -18643,6 +18750,7 @@ date,ticker,direction,alpha_name
 2023-01-10,XLE,1,alpha_td_rei
 2023-01-10,XLF,1,alpha_td_rei
 2023-01-11,EEM,1,alpha_td_rei
+2023-01-11,HYG,1,alpha_td_rei
 2023-01-11,IWM,1,alpha_td_rei
 2023-01-11,SPY,1,alpha_td_rei
 2023-01-11,TLT,1,alpha_td_rei
@@ -18650,18 +18758,21 @@ date,ticker,direction,alpha_name
 2023-01-11,VNQ,1,alpha_td_rei
 2023-01-11,XLE,1,alpha_td_rei
 2023-01-11,XLF,1,alpha_td_rei
+2023-01-12,HYG,1,alpha_td_rei
 2023-01-12,IWM,1,alpha_td_rei
 2023-01-12,SPY,1,alpha_td_rei
 2023-01-12,TLT,1,alpha_td_rei
 2023-01-12,USO,1,alpha_td_rei
 2023-01-12,VNQ,1,alpha_td_rei
 2023-01-12,XLE,1,alpha_td_rei
+2023-01-13,HYG,1,alpha_td_rei
 2023-01-13,IWM,1,alpha_td_rei
 2023-01-13,SPY,1,alpha_td_rei
 2023-01-13,TLT,1,alpha_td_rei
 2023-01-13,USO,1,alpha_td_rei
 2023-01-13,VNQ,1,alpha_td_rei
 2023-01-13,XLE,1,alpha_td_rei
+2023-01-17,HYG,1,alpha_td_rei
 2023-01-17,IWM,1,alpha_td_rei
 2023-01-17,SPY,1,alpha_td_rei
 2023-01-17,VNQ,-1,alpha_td_rei
@@ -18735,6 +18846,7 @@ date,ticker,direction,alpha_name
 2023-01-30,SPY,1,alpha_td_rei
 2023-01-30,TLT,-1,alpha_td_rei
 2023-01-30,USO,-1,alpha_td_rei
+2023-01-30,UUP,1,alpha_td_rei
 2023-01-30,VNQ,-1,alpha_td_rei
 2023-01-30,XLE,-1,alpha_td_rei
 2023-01-31,HYG,-1,alpha_td_rei
@@ -19180,7 +19292,7 @@ date,ticker,direction,alpha_name
 2023-04-11,IWM,-1,alpha_td_rei
 2023-04-11,QQQ,1,alpha_td_rei
 2023-04-11,TLT,1,alpha_td_rei
-2023-04-11,UUP,1,alpha_td_rei
+2023-04-11,UUP,-1,alpha_td_rei
 2023-04-12,HYG,1,alpha_td_rei
 2023-04-12,IWM,-1,alpha_td_rei
 2023-04-12,QQQ,1,alpha_td_rei
@@ -19194,7 +19306,7 @@ date,ticker,direction,alpha_name
 2023-04-13,QQQ,-1,alpha_td_rei
 2023-04-13,TLT,-1,alpha_td_rei
 2023-04-13,USO,1,alpha_td_rei
-2023-04-13,UUP,1,alpha_td_rei
+2023-04-13,UUP,-1,alpha_td_rei
 2023-04-13,XLE,1,alpha_td_rei
 2023-04-13,XLF,1,alpha_td_rei
 2023-04-14,HYG,1,alpha_td_rei
@@ -19202,7 +19314,7 @@ date,ticker,direction,alpha_name
 2023-04-14,QQQ,-1,alpha_td_rei
 2023-04-14,TLT,-1,alpha_td_rei
 2023-04-14,USO,1,alpha_td_rei
-2023-04-14,UUP,1,alpha_td_rei
+2023-04-14,UUP,-1,alpha_td_rei
 2023-04-14,XLE,1,alpha_td_rei
 2023-04-14,XLF,1,alpha_td_rei
 2023-04-17,HYG,1,alpha_td_rei
@@ -19210,26 +19322,26 @@ date,ticker,direction,alpha_name
 2023-04-17,QQQ,-1,alpha_td_rei
 2023-04-17,TLT,-1,alpha_td_rei
 2023-04-17,USO,1,alpha_td_rei
-2023-04-17,UUP,1,alpha_td_rei
+2023-04-17,UUP,-1,alpha_td_rei
 2023-04-17,VNQ,-1,alpha_td_rei
 2023-04-17,XLE,1,alpha_td_rei
 2023-04-17,XLF,1,alpha_td_rei
-2023-04-18,HYG,-1,alpha_td_rei
+2023-04-18,HYG,1,alpha_td_rei
 2023-04-18,IWM,-1,alpha_td_rei
 2023-04-18,QQQ,-1,alpha_td_rei
 2023-04-18,TLT,-1,alpha_td_rei
 2023-04-18,USO,-1,alpha_td_rei
-2023-04-18,UUP,1,alpha_td_rei
+2023-04-18,UUP,-1,alpha_td_rei
 2023-04-18,VNQ,-1,alpha_td_rei
 2023-04-18,XLE,1,alpha_td_rei
 2023-04-18,XLF,1,alpha_td_rei
 2023-04-19,EEM,1,alpha_td_rei
-2023-04-19,HYG,-1,alpha_td_rei
+2023-04-19,HYG,1,alpha_td_rei
 2023-04-19,IWM,1,alpha_td_rei
 2023-04-19,QQQ,1,alpha_td_rei
 2023-04-19,TLT,-1,alpha_td_rei
 2023-04-19,USO,-1,alpha_td_rei
-2023-04-19,UUP,1,alpha_td_rei
+2023-04-19,UUP,-1,alpha_td_rei
 2023-04-19,XLE,1,alpha_td_rei
 2023-04-19,XLF,1,alpha_td_rei
 2023-04-20,GLD,-1,alpha_td_rei
@@ -19239,7 +19351,7 @@ date,ticker,direction,alpha_name
 2023-04-20,SPY,1,alpha_td_rei
 2023-04-20,TLT,-1,alpha_td_rei
 2023-04-20,USO,-1,alpha_td_rei
-2023-04-20,UUP,1,alpha_td_rei
+2023-04-20,UUP,-1,alpha_td_rei
 2023-04-20,XLE,-1,alpha_td_rei
 2023-04-20,XLF,1,alpha_td_rei
 2023-04-21,GLD,-1,alpha_td_rei
@@ -19253,7 +19365,7 @@ date,ticker,direction,alpha_name
 2023-04-21,XLE,-1,alpha_td_rei
 2023-04-21,XLF,1,alpha_td_rei
 2023-04-24,GLD,-1,alpha_td_rei
-2023-04-24,HYG,-1,alpha_td_rei
+2023-04-24,HYG,1,alpha_td_rei
 2023-04-24,IWM,1,alpha_td_rei
 2023-04-24,QQQ,1,alpha_td_rei
 2023-04-24,SPY,-1,alpha_td_rei
@@ -19264,7 +19376,7 @@ date,ticker,direction,alpha_name
 2023-04-24,XLE,-1,alpha_td_rei
 2023-04-24,XLF,1,alpha_td_rei
 2023-04-25,GLD,-1,alpha_td_rei
-2023-04-25,HYG,-1,alpha_td_rei
+2023-04-25,HYG,1,alpha_td_rei
 2023-04-25,IWM,-1,alpha_td_rei
 2023-04-25,QQQ,-1,alpha_td_rei
 2023-04-25,SLV,-1,alpha_td_rei
@@ -19286,7 +19398,7 @@ date,ticker,direction,alpha_name
 2023-04-26,VNQ,-1,alpha_td_rei
 2023-04-26,XLE,-1,alpha_td_rei
 2023-04-27,GLD,-1,alpha_td_rei
-2023-04-27,HYG,-1,alpha_td_rei
+2023-04-27,HYG,1,alpha_td_rei
 2023-04-27,IWM,-1,alpha_td_rei
 2023-04-27,QQQ,-1,alpha_td_rei
 2023-04-27,SLV,-1,alpha_td_rei
@@ -19922,7 +20034,7 @@ date,ticker,direction,alpha_name
 2023-07-25,VNQ,1,alpha_td_rei
 2023-07-25,XLE,-1,alpha_td_rei
 2023-07-26,GLD,-1,alpha_td_rei
-2023-07-26,HYG,-1,alpha_td_rei
+2023-07-26,HYG,1,alpha_td_rei
 2023-07-26,IWM,-1,alpha_td_rei
 2023-07-26,QQQ,-1,alpha_td_rei
 2023-07-26,SLV,-1,alpha_td_rei
@@ -19942,7 +20054,7 @@ date,ticker,direction,alpha_name
 2023-07-27,VNQ,1,alpha_td_rei
 2023-07-27,XLE,-1,alpha_td_rei
 2023-07-28,GLD,-1,alpha_td_rei
-2023-07-28,HYG,-1,alpha_td_rei
+2023-07-28,HYG,1,alpha_td_rei
 2023-07-28,IWM,1,alpha_td_rei
 2023-07-28,QQQ,-1,alpha_td_rei
 2023-07-28,SLV,-1,alpha_td_rei
@@ -19975,7 +20087,7 @@ date,ticker,direction,alpha_name
 2023-08-01,XLE,1,alpha_td_rei
 2023-08-01,XLF,-1,alpha_td_rei
 2023-08-02,GLD,-1,alpha_td_rei
-2023-08-02,HYG,-1,alpha_td_rei
+2023-08-02,HYG,1,alpha_td_rei
 2023-08-02,IWM,1,alpha_td_rei
 2023-08-02,QQQ,-1,alpha_td_rei
 2023-08-02,SLV,-1,alpha_td_rei
@@ -19995,7 +20107,7 @@ date,ticker,direction,alpha_name
 2023-08-03,VNQ,-1,alpha_td_rei
 2023-08-03,XLE,1,alpha_td_rei
 2023-08-03,XLF,-1,alpha_td_rei
-2023-08-04,HYG,-1,alpha_td_rei
+2023-08-04,HYG,1,alpha_td_rei
 2023-08-04,IWM,-1,alpha_td_rei
 2023-08-04,QQQ,-1,alpha_td_rei
 2023-08-04,SPY,-1,alpha_td_rei
@@ -21158,7 +21270,6 @@ date,ticker,direction,alpha_name
 2024-01-24,SLV,1,alpha_td_rei
 2024-01-24,SPY,1,alpha_td_rei
 2024-01-24,USO,1,alpha_td_rei
-2024-01-24,UUP,1,alpha_td_rei
 2024-01-24,VNQ,1,alpha_td_rei
 2024-01-24,XLF,1,alpha_td_rei
 2024-01-25,EEM,1,alpha_td_rei
@@ -21500,7 +21611,7 @@ date,ticker,direction,alpha_name
 2024-03-13,UUP,-1,alpha_td_rei
 2024-03-13,VNQ,1,alpha_td_rei
 2024-03-13,XLF,1,alpha_td_rei
-2024-03-14,HYG,-1,alpha_td_rei
+2024-03-14,HYG,1,alpha_td_rei
 2024-03-14,IWM,-1,alpha_td_rei
 2024-03-14,QQQ,-1,alpha_td_rei
 2024-03-14,SLV,-1,alpha_td_rei
@@ -22647,7 +22758,6 @@ date,ticker,direction,alpha_name
 2024-09-18,SPY,1,alpha_td_rei
 2024-09-18,TLT,1,alpha_td_rei
 2024-09-18,USO,1,alpha_td_rei
-2024-09-18,UUP,-1,alpha_td_rei
 2024-09-18,VNQ,1,alpha_td_rei
 2024-09-18,XLE,1,alpha_td_rei
 2024-09-18,XLF,1,alpha_td_rei
@@ -22665,7 +22775,6 @@ date,ticker,direction,alpha_name
 2024-09-20,SLV,1,alpha_td_rei
 2024-09-20,SPY,1,alpha_td_rei
 2024-09-20,USO,1,alpha_td_rei
-2024-09-20,UUP,-1,alpha_td_rei
 2024-09-20,VNQ,1,alpha_td_rei
 2024-09-20,XLE,1,alpha_td_rei
 2024-09-20,XLF,1,alpha_td_rei
@@ -22700,7 +22809,6 @@ date,ticker,direction,alpha_name
 2024-09-26,UUP,-1,alpha_td_rei
 2024-09-26,VNQ,-1,alpha_td_rei
 2024-09-26,XLE,1,alpha_td_rei
-2024-09-26,XLF,1,alpha_td_rei
 2024-09-27,HYG,-1,alpha_td_rei
 2024-09-27,SLV,1,alpha_td_rei
 2024-09-27,SPY,1,alpha_td_rei
@@ -23097,7 +23205,7 @@ date,ticker,direction,alpha_name
 2024-12-02,XLE,-1,alpha_td_rei
 2024-12-02,XLF,-1,alpha_td_rei
 2024-12-03,HYG,1,alpha_td_rei
-2024-12-03,TLT,-1,alpha_td_rei
+2024-12-03,TLT,1,alpha_td_rei
 2024-12-03,USO,-1,alpha_td_rei
 2024-12-03,VNQ,1,alpha_td_rei
 2024-12-03,XLE,-1,alpha_td_rei
@@ -23207,7 +23315,7 @@ date,ticker,direction,alpha_name
 2024-12-20,TLT,-1,alpha_td_rei
 2024-12-20,USO,1,alpha_td_rei
 2024-12-23,GLD,-1,alpha_td_rei
-2024-12-23,HYG,-1,alpha_td_rei
+2024-12-23,HYG,1,alpha_td_rei
 2024-12-23,IWM,-1,alpha_td_rei
 2024-12-23,QQQ,-1,alpha_td_rei
 2024-12-23,SPY,-1,alpha_td_rei
@@ -23420,12 +23528,10 @@ date,ticker,direction,alpha_name
 2025-02-10,USO,-1,alpha_td_rei
 2025-02-10,VNQ,1,alpha_td_rei
 2025-02-10,XLE,1,alpha_td_rei
-2025-02-10,XLF,1,alpha_td_rei
 2025-02-11,TLT,-1,alpha_td_rei
 2025-02-11,USO,1,alpha_td_rei
 2025-02-11,VNQ,1,alpha_td_rei
 2025-02-11,XLE,1,alpha_td_rei
-2025-02-11,XLF,1,alpha_td_rei
 2025-02-12,IWM,-1,alpha_td_rei
 2025-02-12,TLT,-1,alpha_td_rei
 2025-02-12,USO,1,alpha_td_rei
@@ -23444,7 +23550,6 @@ date,ticker,direction,alpha_name
 2025-02-14,USO,1,alpha_td_rei
 2025-02-14,VNQ,1,alpha_td_rei
 2025-02-14,XLE,-1,alpha_td_rei
-2025-02-14,XLF,1,alpha_td_rei
 2025-02-18,GLD,1,alpha_td_rei
 2025-02-18,IWM,1,alpha_td_rei
 2025-02-18,QQQ,1,alpha_td_rei
@@ -23452,7 +23557,6 @@ date,ticker,direction,alpha_name
 2025-02-18,USO,1,alpha_td_rei
 2025-02-18,VNQ,1,alpha_td_rei
 2025-02-18,XLE,-1,alpha_td_rei
-2025-02-18,XLF,1,alpha_td_rei
 2025-02-19,GLD,1,alpha_td_rei
 2025-02-19,IWM,1,alpha_td_rei
 2025-02-19,QQQ,1,alpha_td_rei
@@ -23460,7 +23564,6 @@ date,ticker,direction,alpha_name
 2025-02-19,USO,1,alpha_td_rei
 2025-02-19,VNQ,1,alpha_td_rei
 2025-02-19,XLE,-1,alpha_td_rei
-2025-02-19,XLF,1,alpha_td_rei
 2025-02-20,GLD,1,alpha_td_rei
 2025-02-20,IWM,1,alpha_td_rei
 2025-02-20,QQQ,1,alpha_td_rei
@@ -23469,7 +23572,6 @@ date,ticker,direction,alpha_name
 2025-02-20,USO,1,alpha_td_rei
 2025-02-20,VNQ,1,alpha_td_rei
 2025-02-20,XLE,1,alpha_td_rei
-2025-02-20,XLF,1,alpha_td_rei
 2025-02-21,GLD,1,alpha_td_rei
 2025-02-21,HYG,1,alpha_td_rei
 2025-02-21,IWM,1,alpha_td_rei
@@ -23507,7 +23609,7 @@ date,ticker,direction,alpha_name
 2025-02-26,USO,-1,alpha_td_rei
 2025-02-26,VNQ,1,alpha_td_rei
 2025-02-26,XLE,-1,alpha_td_rei
-2025-02-26,XLF,1,alpha_td_rei
+2025-02-26,XLF,-1,alpha_td_rei
 2025-02-27,GLD,-1,alpha_td_rei
 2025-02-27,HYG,1,alpha_td_rei
 2025-02-27,IWM,-1,alpha_td_rei
@@ -23547,7 +23649,6 @@ date,ticker,direction,alpha_name
 2025-03-04,USO,-1,alpha_td_rei
 2025-03-04,VNQ,1,alpha_td_rei
 2025-03-04,XLE,-1,alpha_td_rei
-2025-03-04,XLF,1,alpha_td_rei
 2025-03-05,GLD,1,alpha_td_rei
 2025-03-05,IWM,-1,alpha_td_rei
 2025-03-05,QQQ,-1,alpha_td_rei
@@ -23564,7 +23665,6 @@ date,ticker,direction,alpha_name
 2025-03-06,USO,-1,alpha_td_rei
 2025-03-06,VNQ,1,alpha_td_rei
 2025-03-06,XLE,-1,alpha_td_rei
-2025-03-06,XLF,1,alpha_td_rei
 2025-03-07,GLD,1,alpha_td_rei
 2025-03-07,IWM,-1,alpha_td_rei
 2025-03-07,SPY,-1,alpha_td_rei
@@ -23572,7 +23672,6 @@ date,ticker,direction,alpha_name
 2025-03-07,USO,1,alpha_td_rei
 2025-03-07,VNQ,-1,alpha_td_rei
 2025-03-07,XLE,-1,alpha_td_rei
-2025-03-07,XLF,1,alpha_td_rei
 2025-03-10,GLD,1,alpha_td_rei
 2025-03-10,IWM,-1,alpha_td_rei
 2025-03-10,SPY,-1,alpha_td_rei
@@ -23580,7 +23679,6 @@ date,ticker,direction,alpha_name
 2025-03-10,USO,1,alpha_td_rei
 2025-03-10,VNQ,-1,alpha_td_rei
 2025-03-10,XLE,1,alpha_td_rei
-2025-03-10,XLF,1,alpha_td_rei
 2025-03-11,GLD,1,alpha_td_rei
 2025-03-11,HYG,-1,alpha_td_rei
 2025-03-11,IWM,-1,alpha_td_rei
@@ -23589,7 +23687,6 @@ date,ticker,direction,alpha_name
 2025-03-11,USO,1,alpha_td_rei
 2025-03-11,VNQ,-1,alpha_td_rei
 2025-03-11,XLE,1,alpha_td_rei
-2025-03-11,XLF,1,alpha_td_rei
 2025-03-12,GLD,1,alpha_td_rei
 2025-03-12,HYG,-1,alpha_td_rei
 2025-03-12,IWM,-1,alpha_td_rei
@@ -23598,7 +23695,6 @@ date,ticker,direction,alpha_name
 2025-03-12,USO,-1,alpha_td_rei
 2025-03-12,VNQ,-1,alpha_td_rei
 2025-03-12,XLE,1,alpha_td_rei
-2025-03-12,XLF,1,alpha_td_rei
 2025-03-13,GLD,1,alpha_td_rei
 2025-03-13,HYG,-1,alpha_td_rei
 2025-03-13,IWM,-1,alpha_td_rei
@@ -23624,7 +23720,6 @@ date,ticker,direction,alpha_name
 2025-03-17,USO,-1,alpha_td_rei
 2025-03-17,VNQ,-1,alpha_td_rei
 2025-03-17,XLE,1,alpha_td_rei
-2025-03-17,XLF,1,alpha_td_rei
 2025-03-18,GLD,1,alpha_td_rei
 2025-03-18,HYG,-1,alpha_td_rei
 2025-03-18,IWM,1,alpha_td_rei
@@ -23634,7 +23729,6 @@ date,ticker,direction,alpha_name
 2025-03-18,USO,-1,alpha_td_rei
 2025-03-18,VNQ,-1,alpha_td_rei
 2025-03-18,XLE,1,alpha_td_rei
-2025-03-18,XLF,1,alpha_td_rei
 2025-03-19,GLD,1,alpha_td_rei
 2025-03-19,HYG,1,alpha_td_rei
 2025-03-19,IWM,1,alpha_td_rei
@@ -23644,7 +23738,6 @@ date,ticker,direction,alpha_name
 2025-03-19,USO,-1,alpha_td_rei
 2025-03-19,VNQ,1,alpha_td_rei
 2025-03-19,XLE,1,alpha_td_rei
-2025-03-19,XLF,1,alpha_td_rei
 2025-03-20,GLD,1,alpha_td_rei
 2025-03-20,HYG,1,alpha_td_rei
 2025-03-20,IWM,1,alpha_td_rei
@@ -23654,7 +23747,6 @@ date,ticker,direction,alpha_name
 2025-03-20,USO,-1,alpha_td_rei
 2025-03-20,VNQ,1,alpha_td_rei
 2025-03-20,XLE,1,alpha_td_rei
-2025-03-20,XLF,1,alpha_td_rei
 2025-03-21,GLD,1,alpha_td_rei
 2025-03-21,HYG,1,alpha_td_rei
 2025-03-21,IWM,1,alpha_td_rei
@@ -23665,7 +23757,6 @@ date,ticker,direction,alpha_name
 2025-03-21,UUP,1,alpha_td_rei
 2025-03-21,VNQ,1,alpha_td_rei
 2025-03-21,XLE,1,alpha_td_rei
-2025-03-21,XLF,1,alpha_td_rei
 2025-03-24,GLD,1,alpha_td_rei
 2025-03-24,HYG,1,alpha_td_rei
 2025-03-24,IWM,1,alpha_td_rei
@@ -24235,7 +24326,7 @@ date,ticker,direction,alpha_name
 2025-06-18,SPY,-1,alpha_td_rei
 2025-06-18,UUP,1,alpha_td_rei
 2025-06-18,VNQ,-1,alpha_td_rei
-2025-06-18,XLF,-1,alpha_td_rei
+2025-06-18,XLF,1,alpha_td_rei
 2025-06-20,GLD,1,alpha_td_rei
 2025-06-20,HYG,1,alpha_td_rei
 2025-06-20,IWM,-1,alpha_td_rei
@@ -24418,7 +24509,7 @@ date,ticker,direction,alpha_name
 2025-07-18,USO,-1,alpha_td_rei
 2025-07-18,VNQ,-1,alpha_td_rei
 2025-07-18,XLF,-1,alpha_td_rei
-2025-07-21,HYG,-1,alpha_td_rei
+2025-07-21,HYG,1,alpha_td_rei
 2025-07-21,IWM,-1,alpha_td_rei
 2025-07-21,QQQ,1,alpha_td_rei
 2025-07-21,SLV,1,alpha_td_rei
@@ -24426,7 +24517,7 @@ date,ticker,direction,alpha_name
 2025-07-21,USO,1,alpha_td_rei
 2025-07-21,VNQ,1,alpha_td_rei
 2025-07-21,XLF,-1,alpha_td_rei
-2025-07-22,HYG,-1,alpha_td_rei
+2025-07-22,HYG,1,alpha_td_rei
 2025-07-22,IWM,-1,alpha_td_rei
 2025-07-22,QQQ,1,alpha_td_rei
 2025-07-22,SLV,1,alpha_td_rei
@@ -24453,7 +24544,7 @@ date,ticker,direction,alpha_name
 2025-07-24,UUP,-1,alpha_td_rei
 2025-07-24,VNQ,1,alpha_td_rei
 2025-07-24,XLF,1,alpha_td_rei
-2025-07-25,HYG,-1,alpha_td_rei
+2025-07-25,HYG,1,alpha_td_rei
 2025-07-25,IWM,1,alpha_td_rei
 2025-07-25,QQQ,-1,alpha_td_rei
 2025-07-25,SLV,1,alpha_td_rei
@@ -24462,7 +24553,7 @@ date,ticker,direction,alpha_name
 2025-07-25,UUP,-1,alpha_td_rei
 2025-07-25,VNQ,1,alpha_td_rei
 2025-07-25,XLF,1,alpha_td_rei
-2025-07-28,HYG,-1,alpha_td_rei
+2025-07-28,HYG,1,alpha_td_rei
 2025-07-28,IWM,1,alpha_td_rei
 2025-07-28,QQQ,1,alpha_td_rei
 2025-07-28,SLV,1,alpha_td_rei
@@ -25560,7 +25651,6 @@ date,ticker,direction,alpha_name
 2025-12-19,IWM,-1,alpha_td_rei
 2025-12-19,QQQ,-1,alpha_td_rei
 2025-12-19,SPY,-1,alpha_td_rei
-2025-12-19,TLT,1,alpha_td_rei
 2025-12-19,USO,-1,alpha_td_rei
 2025-12-19,UUP,1,alpha_td_rei
 2025-12-19,VNQ,-1,alpha_td_rei
@@ -25572,7 +25662,6 @@ date,ticker,direction,alpha_name
 2025-12-22,IWM,-1,alpha_td_rei
 2025-12-22,QQQ,1,alpha_td_rei
 2025-12-22,SPY,1,alpha_td_rei
-2025-12-22,TLT,1,alpha_td_rei
 2025-12-22,USO,-1,alpha_td_rei
 2025-12-22,UUP,1,alpha_td_rei
 2025-12-22,VNQ,-1,alpha_td_rei
@@ -25584,7 +25673,6 @@ date,ticker,direction,alpha_name
 2025-12-23,IWM,-1,alpha_td_rei
 2025-12-23,QQQ,1,alpha_td_rei
 2025-12-23,SPY,1,alpha_td_rei
-2025-12-23,TLT,1,alpha_td_rei
 2025-12-23,UUP,1,alpha_td_rei
 2025-12-23,VNQ,-1,alpha_td_rei
 2025-12-23,XLE,-1,alpha_td_rei
@@ -25657,7 +25745,7 @@ date,ticker,direction,alpha_name
 2026-01-05,VNQ,-1,alpha_td_rei
 2026-01-05,XLE,1,alpha_td_rei
 2026-01-05,XLF,1,alpha_td_rei
-2026-01-06,HYG,1,alpha_td_rei
+2026-01-06,HYG,-1,alpha_td_rei
 2026-01-06,IWM,1,alpha_td_rei
 2026-01-06,SLV,1,alpha_td_rei
 2026-01-06,SPY,1,alpha_td_rei
@@ -25666,7 +25754,7 @@ date,ticker,direction,alpha_name
 2026-01-06,VNQ,1,alpha_td_rei
 2026-01-06,XLE,1,alpha_td_rei
 2026-01-06,XLF,1,alpha_td_rei
-2026-01-07,HYG,1,alpha_td_rei
+2026-01-07,HYG,-1,alpha_td_rei
 2026-01-07,IWM,1,alpha_td_rei
 2026-01-07,SLV,1,alpha_td_rei
 2026-01-07,SPY,1,alpha_td_rei
@@ -25675,7 +25763,7 @@ date,ticker,direction,alpha_name
 2026-01-07,VNQ,1,alpha_td_rei
 2026-01-07,XLE,1,alpha_td_rei
 2026-01-07,XLF,1,alpha_td_rei
-2026-01-08,HYG,1,alpha_td_rei
+2026-01-08,HYG,-1,alpha_td_rei
 2026-01-08,IWM,1,alpha_td_rei
 2026-01-08,SLV,1,alpha_td_rei
 2026-01-08,SPY,1,alpha_td_rei
@@ -25684,7 +25772,7 @@ date,ticker,direction,alpha_name
 2026-01-08,VNQ,1,alpha_td_rei
 2026-01-08,XLE,-1,alpha_td_rei
 2026-01-08,XLF,1,alpha_td_rei
-2026-01-09,HYG,1,alpha_td_rei
+2026-01-09,HYG,-1,alpha_td_rei
 2026-01-09,IWM,1,alpha_td_rei
 2026-01-09,SLV,1,alpha_td_rei
 2026-01-09,SPY,1,alpha_td_rei
@@ -25693,7 +25781,7 @@ date,ticker,direction,alpha_name
 2026-01-09,VNQ,1,alpha_td_rei
 2026-01-09,XLE,-1,alpha_td_rei
 2026-01-09,XLF,1,alpha_td_rei
-2026-01-12,HYG,1,alpha_td_rei
+2026-01-12,HYG,-1,alpha_td_rei
 2026-01-12,IWM,1,alpha_td_rei
 2026-01-12,SLV,1,alpha_td_rei
 2026-01-12,SPY,1,alpha_td_rei
@@ -26348,7 +26436,6 @@ date,ticker,direction,alpha_name
 2026-04-09,XLF,1,alpha_td_rei
 2026-04-10,EEM,1,alpha_td_rei
 2026-04-10,GLD,1,alpha_td_rei
-2026-04-10,HYG,1,alpha_td_rei
 2026-04-10,QQQ,1,alpha_td_rei
 2026-04-10,SLV,1,alpha_td_rei
 2026-04-10,SPY,1,alpha_td_rei
@@ -26359,7 +26446,6 @@ date,ticker,direction,alpha_name
 2026-04-10,XLF,1,alpha_td_rei
 2026-04-13,EEM,1,alpha_td_rei
 2026-04-13,GLD,1,alpha_td_rei
-2026-04-13,HYG,1,alpha_td_rei
 2026-04-13,QQQ,1,alpha_td_rei
 2026-04-13,SLV,1,alpha_td_rei
 2026-04-13,SPY,1,alpha_td_rei
@@ -26389,26 +26475,22 @@ date,ticker,direction,alpha_name
 2026-04-15,XLE,-1,alpha_td_rei
 2026-04-15,XLF,1,alpha_td_rei
 2026-04-16,GLD,1,alpha_td_rei
-2026-04-16,HYG,1,alpha_td_rei
 2026-04-16,SLV,1,alpha_td_rei
 2026-04-16,TLT,1,alpha_td_rei
 2026-04-16,USO,-1,alpha_td_rei
 2026-04-16,UUP,1,alpha_td_rei
 2026-04-16,XLE,-1,alpha_td_rei
 2026-04-17,GLD,1,alpha_td_rei
-2026-04-17,HYG,1,alpha_td_rei
 2026-04-17,SLV,1,alpha_td_rei
 2026-04-17,TLT,1,alpha_td_rei
 2026-04-17,USO,-1,alpha_td_rei
 2026-04-17,XLE,-1,alpha_td_rei
 2026-04-20,GLD,1,alpha_td_rei
-2026-04-20,HYG,1,alpha_td_rei
 2026-04-20,SLV,1,alpha_td_rei
 2026-04-20,TLT,1,alpha_td_rei
 2026-04-20,USO,-1,alpha_td_rei
 2026-04-20,XLE,-1,alpha_td_rei
 2026-04-21,GLD,1,alpha_td_rei
-2026-04-21,HYG,1,alpha_td_rei
 2026-04-21,SLV,1,alpha_td_rei
 2026-04-21,TLT,1,alpha_td_rei
 2026-04-21,USO,-1,alpha_td_rei
@@ -26416,14 +26498,12 @@ date,ticker,direction,alpha_name
 2026-04-21,XLE,-1,alpha_td_rei
 2026-04-22,EEM,-1,alpha_td_rei
 2026-04-22,GLD,-1,alpha_td_rei
-2026-04-22,HYG,1,alpha_td_rei
 2026-04-22,TLT,-1,alpha_td_rei
 2026-04-22,USO,1,alpha_td_rei
 2026-04-22,UUP,-1,alpha_td_rei
 2026-04-22,XLE,-1,alpha_td_rei
 2026-04-23,EEM,-1,alpha_td_rei
 2026-04-23,GLD,-1,alpha_td_rei
-2026-04-23,HYG,1,alpha_td_rei
 2026-04-23,TLT,1,alpha_td_rei
 2026-04-23,USO,1,alpha_td_rei
 2026-04-23,UUP,-1,alpha_td_rei
@@ -26492,7 +26572,6 @@ date,ticker,direction,alpha_name
 2026-05-01,XLE,1,alpha_td_rei
 2026-05-01,XLF,-1,alpha_td_rei
 2026-05-04,EEM,1,alpha_td_rei
-2026-05-04,HYG,1,alpha_td_rei
 2026-05-04,SLV,1,alpha_td_rei
 2026-05-04,SPY,1,alpha_td_rei
 2026-05-04,TLT,1,alpha_td_rei
@@ -26501,7 +26580,6 @@ date,ticker,direction,alpha_name
 2026-05-04,XLE,1,alpha_td_rei
 2026-05-04,XLF,-1,alpha_td_rei
 2026-05-05,EEM,1,alpha_td_rei
-2026-05-05,HYG,1,alpha_td_rei
 2026-05-05,IWM,1,alpha_td_rei
 2026-05-05,SLV,1,alpha_td_rei
 2026-05-05,SPY,1,alpha_td_rei
@@ -26511,7 +26589,6 @@ date,ticker,direction,alpha_name
 2026-05-05,XLF,-1,alpha_td_rei
 2026-05-06,EEM,1,alpha_td_rei
 2026-05-06,GLD,-1,alpha_td_rei
-2026-05-06,HYG,1,alpha_td_rei
 2026-05-06,IWM,1,alpha_td_rei
 2026-05-06,SLV,1,alpha_td_rei
 2026-05-06,SPY,1,alpha_td_rei
@@ -26519,7 +26596,6 @@ date,ticker,direction,alpha_name
 2026-05-06,XLF,1,alpha_td_rei
 2026-05-07,EEM,1,alpha_td_rei
 2026-05-07,GLD,-1,alpha_td_rei
-2026-05-07,HYG,1,alpha_td_rei
 2026-05-07,IWM,1,alpha_td_rei
 2026-05-07,SLV,1,alpha_td_rei
 2026-05-07,SPY,1,alpha_td_rei
@@ -26527,7 +26603,6 @@ date,ticker,direction,alpha_name
 2026-05-07,XLF,1,alpha_td_rei
 2026-05-08,EEM,1,alpha_td_rei
 2026-05-08,GLD,-1,alpha_td_rei
-2026-05-08,HYG,1,alpha_td_rei
 2026-05-08,IWM,1,alpha_td_rei
 2026-05-08,SLV,1,alpha_td_rei
 2026-05-08,SPY,1,alpha_td_rei
@@ -26536,7 +26611,6 @@ date,ticker,direction,alpha_name
 2026-05-08,XLF,1,alpha_td_rei
 2026-05-11,EEM,1,alpha_td_rei
 2026-05-11,GLD,-1,alpha_td_rei
-2026-05-11,HYG,1,alpha_td_rei
 2026-05-11,IWM,1,alpha_td_rei
 2026-05-11,SLV,1,alpha_td_rei
 2026-05-11,SPY,1,alpha_td_rei
@@ -26545,7 +26619,6 @@ date,ticker,direction,alpha_name
 2026-05-11,XLF,1,alpha_td_rei
 2026-05-12,EEM,1,alpha_td_rei
 2026-05-12,GLD,-1,alpha_td_rei
-2026-05-12,HYG,1,alpha_td_rei
 2026-05-12,IWM,1,alpha_td_rei
 2026-05-12,SLV,1,alpha_td_rei
 2026-05-12,SPY,1,alpha_td_rei
@@ -26554,7 +26627,7 @@ date,ticker,direction,alpha_name
 2026-05-12,XLF,1,alpha_td_rei
 2026-05-13,EEM,1,alpha_td_rei
 2026-05-13,GLD,-1,alpha_td_rei
-2026-05-13,HYG,1,alpha_td_rei
+2026-05-13,HYG,-1,alpha_td_rei
 2026-05-13,IWM,1,alpha_td_rei
 2026-05-13,SLV,1,alpha_td_rei
 2026-05-13,SPY,1,alpha_td_rei
@@ -26572,7 +26645,7 @@ date,ticker,direction,alpha_name
 2026-05-14,XLF,1,alpha_td_rei
 2026-05-15,EEM,-1,alpha_td_rei
 2026-05-15,GLD,-1,alpha_td_rei
-2026-05-15,HYG,1,alpha_td_rei
+2026-05-15,HYG,-1,alpha_td_rei
 2026-05-15,IWM,-1,alpha_td_rei
 2026-05-15,TLT,-1,alpha_td_rei
 2026-05-15,USO,1,alpha_td_rei
@@ -26581,7 +26654,7 @@ date,ticker,direction,alpha_name
 2026-05-15,XLF,1,alpha_td_rei
 2026-05-18,EEM,-1,alpha_td_rei
 2026-05-18,GLD,-1,alpha_td_rei
-2026-05-18,HYG,1,alpha_td_rei
+2026-05-18,HYG,-1,alpha_td_rei
 2026-05-18,IWM,-1,alpha_td_rei
 2026-05-18,QQQ,-1,alpha_td_rei
 2026-05-18,SPY,1,alpha_td_rei
@@ -26591,7 +26664,7 @@ date,ticker,direction,alpha_name
 2026-05-18,XLF,1,alpha_td_rei
 2026-05-19,EEM,-1,alpha_td_rei
 2026-05-19,GLD,-1,alpha_td_rei
-2026-05-19,HYG,1,alpha_td_rei
+2026-05-19,HYG,-1,alpha_td_rei
 2026-05-19,IWM,-1,alpha_td_rei
 2026-05-19,QQQ,-1,alpha_td_rei
 2026-05-19,SPY,-1,alpha_td_rei
@@ -26601,7 +26674,7 @@ date,ticker,direction,alpha_name
 2026-05-19,XLF,1,alpha_td_rei
 2026-05-20,EEM,-1,alpha_td_rei
 2026-05-20,GLD,-1,alpha_td_rei
-2026-05-20,HYG,1,alpha_td_rei
+2026-05-20,HYG,-1,alpha_td_rei
 2026-05-20,IWM,-1,alpha_td_rei
 2026-05-20,QQQ,-1,alpha_td_rei
 2026-05-20,SPY,-1,alpha_td_rei
@@ -26612,7 +26685,7 @@ date,ticker,direction,alpha_name
 2026-05-20,XLF,1,alpha_td_rei
 2026-05-21,EEM,-1,alpha_td_rei
 2026-05-21,GLD,-1,alpha_td_rei
-2026-05-21,HYG,1,alpha_td_rei
+2026-05-21,HYG,-1,alpha_td_rei
 2026-05-21,IWM,-1,alpha_td_rei
 2026-05-21,QQQ,-1,alpha_td_rei
 2026-05-21,SPY,-1,alpha_td_rei
@@ -26622,7 +26695,6 @@ date,ticker,direction,alpha_name
 2026-05-21,XLF,1,alpha_td_rei
 2026-05-22,EEM,-1,alpha_td_rei
 2026-05-22,GLD,-1,alpha_td_rei
-2026-05-22,HYG,1,alpha_td_rei
 2026-05-22,IWM,1,alpha_td_rei
 2026-05-22,QQQ,-1,alpha_td_rei
 2026-05-22,SPY,-1,alpha_td_rei
@@ -26632,7 +26704,6 @@ date,ticker,direction,alpha_name
 2026-05-22,XLF,1,alpha_td_rei
 2026-05-26,EEM,1,alpha_td_rei
 2026-05-26,GLD,-1,alpha_td_rei
-2026-05-26,HYG,1,alpha_td_rei
 2026-05-26,IWM,1,alpha_td_rei
 2026-05-26,QQQ,-1,alpha_td_rei
 2026-05-26,SLV,1,alpha_td_rei
@@ -26642,7 +26713,6 @@ date,ticker,direction,alpha_name
 2026-05-26,XLF,1,alpha_td_rei
 2026-05-27,EEM,1,alpha_td_rei
 2026-05-27,GLD,-1,alpha_td_rei
-2026-05-27,HYG,1,alpha_td_rei
 2026-05-27,IWM,1,alpha_td_rei
 2026-05-27,QQQ,-1,alpha_td_rei
 2026-05-27,SLV,1,alpha_td_rei
@@ -26651,7 +26721,6 @@ date,ticker,direction,alpha_name
 2026-05-27,XLE,-1,alpha_td_rei
 2026-05-27,XLF,1,alpha_td_rei
 2026-05-28,GLD,-1,alpha_td_rei
-2026-05-28,HYG,1,alpha_td_rei
 2026-05-28,IWM,1,alpha_td_rei
 2026-05-28,QQQ,-1,alpha_td_rei
 2026-05-28,SPY,-1,alpha_td_rei
@@ -26660,7 +26729,6 @@ date,ticker,direction,alpha_name
 2026-05-28,XLE,-1,alpha_td_rei
 2026-05-28,XLF,1,alpha_td_rei
 2026-05-29,GLD,-1,alpha_td_rei
-2026-05-29,HYG,1,alpha_td_rei
 2026-05-29,IWM,1,alpha_td_rei
 2026-05-29,QQQ,-1,alpha_td_rei
 2026-05-29,SPY,-1,alpha_td_rei
@@ -26669,7 +26737,6 @@ date,ticker,direction,alpha_name
 2026-05-29,XLE,-1,alpha_td_rei
 2026-05-29,XLF,-1,alpha_td_rei
 2026-06-01,GLD,1,alpha_td_rei
-2026-06-01,HYG,1,alpha_td_rei
 2026-06-01,IWM,1,alpha_td_rei
 2026-06-01,QQQ,1,alpha_td_rei
 2026-06-01,SPY,1,alpha_td_rei
@@ -26678,7 +26745,6 @@ date,ticker,direction,alpha_name
 2026-06-01,XLE,-1,alpha_td_rei
 2026-06-01,XLF,-1,alpha_td_rei
 2026-06-02,GLD,1,alpha_td_rei
-2026-06-02,HYG,1,alpha_td_rei
 2026-06-02,IWM,1,alpha_td_rei
 2026-06-02,QQQ,1,alpha_td_rei
 2026-06-02,SPY,1,alpha_td_rei
@@ -26687,7 +26753,6 @@ date,ticker,direction,alpha_name
 2026-06-02,XLE,-1,alpha_td_rei
 2026-06-02,XLF,-1,alpha_td_rei
 2026-06-03,GLD,1,alpha_td_rei
-2026-06-03,HYG,1,alpha_td_rei
 2026-06-03,IWM,1,alpha_td_rei
 2026-06-03,QQQ,1,alpha_td_rei
 2026-06-03,SPY,1,alpha_td_rei
@@ -26817,7 +26882,6 @@ date,ticker,direction,alpha_name
 2026-06-18,XLE,-1,alpha_td_rei
 2026-06-18,XLF,1,alpha_td_rei
 2026-06-22,GLD,1,alpha_td_rei
-2026-06-22,HYG,1,alpha_td_rei
 2026-06-22,IWM,1,alpha_td_rei
 2026-06-22,QQQ,1,alpha_td_rei
 2026-06-22,SLV,-1,alpha_td_rei
@@ -26829,7 +26893,6 @@ date,ticker,direction,alpha_name
 2026-06-22,XLE,-1,alpha_td_rei
 2026-06-22,XLF,1,alpha_td_rei
 2026-06-23,GLD,1,alpha_td_rei
-2026-06-23,HYG,1,alpha_td_rei
 2026-06-23,IWM,1,alpha_td_rei
 2026-06-23,QQQ,1,alpha_td_rei
 2026-06-23,SLV,-1,alpha_td_rei
@@ -26841,7 +26904,6 @@ date,ticker,direction,alpha_name
 2026-06-23,XLE,-1,alpha_td_rei
 2026-06-23,XLF,1,alpha_td_rei
 2026-06-24,GLD,1,alpha_td_rei
-2026-06-24,HYG,1,alpha_td_rei
 2026-06-24,IWM,1,alpha_td_rei
 2026-06-24,QQQ,1,alpha_td_rei
 2026-06-24,SLV,-1,alpha_td_rei
@@ -26890,7 +26952,6 @@ date,ticker,direction,alpha_name
 2026-06-30,XLE,1,alpha_td_rei
 2026-06-30,XLF,-1,alpha_td_rei
 2026-07-01,GLD,-1,alpha_td_rei
-2026-07-01,HYG,1,alpha_td_rei
 2026-07-01,IWM,1,alpha_td_rei
 2026-07-01,QQQ,-1,alpha_td_rei
 2026-07-01,SLV,-1,alpha_td_rei
@@ -26900,7 +26961,6 @@ date,ticker,direction,alpha_name
 2026-07-01,XLE,-1,alpha_td_rei
 2026-07-01,XLF,-1,alpha_td_rei
 2026-07-02,GLD,-1,alpha_td_rei
-2026-07-02,HYG,1,alpha_td_rei
 2026-07-02,IWM,1,alpha_td_rei
 2026-07-02,QQQ,-1,alpha_td_rei
 2026-07-02,SLV,-1,alpha_td_rei
@@ -26910,7 +26970,6 @@ date,ticker,direction,alpha_name
 2026-07-02,XLE,-1,alpha_td_rei
 2026-07-02,XLF,1,alpha_td_rei
 2026-07-06,GLD,1,alpha_td_rei
-2026-07-06,HYG,1,alpha_td_rei
 2026-07-06,IWM,1,alpha_td_rei
 2026-07-06,QQQ,-1,alpha_td_rei
 2026-07-06,SLV,1,alpha_td_rei
@@ -26920,7 +26979,6 @@ date,ticker,direction,alpha_name
 2026-07-06,XLE,-1,alpha_td_rei
 2026-07-06,XLF,1,alpha_td_rei
 2026-07-07,GLD,1,alpha_td_rei
-2026-07-07,HYG,1,alpha_td_rei
 2026-07-07,IWM,1,alpha_td_rei
 2026-07-07,QQQ,-1,alpha_td_rei
 2026-07-07,SLV,1,alpha_td_rei
@@ -26931,7 +26989,6 @@ date,ticker,direction,alpha_name
 2026-07-07,XLE,-1,alpha_td_rei
 2026-07-07,XLF,1,alpha_td_rei
 2026-07-08,GLD,1,alpha_td_rei
-2026-07-08,HYG,1,alpha_td_rei
 2026-07-08,IWM,1,alpha_td_rei
 2026-07-08,QQQ,-1,alpha_td_rei
 2026-07-08,SLV,1,alpha_td_rei
@@ -26967,7 +27024,6 @@ date,ticker,direction,alpha_name
 2026-07-10,XLF,-1,alpha_td_rei
 2026-07-13,EEM,1,alpha_td_rei
 2026-07-13,GLD,-1,alpha_td_rei
-2026-07-13,HYG,1,alpha_td_rei
 2026-07-13,IWM,1,alpha_td_rei
 2026-07-13,QQQ,-1,alpha_td_rei
 2026-07-13,SLV,1,alpha_td_rei
@@ -27011,7 +27067,6 @@ date,ticker,direction,alpha_name
 2026-07-16,XLF,1,alpha_td_rei
 2026-07-17,EEM,1,alpha_td_rei
 2026-07-17,GLD,-1,alpha_td_rei
-2026-07-17,HYG,1,alpha_td_rei
 2026-07-17,IWM,1,alpha_td_rei
 2026-07-17,QQQ,1,alpha_td_rei
 2026-07-17,SLV,-1,alpha_td_rei
@@ -27023,7 +27078,6 @@ date,ticker,direction,alpha_name
 2026-07-17,XLF,1,alpha_td_rei
 2026-07-20,EEM,1,alpha_td_rei
 2026-07-20,GLD,-1,alpha_td_rei
-2026-07-20,HYG,1,alpha_td_rei
 2026-07-20,IWM,1,alpha_td_rei
 2026-07-20,QQQ,1,alpha_td_rei
 2026-07-20,SLV,-1,alpha_td_rei
@@ -27034,7 +27088,6 @@ date,ticker,direction,alpha_name
 2026-07-20,XLF,1,alpha_td_rei
 2026-07-21,EEM,1,alpha_td_rei
 2026-07-21,GLD,1,alpha_td_rei
-2026-07-21,HYG,1,alpha_td_rei
 2026-07-21,IWM,1,alpha_td_rei
 2026-07-21,QQQ,1,alpha_td_rei
 2026-07-21,SLV,-1,alpha_td_rei
@@ -27044,7 +27097,6 @@ date,ticker,direction,alpha_name
 2026-07-21,XLF,-1,alpha_td_rei
 2026-07-22,EEM,1,alpha_td_rei
 2026-07-22,GLD,1,alpha_td_rei
-2026-07-22,HYG,1,alpha_td_rei
 2026-07-22,IWM,1,alpha_td_rei
 2026-07-22,QQQ,1,alpha_td_rei
 2026-07-22,SLV,1,alpha_td_rei
@@ -27117,7 +27169,6 @@ date,ticker,direction,alpha_name
 2026-07-30,XLF,-1,alpha_td_rei
 2026-07-31,EEM,1,alpha_td_rei
 2026-07-31,GLD,1,alpha_td_rei
-2026-07-31,HYG,1,alpha_td_rei
 2026-07-31,IWM,-1,alpha_td_rei
 2026-07-31,QQQ,-1,alpha_td_rei
 2026-07-31,SLV,1,alpha_td_rei
@@ -27129,7 +27180,6 @@ date,ticker,direction,alpha_name
 2026-07-31,XLF,-1,alpha_td_rei
 2026-08-03,EEM,1,alpha_td_rei
 2026-08-03,GLD,-1,alpha_td_rei
-2026-08-03,HYG,1,alpha_td_rei
 2026-08-03,IWM,-1,alpha_td_rei
 2026-08-03,QQQ,-1,alpha_td_rei
 2026-08-03,SLV,1,alpha_td_rei
@@ -27141,7 +27191,6 @@ date,ticker,direction,alpha_name
 2026-08-03,XLF,-1,alpha_td_rei
 2026-08-04,EEM,1,alpha_td_rei
 2026-08-04,GLD,-1,alpha_td_rei
-2026-08-04,HYG,1,alpha_td_rei
 2026-08-04,IWM,-1,alpha_td_rei
 2026-08-04,SLV,-1,alpha_td_rei
 2026-08-04,SPY,1,alpha_td_rei
@@ -27152,7 +27201,6 @@ date,ticker,direction,alpha_name
 2026-08-04,XLF,1,alpha_td_rei
 2026-08-05,EEM,1,alpha_td_rei
 2026-08-05,GLD,-1,alpha_td_rei
-2026-08-05,HYG,1,alpha_td_rei
 2026-08-05,IWM,-1,alpha_td_rei
 2026-08-05,SLV,-1,alpha_td_rei
 2026-08-05,SPY,1,alpha_td_rei
@@ -27163,7 +27211,6 @@ date,ticker,direction,alpha_name
 2026-08-05,XLF,1,alpha_td_rei
 2026-08-06,EEM,1,alpha_td_rei
 2026-08-06,GLD,-1,alpha_td_rei
-2026-08-06,HYG,1,alpha_td_rei
 2026-08-06,IWM,1,alpha_td_rei
 2026-08-06,SLV,-1,alpha_td_rei
 2026-08-06,SPY,1,alpha_td_rei
@@ -27174,7 +27221,6 @@ date,ticker,direction,alpha_name
 2026-08-06,XLF,1,alpha_td_rei
 2026-08-07,EEM,1,alpha_td_rei
 2026-08-07,GLD,-1,alpha_td_rei
-2026-08-07,HYG,1,alpha_td_rei
 2026-08-07,IWM,-1,alpha_td_rei
 2026-08-07,SLV,-1,alpha_td_rei
 2026-08-07,SPY,1,alpha_td_rei
@@ -27183,7 +27229,6 @@ date,ticker,direction,alpha_name
 2026-08-07,XLE,-1,alpha_td_rei
 2026-08-10,EEM,1,alpha_td_rei
 2026-08-10,GLD,-1,alpha_td_rei
-2026-08-10,HYG,1,alpha_td_rei
 2026-08-10,IWM,1,alpha_td_rei
 2026-08-10,SLV,-1,alpha_td_rei
 2026-08-10,SPY,1,alpha_td_rei
@@ -27192,7 +27237,6 @@ date,ticker,direction,alpha_name
 2026-08-10,XLE,-1,alpha_td_rei
 2026-08-11,EEM,1,alpha_td_rei
 2026-08-11,GLD,-1,alpha_td_rei
-2026-08-11,HYG,1,alpha_td_rei
 2026-08-11,IWM,1,alpha_td_rei
 2026-08-11,SLV,-1,alpha_td_rei
 2026-08-11,SPY,1,alpha_td_rei
@@ -27228,7 +27272,6 @@ date,ticker,direction,alpha_name
 2026-08-14,XLE,-1,alpha_td_rei
 2026-08-14,XLF,1,alpha_td_rei
 2026-08-17,EEM,1,alpha_td_rei
-2026-08-17,HYG,1,alpha_td_rei
 2026-08-17,IWM,1,alpha_td_rei
 2026-08-17,SPY,-1,alpha_td_rei
 2026-08-17,TLT,1,alpha_td_rei
@@ -27238,7 +27281,6 @@ date,ticker,direction,alpha_name
 2026-08-17,XLF,1,alpha_td_rei
 2026-08-18,EEM,1,alpha_td_rei
 2026-08-18,GLD,1,alpha_td_rei
-2026-08-18,HYG,1,alpha_td_rei
 2026-08-18,IWM,1,alpha_td_rei
 2026-08-18,SLV,1,alpha_td_rei
 2026-08-18,SPY,-1,alpha_td_rei
@@ -27638,7 +27680,6 @@ date,ticker,direction,alpha_name
 2026-10-07,QQQ,1,alpha_td_rei
 2026-10-07,SLV,1,alpha_td_rei
 2026-10-07,SPY,1,alpha_td_rei
-2026-10-07,TLT,-1,alpha_td_rei
 2026-10-07,USO,-1,alpha_td_rei
 2026-10-07,VNQ,-1,alpha_td_rei
 2026-10-07,XLE,1,alpha_td_rei
@@ -27649,7 +27690,6 @@ date,ticker,direction,alpha_name
 2026-10-08,QQQ,1,alpha_td_rei
 2026-10-08,SLV,-1,alpha_td_rei
 2026-10-08,SPY,1,alpha_td_rei
-2026-10-08,TLT,-1,alpha_td_rei
 2026-10-08,USO,-1,alpha_td_rei
 2026-10-08,VNQ,-1,alpha_td_rei
 2026-10-08,XLE,1,alpha_td_rei
@@ -27659,7 +27699,6 @@ date,ticker,direction,alpha_name
 2026-10-09,IWM,-1,alpha_td_rei
 2026-10-09,SLV,-1,alpha_td_rei
 2026-10-09,SPY,1,alpha_td_rei
-2026-10-09,TLT,-1,alpha_td_rei
 2026-10-09,USO,-1,alpha_td_rei
 2026-10-09,VNQ,-1,alpha_td_rei
 2026-10-09,XLE,1,alpha_td_rei
